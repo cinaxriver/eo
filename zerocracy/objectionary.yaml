@@ -2,25 +2,101 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 8.20476971
+  seconds: 167.357925173
   version: 0.42.0
   what: judges-summary
-  when: 2025-05-15 09:05:55.356539102 Z
+  when: 2025-05-15 09:39:21.205552225 Z
 - _id: 1
-  _time: 2025-05-15 09:05:55.344226088 Z
+  _time: 2025-05-15 09:36:44.238890469 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-17 09:05:55.344410564 Z
-  what: quantity-of-deliverables
-  when: 2025-05-15 09:05:55.344373524 Z
+  commit: e3233be03c76e8add7215fd1023ccda9658218ad
+  default_branch: master
+  details: 'A new Git push #24168429986 has arrived to objectionary/news.eolang.org,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 49471345419
+  event_type: PushEvent
+  push_id: 24168429986
+  ref: refs/heads/master
+  repository: 501259435
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-07 18:53:13.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-05-15 09:05:55.347913411 Z
+  _time: 2025-05-15 09:36:44.462410184 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-17 09:05:55.348085153 Z
-  what: quality-of-service
-  when: 2025-05-15 09:05:55.348049536 Z
+  commit: 644d37e0501a7efbc223aab7a7521fd6f07189cb
+  default_branch: master
+  details: 'A new Git push #24132288722 has arrived to objectionary/news.eolang.org,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 49397406061
+  event_type: PushEvent
+  push_id: 24132288722
+  ref: refs/heads/master
+  repository: 501259435
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-06 07:53:07.000000000 Z
+  where: github
+  who: 526301
 - _id: 3
-  _time: 2025-05-15 09:05:55.351351514 Z
+  _time: 2025-05-15 09:36:44.710216060 Z
   _version: 0.10.1/0.42.0/
+  commit: 39672e9fc25dd614cf814b39368dbdb6dd57886e
+  default_branch: master
+  details: 'A new Git push #23811796326 has arrived to objectionary/news.eolang.org,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 48795242483
+  event_type: PushEvent
+  push_id: 23811796326
+  ref: refs/heads/master
+  repository: 501259435
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-04-17 13:46:31.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-05-15 09:36:44.881530982 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/news.eolang.org#79 has been closed by @yegor256.
+  event_id: 48795022123
+  event_type: IssuesEvent
+  issue: 79
+  repository: 501259435
+  what: issue-was-closed
+  when: 2025-04-17 13:41:32.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-05-15 09:38:20.850078558 Z
+  _version: 0.10.1/0.42.0/
+  total_contributors: 88
   what: dimensions-of-terrain
-  when: 2025-05-15 09:05:55.351429902 Z
+  when: 2025-05-15 09:36:45.961612718 Z
+- _id: 6
+  _time: 2025-05-15 09:38:20.855186954 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-17 09:38:20.855292602 Z
+  what: quantity-of-deliverables
+  when: 2025-05-15 09:38:20.855269098 Z
+- _id: 7
+  _time: 2025-05-15 09:39:21.197809383 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-05-15 09:39:21.197993116 Z
+  where: github
+  who: 526301
+- _id: 8
+  _time: 2025-05-15 09:39:21.201260214 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-17 09:39:21.201375048 Z
+  what: quality-of-service
+  when: 2025-05-15 09:39:21.201349380 Z
