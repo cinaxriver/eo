@@ -1,167 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="3866">
+<fb version="0.9.6" size="1139">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API rate limit exceeded for 52.155.62.242. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">8.346358785</seconds>
+    <seconds t="F">73.83335658</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
+    <when t="T">2025-05-22T07:06:54Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
+    <_time t="T">2025-05-22T07:06:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">5df47a95d31fe2b4eeee5f61cad159f17af8b579</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24376106409 has arrived to objectionary/hone-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49872136379</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24376106409</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">840332960</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-19T09:37:30Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-04-24T07:06:54Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-22T07:06:54Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
+    <_time t="T">2025-05-22T07:06:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">ea4fafb4fc357e5bd3c84bfa96a6a862b44eeba4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24168216514 has arrived to objectionary/hone-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49470904426</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24168216514</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">840332960</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-07T18:40:10Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-04-24T07:06:54Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-22T07:06:54Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">18cb827b467920b7dde8a77404894c215634d8a4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24130118226 has arrived to objectionary/hone-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49393064295</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24130118226</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">840332960</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-06T05:27:03Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">c5e0da8c490548220d25b08869fd3bf4f60ef763</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24103070065 has arrived to objectionary/hone-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49341254360</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24103070065</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">840332960</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-04T17:10:41Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/com.jcabi-parent-0.x</branch>
-    <details t="S">The pull request objectionary/hone-maven-plugin#154 has been opened by @renovate[bot].</details>
-    <event_id t="I">49339299185</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">154</issue>
-    <repository t="I">840332960</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-04T14:34:10Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/net.sf.saxon-saxon-he-12.x</branch>
-    <details t="S">The pull request objectionary/hone-maven-plugin#153 has been opened by @renovate[bot].</details>
-    <event_id t="I">49304803015</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">153</issue>
-    <repository t="I">840332960</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-02T15:59:30Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">49876363540</latest>
-    <repository t="I">840332960</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-04-24T06:41:43Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-04-24T06:41:43Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
+    <_time t="T">2025-05-22T07:06:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-05-22T06:41:43Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-05-22T06:41:43Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <when t="T">2025-05-22T07:06:54Z</when>
   </f>
 </fb>
