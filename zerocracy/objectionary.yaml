@@ -2,25 +2,47 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 7.523810061
+  seconds: 10.865365544
   version: 0.42.0
   what: judges-summary
-  when: 2025-05-24 13:11:03.549686562 Z
+  when: 2025-05-24 13:37:43.112589853 Z
 - _id: 1
-  _time: 2025-05-24 13:11:03.543986420 Z
+  _time: 2025-05-24 13:37:42.177280832 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-26 13:11:03.544205599 Z
-  what: quality-of-service
-  when: 2025-05-24 13:11:03.544138354 Z
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  details: The pull request objectionary/sodg-maven-plugin#38 has been opened by @renovate[bot].
+  event_id: 49877244812
+  event_type: PullRequestEvent
+  issue: 38
+  repository: 955159947
+  what: pull-was-opened
+  when: 2025-05-19 11:38:40.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-05-24 13:11:03.546556364 Z
+  _time: 2025-05-24 13:37:43.094505857 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-26 13:11:03.546656451 Z
+  since: 2025-04-26 13:37:43.094680774 Z
   what: quantity-of-deliverables
-  when: 2025-05-24 13:11:03.546633388 Z
+  when: 2025-05-24 13:37:43.094641942 Z
 - _id: 3
-  _time: 2025-05-24 13:11:03.547724072 Z
+  _time: 2025-05-24 13:37:43.097945811 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-26 13:37:43.098124785 Z
+  what: quality-of-service
+  when: 2025-05-24 13:37:43.098085592 Z
+- _id: 4
+  _time: 2025-05-24 13:37:43.105335518 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-05-24 13:37:43.105633073 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2025-05-24 13:37:43.111446418 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-05-24 13:11:03.547798100 Z
+  when: 2025-05-24 13:37:43.111570219 Z
