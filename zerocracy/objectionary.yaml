@@ -2,25 +2,157 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 10.071185731
+  seconds: 154.61142278
   version: 0.42.0
   what: judges-summary
-  when: 2025-05-28 06:07:17.119344429 Z
+  when: 2025-05-28 06:44:26.467891260 Z
 - _id: 1
-  _time: 2025-05-28 06:07:17.105738464 Z
+  _time: 2025-05-28 06:42:28.784271646 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/home#323 has been opened by @renovate[bot].
+  event_id: 50140730167
+  event_type: PullRequestEvent
+  issue: 323
+  repository: 13623548
+  what: pull-was-opened
+  when: 2025-05-26 10:22:06.000000000 Z
+  where: github
+  who: 29139614
+- _id: 2
+  _time: 2025-05-28 06:42:28.954391662 Z
+  _version: 0.10.1/0.42.0/
+  commit: 87839d1a03fae2aeecfd7cb75f52592b96054b5f
+  default_branch: master
+  details: 'A new Git push #24376101601 has arrived to objectionary/home, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49872125604
+  event_type: PushEvent
+  push_id: 24376101601
+  ref: refs/heads/master
+  repository: 13623548
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-19 09:37:15.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-05-28 06:42:33.370639526 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/home#322 has been opened by @volodya-lombrozo.
+  event_id: 49712693987
+  event_type: IssuesEvent
+  issue: 322
+  repository: 13623548
+  what: issue-was-opened
+  when: 2025-05-14 12:57:38.000000000 Z
+  where: github
+  who: 51804353
+- _id: 4
+  _time: 2025-05-28 06:42:33.403733558 Z
+  _version: 0.10.1/0.42.0/
+  commit: f1bcc8102c53d2cd6bfb523e59cb5a4244bb0ac5
+  default_branch: master
+  details: 'A new Git push #24268378898 has arrived to objectionary/home, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49663467295
+  event_type: PushEvent
+  push_id: 24268378898
+  ref: refs/heads/master
+  repository: 13623548
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-13 12:24:09.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-05-28 06:42:33.704281590 Z
+  _version: 0.10.1/0.42.0/
+  commits: 765
+  contributors:
+  - 526301
+  - 33455325
+  - 37025995
+  - 29139614
+  - 8086956
+  - 40247101
+  - 46539785
+  - 51804353
+  - 45946541
+  - 70313618
+  details: A new release 'New release for eo-0.56.2' has been published in objectionary/home
+    by @rultor.
+  event_id: 49609111466
+  event_type: ReleaseEvent
+  hoc: 14079
+  last_commit: 9c9cce88d762bddfc93c19ee2f4f292710705fc3
+  release: 217932022
+  repository: 13623548
+  tag: 0.56.2
+  what: release-published
+  when: 2025-05-12 09:42:14.000000000 Z
+  where: github
+  who: 8086956
+- _id: 6
+  _time: 2025-05-28 06:44:05.360049863 Z
+  _version: 0.10.1/0.42.0/
+  details: A new tag '0.56.2' has been created in objectionary/home by @rultor.
+  event_id: 49609079520
+  event_type: CreateEvent
+  repository: 13623548
+  tag: 0.56.2
+  what: tag-was-created
+  when: 2025-05-12 09:41:28.000000000 Z
+  where: github
+  who: 8086956
+- _id: 7
+  _time: 2025-05-28 06:44:10.139457126 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-30 06:44:10.139580888 Z
+  what: quality-of-service
+  when: 2025-05-28 06:44:10.139555531 Z
+- _id: 8
+  _time: 2025-05-28 06:44:10.145770252 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-30 06:44:10.145883605 Z
+  what: quantity-of-deliverables
+  when: 2025-05-28 06:44:10.145859460 Z
+- _id: 9
+  _time: 2025-05-28 06:44:10.149556978 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-05-28 06:07:17.105892682 Z
-- _id: 2
-  _time: 2025-05-28 06:07:17.109130426 Z
+  when: 2025-05-28 06:44:10.149640544 Z
+- _id: 10
+  _time: 2025-05-28 06:44:22.294117134 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 06:07:17.109269917 Z
-  what: quality-of-service
-  when: 2025-05-28 06:07:17.109236584 Z
-- _id: 3
-  _time: 2025-05-28 06:07:17.117735367 Z
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-05-28 06:44:22.294333460 Z
+  where: github
+  who: 29139614
+- _id: 11
+  _time: 2025-05-28 06:44:22.375860187 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 06:07:17.117834652 Z
-  what: quantity-of-deliverables
-  when: 2025-05-28 06:07:17.117811579 Z
+  name: yegor256
+  what: who-has-name
+  when: 2025-05-28 06:44:22.376040365 Z
+  where: github
+  who: 526301
+- _id: 12
+  _time: 2025-05-28 06:44:26.463116531 Z
+  _version: 0.10.1/0.42.0/
+  name: volodya-lombrozo
+  what: who-has-name
+  when: 2025-05-28 06:44:26.463314983 Z
+  where: github
+  who: 51804353
+- _id: 13
+  _time: 2025-05-28 06:44:26.464942630 Z
+  _version: 0.10.1/0.42.0/
+  name: rultor
+  what: who-has-name
+  when: 2025-05-28 06:44:26.465079376 Z
+  where: github
+  who: 8086956
