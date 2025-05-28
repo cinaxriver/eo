@@ -2,25 +2,46 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 17.949828494
+  seconds: 8.423833063
   version: 0.42.0
   what: judges-summary
-  when: 2025-05-28 10:39:38.182060965 Z
+  when: 2025-05-28 11:05:12.833865566 Z
 - _id: 1
-  _time: 2025-05-28 10:39:38.168877713 Z
+  _time: 2025-05-28 11:05:12.059508531 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 10:39:38.169067960 Z
-  what: quantity-of-deliverables
-  when: 2025-05-28 10:39:38.169030329 Z
+  details: The issue objectionary/objectionary.github.io#1 has been closed by @volodya-lombrozo.
+  event_id: 49663402772
+  event_type: IssuesEvent
+  issue: 1
+  repository: 490157985
+  what: issue-was-closed
+  when: 2025-05-13 12:22:44.000000000 Z
+  where: github
+  who: 51804353
 - _id: 2
-  _time: 2025-05-28 10:39:38.172051043 Z
+  _time: 2025-05-28 11:05:12.821556591 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-30 11:05:12.821678100 Z
+  what: quality-of-service
+  when: 2025-05-28 11:05:12.821652933 Z
+- _id: 3
+  _time: 2025-05-28 11:05:12.823495282 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-05-28 10:39:38.172163002 Z
-- _id: 3
-  _time: 2025-05-28 10:39:38.179556307 Z
+  when: 2025-05-28 11:05:12.823571124 Z
+- _id: 4
+  _time: 2025-05-28 11:05:12.829357834 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 10:39:38.179712420 Z
-  what: quality-of-service
-  when: 2025-05-28 10:39:38.179677644 Z
+  since: 2025-04-30 11:05:12.829455687 Z
+  what: quantity-of-deliverables
+  when: 2025-05-28 11:05:12.829432514 Z
+- _id: 5
+  _time: 2025-05-28 11:05:12.831876723 Z
+  _version: 0.10.1/0.42.0/
+  name: volodya-lombrozo
+  what: who-has-name
+  when: 2025-05-28 11:05:12.832063214 Z
+  where: github
+  who: 51804353

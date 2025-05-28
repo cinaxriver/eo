@@ -1,36 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="791">
+<fb version="0.9.6" size="1389">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">17.949828494</seconds>
+    <seconds t="F">8.423833063</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-28T10:39:38Z</when>
+    <when t="T">2025-05-28T11:05:12Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-28T10:39:38Z</_time>
+    <_time t="T">2025-05-28T11:05:12Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-04-30T10:39:38Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-28T10:39:38Z</when>
+    <details t="S">The issue objectionary/objectionary.github.io#1 has been closed by @volodya-lombrozo.</details>
+    <event_id t="I">49663402772</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">1</issue>
+    <repository t="I">490157985</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2025-05-13T12:22:44Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-28T10:39:38Z</_time>
+    <_time t="T">2025-05-28T11:05:12Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-28T10:39:38Z</when>
+    <since t="T">2025-04-30T11:05:12Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-28T11:05:12Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-28T10:39:38Z</_time>
+    <_time t="T">2025-05-28T11:05:12Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-04-30T10:39:38Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-28T10:39:38Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-28T11:05:12Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-05-28T11:05:12Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-04-30T11:05:12Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-28T11:05:12Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-05-28T11:05:12Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">volodya-lombrozo</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-05-28T11:05:12Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
   </f>
 </fb>
