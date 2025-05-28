@@ -3,24 +3,141 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.731326586
+  seconds: 27.390511587
   version: 0.42.0
   what: judges-summary
-  when: 2025-05-28 21:34:45.105445730 Z
+  when: 2025-05-28 22:05:37.621256613 Z
 - _id: 1
-  _time: 2025-05-28 21:34:45.101388560 Z
+  _time: 2025-05-28 22:05:24.122870553 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 21:34:45.101581861 Z
-  what: quantity-of-deliverables
-  when: 2025-05-28 21:34:45.101543580 Z
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/jucs#38 has been opened by @renovate[bot].
+  event_id: 50147707492
+  event_type: PullRequestEvent
+  issue: 38
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-05-26 13:11:28.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-05-28 21:34:45.102683636 Z
+  _time: 2025-05-28 22:05:24.365802299 Z
+  _version: 0.10.1/0.42.0/
+  commit: 36b05efed56098f6301dec96c73836bbf09259c3
+  default_branch: master
+  details: 'A new Git push #24376344167 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49872649856
+  event_type: PushEvent
+  push_id: 24376344167
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-19 09:48:53.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-05-28 22:05:24.714743447 Z
+  _version: 0.10.1/0.42.0/
+  commit: 152cb4d5a3726a8f403947891e018ff639690c3a
+  default_branch: master
+  details: 'A new Git push #24168369928 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49471222274
+  event_type: PushEvent
+  push_id: 24168369928
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-07 18:49:33.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-05-28 22:05:37.193329479 Z
+  _version: 0.10.1/0.42.0/
+  commit: 818a6080b0e0a588ca515c39d560e48982d18bc0
+  default_branch: master
+  details: 'A new Git push #24131885614 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49396573194
+  event_type: PushEvent
+  push_id: 24131885614
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-06 07:30:13.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-05-28 22:05:37.400431045 Z
+  _version: 0.10.1/0.42.0/
+  commit: 3d85745cf05894dcdbb28e32943589f4d799a6d3
+  default_branch: master
+  details: 'A new Git push #24107971501 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49348854814
+  event_type: PushEvent
+  push_id: 24107971501
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-05 03:54:49.000000000 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2025-05-28 22:05:37.589906194 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/com.jcabi-parent-0.x
+  details: The pull request objectionary/jucs#37 has been opened by @renovate[bot].
+  event_id: 49338700587
+  event_type: PullRequestEvent
+  issue: 37
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-05-04 13:47:41.000000000 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2025-05-28 22:05:37.600206368 Z
+  _version: 0.10.1/0.42.0/
+  latest: 50147707492
+  repository: 574459304
+  what: events-were-scanned
+  where: github
+- _id: 8
+  _time: 2025-05-28 22:05:37.602798183 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-04-30 22:05:37.602899250 Z
+  what: quantity-of-deliverables
+  when: 2025-05-28 22:05:37.602875256 Z
+- _id: 9
+  _time: 2025-05-28 22:05:37.609100596 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-05-28 22:05:37.609241898 Z
+  where: github
+  who: 29139614
+- _id: 10
+  _time: 2025-05-28 22:05:37.611062382 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-05-28 22:05:37.611200739 Z
+  where: github
+  who: 526301
+- _id: 11
+  _time: 2025-05-28 22:05:37.617706161 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-05-28 21:34:45.102785897 Z
-- _id: 3
-  _time: 2025-05-28 21:34:45.104093956 Z
+  when: 2025-05-28 22:05:37.617791339 Z
+- _id: 12
+  _time: 2025-05-28 22:05:37.619759928 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-04-30 21:34:45.104231984 Z
+  since: 2025-04-30 22:05:37.619859613 Z
   what: quality-of-service
-  when: 2025-05-28 21:34:45.104199333 Z
+  when: 2025-05-28 22:05:37.619836330 Z
