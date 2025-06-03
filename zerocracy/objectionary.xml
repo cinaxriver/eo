@@ -1,36 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="791">
+<fb version="0.9.6" size="4086">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.503001429</seconds>
+    <seconds t="F">8.525274991</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-03T21:05:11Z</when>
+    <when t="T">2025-06-03T21:35:29Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-03T21:05:11Z</_time>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-03T21:05:11Z</when>
+    <branch t="S">renovate/yegor256-copyrights-action-0.x</branch>
+    <details t="S">The pull request objectionary/sodg#202 has been opened by @renovate[bot].</details>
+    <event_id t="I">50139972723</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">202</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-26T10:04:04Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-03T21:05:11Z</_time>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-06T21:05:11Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-03T21:05:11Z</when>
+    <commit t="S">490516a429b56b776721187ee001296aa5db0934</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24376627663 has arrived to objectionary/sodg, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49873250069</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">24376627663</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">543969974</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-19T10:02:07Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-03T21:05:11Z</_time>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-06T21:05:11Z</since>
+    <branch t="S">renovate/criterion-0.x</branch>
+    <details t="S">The pull request objectionary/sodg#201 has been opened by @renovate[bot].</details>
+    <event_id t="I">49831053996</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">201</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-17T09:28:00Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">lgrishin-impl-benches</branch>
+    <details t="S">The pull request objectionary/sodg#200 has been opened by @lgrishin.</details>
+    <event_id t="I">49775836823</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">200</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-15T19:08:00Z</when>
+    <where t="S">github</where>
+    <who t="I">59740671</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">renovate/micromap-0.x</branch>
+    <details t="S">The pull request objectionary/sodg#199 has been opened by @renovate[bot].</details>
+    <event_id t="I">49585086525</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">199</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-11T10:22:37Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <commit t="S">f9cb8f7f35c955d9865ac8640e3f4092875977c1</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24175184192 has arrived to objectionary/sodg, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49484441216</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">24175184192</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">543969974</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-08T04:31:01Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <commit t="S">4cd88133f2417bc8c195334abe03a64ba6fa147f</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24167164793 has arrived to objectionary/sodg, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49468760362</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">24167164793</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">543969974</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-07T17:38:27Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <latest t="I">50375016775</latest>
+    <repository t="I">543969974</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-05-06T21:35:29Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-06-03T21:05:11Z</when>
+    <when t="T">2025-06-03T21:35:29Z</when>
+  </f>
+  <f>
+    <_id t="I">10</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-05-06T21:35:29Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-03T21:35:29Z</when>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-03T21:35:29Z</when>
+  </f>
+  <f>
+    <_id t="I">12</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">renovate[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-06-03T21:35:29Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">13</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-06-03T21:35:29Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">14</_id>
+    <_time t="T">2025-06-03T21:35:29Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">lgrishin</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-06-03T21:35:29Z</when>
+    <where t="S">github</where>
+    <who t="I">59740671</who>
   </f>
 </fb>
