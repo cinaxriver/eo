@@ -2,25 +2,47 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 9.720298415
+  seconds: 22.311661431
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-04 02:35:40.107934908 Z
+  when: 2025-06-04 03:26:47.066101083 Z
 - _id: 1
-  _time: 2025-06-04 02:35:40.100921002 Z
+  _time: 2025-06-04 03:26:44.933975077 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-07 02:35:40.101109195 Z
-  what: quality-of-service
-  when: 2025-06-04 02:35:40.101071585 Z
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/eoc#533 has been opened by @renovate[bot].
+  event_id: 50423303248
+  event_type: PullRequestEvent
+  issue: 533
+  repository: 489321585
+  what: pull-was-opened
+  when: 2025-06-02 19:09:51.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-06-04 02:35:40.105629607 Z
+  _time: 2025-06-04 03:26:47.046489319 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-04 02:35:40.105705730 Z
+  when: 2025-06-04 03:26:47.046648826 Z
 - _id: 3
-  _time: 2025-06-04 02:35:40.107006123 Z
+  _time: 2025-06-04 03:26:47.054186704 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-07 02:35:40.107102925 Z
+  since: 2025-05-07 03:26:47.054347333 Z
   what: quantity-of-deliverables
-  when: 2025-06-04 02:35:40.107079822 Z
+  when: 2025-06-04 03:26:47.054308872 Z
+- _id: 4
+  _time: 2025-06-04 03:26:47.061464107 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-06-04 03:26:47.061725183 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2025-06-04 03:26:47.064563940 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-07 03:26:47.064739337 Z
+  what: quality-of-service
+  when: 2025-06-04 03:26:47.064699352 Z
