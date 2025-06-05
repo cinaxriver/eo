@@ -3,111 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.24341512
+  seconds: 10.099509824
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-05 16:06:14.610309393 Z
+  when: 2025-06-05 16:40:43.446259970 Z
 - _id: 1
-  _time: 2025-06-05 16:06:14.118301005 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/eo-phi-normalizer#686 has been opened by
-    @renovate[bot].
-  event_id: 50421902604
-  event_type: PullRequestEvent
-  issue: 686
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-06-02 18:31:19.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-06-05 16:06:14.207555669 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/yegor256-copyrights-action-0.x
-  details: The pull request objectionary/eo-phi-normalizer#685 has been opened by
-    @renovate[bot].
-  event_id: 50139195345
-  event_type: PullRequestEvent
-  issue: 685
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-05-26 09:46:04.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-06-05 16:06:14.224899880 Z
-  _version: 0.10.1/0.42.0/
-  commit: fcb23479b0c155eeff9dfc7fd0c886848e18a622
-  default_branch: master
-  details: 'A new Git push #24375984836 has arrived to objectionary/eo-phi-normalizer,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 49871870046
-  event_type: PushEvent
-  push_id: 24375984836
-  ref: refs/heads/master
-  repository: 731438612
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-05-19 09:31:30.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-06-05 16:06:14.467108784 Z
-  _version: 0.10.1/0.42.0/
-  commit: 4a00ceebfc923da864a35ec28adcaae18f1909a0
-  default_branch: master
-  details: 'A new Git push #24168148942 has arrived to objectionary/eo-phi-normalizer,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 49470761920
-  event_type: PushEvent
-  push_id: 24168148942
-  ref: refs/heads/master
-  repository: 731438612
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-05-07 18:35:56.000000000 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2025-06-05 16:06:14.588851865 Z
-  _version: 0.10.1/0.42.0/
-  latest: 50421902604
-  repository: 731438612
-  what: events-were-scanned
-  where: github
-- _id: 6
-  _time: 2025-06-05 16:06:14.596543131 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-05 16:06:14.596698100 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2025-06-05 16:06:14.597549448 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-06-05 16:06:14.597680332 Z
-  where: github
-  who: 526301
-- _id: 8
-  _time: 2025-06-05 16:06:14.599702744 Z
+  _time: 2025-06-05 16:40:43.437185745 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-05 16:06:14.599780008 Z
-- _id: 9
-  _time: 2025-06-05 16:06:14.602436739 Z
+  when: 2025-06-05 16:40:43.437339443 Z
+- _id: 2
+  _time: 2025-06-05 16:40:43.441707269 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-08 16:06:14.602536785 Z
-  what: quality-of-service
-  when: 2025-06-05 16:06:14.602512921 Z
-- _id: 10
-  _time: 2025-06-05 16:06:14.604293231 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-08 16:06:14.604390272 Z
+  since: 2025-05-08 16:40:43.441851038 Z
   what: quantity-of-deliverables
-  when: 2025-06-05 16:06:14.604367821 Z
+  when: 2025-06-05 16:40:43.441816954 Z
+- _id: 3
+  _time: 2025-06-05 16:40:43.443230830 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-08 16:40:43.443363318 Z
+  what: quality-of-service
+  when: 2025-06-05 16:40:43.443331228 Z
