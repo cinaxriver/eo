@@ -2,73 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 16.271102204
+  seconds: 0.784843904
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-06 03:47:15.159221847 Z
+  when: 2025-06-06 04:09:51.028087257 Z
 - _id: 1
-  _time: 2025-06-06 03:47:06.909200685 Z
+  _time: 2025-06-06 04:09:51.015088791 Z
   _version: 0.10.1/0.42.0/
-  commits: 771
-  contributors:
-  - 526301
-  - 33455325
-  - 37025995
-  - 29139614
-  - 8086956
-  - 40247101
-  - 46539785
-  - 51804353
-  - 45946541
-  - 70313618
-  details: A new release '' has been published in objectionary/home by @rultor.
-  event_id: 50563502252
-  event_type: ReleaseEvent
-  hoc: 19762
-  last_commit: 9c9cce88d762bddfc93c19ee2f4f292710705fc3
-  release: 223433729
-  repository: 13623548
-  tag: 0.56.4
-  what: release-published
-  when: 2025-06-05 15:27:27.000000000 Z
-  where: github
-  who: 8086956
-- _id: 2
-  _time: 2025-06-06 03:47:14.208589080 Z
-  _version: 0.10.1/0.42.0/
-  details: A new tag '0.56.4' has been created in objectionary/home by @rultor.
-  event_id: 50563444244
-  event_type: CreateEvent
-  repository: 13623548
-  tag: 0.56.4
-  what: tag-was-created
-  when: 2025-06-05 15:26:11.000000000 Z
-  where: github
-  who: 8086956
-- _id: 3
-  _time: 2025-06-06 03:47:15.144905426 Z
-  _version: 0.10.1/0.42.0/
-  name: rultor
-  what: who-has-name
-  when: 2025-06-06 03:47:15.145097827 Z
-  where: github
-  who: 8086956
-- _id: 4
-  _time: 2025-06-06 03:47:15.149474595 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-09 03:47:15.149595833 Z
-  what: quantity-of-deliverables
-  when: 2025-06-06 03:47:15.149569984 Z
-- _id: 5
-  _time: 2025-06-06 03:47:15.154540635 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-09 03:47:15.154640242 Z
+  since: 2025-05-09 04:09:51.015290007 Z
   what: quality-of-service
-  when: 2025-06-06 03:47:15.154617650 Z
-- _id: 6
-  _time: 2025-06-06 03:47:15.157253646 Z
+  when: 2025-06-06 04:09:51.015249912 Z
+- _id: 2
+  _time: 2025-06-06 04:09:51.020177498 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-09 04:09:51.020287624 Z
+  what: quantity-of-deliverables
+  when: 2025-06-06 04:09:51.020264130 Z
+- _id: 3
+  _time: 2025-06-06 04:09:51.023990722 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-06 03:47:15.157333636 Z
+  when: 2025-06-06 04:09:51.024078666 Z
