@@ -1,113 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2505">
+<fb version="0.9.6" size="793">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">18.221020184</seconds>
+    <seconds t="F">7.385082283</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
+    <when t="T">2025-06-08T21:04:39Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-08T20:37:07Z</_time>
+    <_time t="T">2025-06-08T21:04:39Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/crate-ci-typos-1.x</branch>
-    <details t="S">The pull request objectionary/sandbox#48 has been opened by @renovate[bot].</details>
-    <event_id t="I">50421952957</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">48</issue>
-    <repository t="I">490258619</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-02T18:32:38Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-08T21:04:39Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-08T20:37:07Z</_time>
+    <_time t="T">2025-06-08T21:04:39Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/yegor256-copyrights-action-0.x</branch>
-    <details t="S">The pull request objectionary/sandbox#47 has been opened by @renovate[bot].</details>
-    <event_id t="I">50150328012</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">47</issue>
-    <repository t="I">490258619</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-26T14:11:42Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-05-11T21:04:39Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-08T21:04:39Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-08T20:37:07Z</_time>
+    <_time t="T">2025-06-08T21:04:39Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">7f6545f127a6e2d4a8ddc1840625298993b88329</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24376611638 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49873216633</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24376611638</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-19T10:01:23Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">50617807871</latest>
-    <repository t="I">490258619</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-11T20:37:08Z</since>
+    <since t="T">2025-05-11T21:04:39Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-11T20:37:08Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-06-08T20:37:08Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-08T20:37:08Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <when t="T">2025-06-08T21:04:39Z</when>
   </f>
 </fb>
