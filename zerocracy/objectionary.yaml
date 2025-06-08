@@ -2,25 +2,102 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 9.477609148
+  seconds: 9.695958059
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-08 19:04:39.700368010 Z
+  when: 2025-06-08 19:33:48.427024719 Z
 - _id: 1
-  _time: 2025-06-08 19:04:39.688250540 Z
+  _time: 2025-06-08 19:33:46.888828445 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-11 19:04:39.688432179 Z
-  what: quality-of-service
-  when: 2025-06-08 19:04:39.688394649 Z
+  details: The issue objectionary/eo#4266 has been opened by @0pdd.
+  event_id: 50650161860
+  event_type: IssuesEvent
+  issue: 4266
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-06-08 18:14:25.000000000 Z
+  where: github
+  who: 24456188
 - _id: 2
-  _time: 2025-06-08 19:04:39.693219444 Z
+  _time: 2025-06-08 19:33:46.928741104 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4265 has been opened by @0pdd.
+  event_id: 50650161262
+  event_type: IssuesEvent
+  issue: 4265
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-06-08 18:14:23.000000000 Z
+  where: github
+  who: 24456188
+- _id: 3
+  _time: 2025-06-08 19:33:46.942205128 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4264 has been opened by @0pdd.
+  event_id: 50650160870
+  event_type: IssuesEvent
+  issue: 4264
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-06-08 18:14:21.000000000 Z
+  where: github
+  who: 24456188
+- _id: 4
+  _time: 2025-06-08 19:33:46.952094817 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4263 has been opened by @0pdd.
+  event_id: 50650160293
+  event_type: IssuesEvent
+  issue: 4263
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-06-08 18:14:19.000000000 Z
+  where: github
+  who: 24456188
+- _id: 5
+  _time: 2025-06-08 19:33:47.213094253 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4235 has been closed by @yegor256.
+  event_id: 50650158766
+  event_type: IssuesEvent
+  issue: 4235
+  repository: 73056727
+  what: issue-was-closed
+  when: 2025-06-08 18:14:11.000000000 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2025-06-08 19:33:48.410089608 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-08 19:04:39.693370025 Z
-- _id: 3
-  _time: 2025-06-08 19:04:39.699521081 Z
+  when: 2025-06-08 19:33:48.410241662 Z
+- _id: 7
+  _time: 2025-06-08 19:33:48.417637900 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-11 19:04:39.699617901 Z
+  name: 0pdd
+  what: who-has-name
+  when: 2025-06-08 19:33:48.417791938 Z
+  where: github
+  who: 24456188
+- _id: 8
+  _time: 2025-06-08 19:33:48.418676097 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-06-08 19:33:48.418817701 Z
+  where: github
+  who: 526301
+- _id: 9
+  _time: 2025-06-08 19:33:48.423128873 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-11 19:33:48.423266940 Z
   what: quantity-of-deliverables
-  when: 2025-06-08 19:04:39.699595770 Z
+  when: 2025-06-08 19:33:48.423238066 Z
+- _id: 10
+  _time: 2025-06-08 19:33:48.424746991 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-11 19:33:48.424853780 Z
+  what: quality-of-service
+  when: 2025-06-08 19:33:48.424827350 Z
