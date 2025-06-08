@@ -3,90 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 7.294467774
+  seconds: 7.493261396
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-08 16:05:47.327598161 Z
+  when: 2025-06-08 16:39:14.553765444 Z
 - _id: 1
-  _time: 2025-06-08 16:05:47.085061700 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/jucs#39 has been opened by @renovate[bot].
-  event_id: 50420241869
-  event_type: PullRequestEvent
-  issue: 39
-  repository: 574459304
-  what: pull-was-opened
-  when: 2025-06-02 17:47:06.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-06-08 16:05:47.162335194 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/yegor256-copyrights-action-0.x
-  details: The pull request objectionary/jucs#38 has been opened by @renovate[bot].
-  event_id: 50147707492
-  event_type: PullRequestEvent
-  issue: 38
-  repository: 574459304
-  what: pull-was-opened
-  when: 2025-05-26 13:11:28.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-06-08 16:05:47.175896280 Z
-  _version: 0.10.1/0.42.0/
-  commit: 36b05efed56098f6301dec96c73836bbf09259c3
-  default_branch: master
-  details: 'A new Git push #24376344167 has arrived to objectionary/jucs, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 49872649856
-  event_type: PushEvent
-  push_id: 24376344167
-  ref: refs/heads/master
-  repository: 574459304
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-05-19 09:48:53.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-06-08 16:05:47.308665534 Z
-  _version: 0.10.1/0.42.0/
-  latest: 50627190574
-  repository: 574459304
-  what: events-were-scanned
-  where: github
-- _id: 5
-  _time: 2025-06-08 16:05:47.316687469 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-11 16:05:47.316788166 Z
-  what: quality-of-service
-  when: 2025-06-08 16:05:47.316765083 Z
-- _id: 6
-  _time: 2025-06-08 16:05:47.319553333 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-08 16:05:47.319711668 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2025-06-08 16:05:47.320689354 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-06-08 16:05:47.320820578 Z
-  where: github
-  who: 526301
-- _id: 8
-  _time: 2025-06-08 16:05:47.323822626 Z
+  _time: 2025-06-08 16:39:14.539584529 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-08 16:05:47.323897986 Z
-- _id: 9
-  _time: 2025-06-08 16:05:47.325361074 Z
+  when: 2025-06-08 16:39:14.539763965 Z
+- _id: 2
+  _time: 2025-06-08 16:39:14.543126531 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-11 16:05:47.325932045 Z
+  since: 2025-05-11 16:39:14.543265862 Z
+  what: quality-of-service
+  when: 2025-06-08 16:39:14.543233000 Z
+- _id: 3
+  _time: 2025-06-08 16:39:14.545962562 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-11 16:39:14.546064382 Z
   what: quantity-of-deliverables
-  when: 2025-06-08 16:05:47.325904203 Z
+  when: 2025-06-08 16:39:14.546039906 Z
