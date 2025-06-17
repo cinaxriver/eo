@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="792">
+<fb version="0.9.6" size="647">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error>
+      <v t="S">Failed to open TCP connection to api.github.com:443 (execution expired)</v>
+      <v t="S">GET https://api.github.com/repos/objectionary/aoi: 503 - No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.</v>
+      <v t="S">Judge label-was-attached stopped by timeout after 3m0s: execution expired</v>
+    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">17.68261567</seconds>
+    <seconds t="F">374.778840411</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-17T19:04:57Z</when>
-  </f>
-  <f>
-    <_id t="I">1</_id>
-    <_time t="T">2025-06-17T19:04:57Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-17T19:04:57Z</when>
-  </f>
-  <f>
-    <_id t="I">2</_id>
-    <_time t="T">2025-06-17T19:04:57Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-20T19:04:57Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-17T19:04:57Z</when>
-  </f>
-  <f>
-    <_id t="I">3</_id>
-    <_time t="T">2025-06-17T19:04:57Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-05-20T19:04:57Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-17T19:04:57Z</when>
+    <when t="T">2025-06-17T19:40:53Z</when>
   </f>
 </fb>
