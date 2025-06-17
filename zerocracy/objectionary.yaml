@@ -2,14 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error:
-  - Failed to open TCP connection to api.github.com:443 (execution expired)
-  - 'GET https://api.github.com/repos/objectionary/aoi: 503 - No server is currently
-    available to service your request. Sorry about that. Please try resubmitting your
-    request and contact us if the problem persists.'
-  - 'Judge label-was-attached stopped by timeout after 3m0s: execution expired'
+  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
+    rate limit exceeded for 52.160.165.200. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 374.778840411
+  seconds: 76.33535789
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-17 19:40:53.304099738 Z
+  when: 2025-06-17 20:07:20.650626895 Z
+- _id: 1
+  _time: 2025-06-17 20:07:20.640315677 Z
+  _version: 0.10.1/0.42.0/
+  what: dimensions-of-terrain
+  when: 2025-06-17 20:07:20.640470053 Z
+- _id: 2
+  _time: 2025-06-17 20:07:20.646382112 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-20 20:07:20.646517944 Z
+  what: quality-of-service
+  when: 2025-06-17 20:07:20.646483330 Z
+- _id: 3
+  _time: 2025-06-17 20:07:20.648105745 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-20 20:07:20.648201212 Z
+  what: quantity-of-deliverables
+  when: 2025-06-17 20:07:20.648178500 Z
