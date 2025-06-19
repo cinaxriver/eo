@@ -2,29 +2,94 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/sandbox: 403 - API rate limit
-    exceeded for 52.160.161.180. (But here''s the good news: Authenticated requests
-    get a higher rate limit. Check out the documentation for more details.) // See:
-    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 74.836986023
+  seconds: 8.191399142
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-19 01:34:51.853621521 Z
+  when: 2025-06-19 02:36:30.081681398 Z
 - _id: 1
-  _time: 2025-06-19 01:34:51.772360518 Z
+  _time: 2025-06-19 02:36:29.791858037 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-22 01:34:51.772621743 Z
-  what: quantity-of-deliverables
-  when: 2025-06-19 01:34:51.772566811 Z
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/on-the-origin-of-objects#43 has been opened
+    by @renovate[bot].
+  event_id: 50423943407
+  event_type: PullRequestEvent
+  issue: 43
+  repository: 499536612
+  what: pull-was-opened
+  when: 2025-06-02 19:28:16.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-06-19 01:34:51.846226684 Z
+  _time: 2025-06-19 02:36:29.889897025 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/on-the-origin-of-objects#42 has been opened
+    by @renovate[bot].
+  event_id: 50140227434
+  event_type: PullRequestEvent
+  issue: 42
+  repository: 499536612
+  what: pull-was-opened
+  when: 2025-05-26 10:09:59.000000000 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2025-06-19 02:36:29.902397700 Z
+  _version: 0.10.1/0.42.0/
+  commit: cc96913c47cc1218f2ad07dec225ac2be3cae81c
+  default_branch: master
+  details: 'A new Git push #24376457645 has arrived to objectionary/on-the-origin-of-objects,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 49872892642
+  event_type: PushEvent
+  push_id: 24376457645
+  ref: refs/heads/master
+  repository: 499536612
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-19 09:54:15.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-06-19 02:36:30.054630849 Z
+  _version: 0.10.1/0.42.0/
+  latest: 50423943407
+  repository: 499536612
+  what: events-were-scanned
+  where: github
+- _id: 5
+  _time: 2025-06-19 02:36:30.059166161 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-19 01:34:51.846346006 Z
-- _id: 3
-  _time: 2025-06-19 01:34:51.851156997 Z
+  when: 2025-06-19 02:36:30.059252723 Z
+- _id: 6
+  _time: 2025-06-19 02:36:30.065255337 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-22 01:34:51.851292077 Z
+  since: 2025-05-22 02:36:30.065370322 Z
   what: quality-of-service
-  when: 2025-06-19 01:34:51.851258775 Z
+  when: 2025-06-19 02:36:30.065344414 Z
+- _id: 7
+  _time: 2025-06-19 02:36:30.071581839 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-22 02:36:30.071714918 Z
+  what: quantity-of-deliverables
+  when: 2025-06-19 02:36:30.071689720 Z
+- _id: 8
+  _time: 2025-06-19 02:36:30.075468360 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-06-19 02:36:30.075614774 Z
+  where: github
+  who: 29139614
+- _id: 9
+  _time: 2025-06-19 02:36:30.076471735 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-06-19 02:36:30.077466113 Z
+  where: github
+  who: 526301
