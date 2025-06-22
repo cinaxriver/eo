@@ -3,60 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 18.19859991
+  seconds: 7.363864163
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-22 20:36:35.363142269 Z
+  when: 2025-06-22 21:04:40.979837722 Z
 - _id: 1
-  _time: 2025-06-22 20:36:33.897999204 Z
+  _time: 2025-06-22 21:04:40.967831258 Z
   _version: 0.10.1/0.42.0/
-  latest: 51187917387
-  repository: 483303722
-  what: events-were-scanned
-  where: github
+  since: 2025-05-25 21:04:40.968025221 Z
+  what: quality-of-service
+  when: 2025-06-22 21:04:40.967978404 Z
 - _id: 2
-  _time: 2025-06-22 20:36:35.110592710 Z
+  _time: 2025-06-22 21:04:40.977647888 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/yegor256-copyrights-action-0.x
-  details: The pull request objectionary/eo-intellij-plugin#70 has been opened by
-    @renovate[bot].
-  event_id: 50150654218
-  event_type: PullRequestEvent
-  issue: 70
-  repository: 492899189
-  what: pull-was-opened
-  when: 2025-05-26 14:19:34.000000000 Z
-  where: github
-  who: 29139614
+  since: 2025-05-25 21:04:40.977752764 Z
+  what: quantity-of-deliverables
+  when: 2025-06-22 21:04:40.977729080 Z
 - _id: 3
-  _time: 2025-06-22 20:36:35.342360159 Z
-  _version: 0.10.1/0.42.0/
-  latest: 50628324287
-  repository: 492899189
-  what: events-were-scanned
-  where: github
-- _id: 4
-  _time: 2025-06-22 20:36:35.347389046 Z
+  _time: 2025-06-22 21:04:40.978921072 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-22 20:36:35.347498259 Z
-- _id: 5
-  _time: 2025-06-22 20:36:35.351325080 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-25 20:36:35.351458328 Z
-  what: quantity-of-deliverables
-  when: 2025-06-22 20:36:35.351427661 Z
-- _id: 6
-  _time: 2025-06-22 20:36:35.356817480 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-22 20:36:35.356984851 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2025-06-22 20:36:35.360541990 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-25 20:36:35.360638229 Z
-  what: quality-of-service
-  when: 2025-06-22 20:36:35.360615918 Z
+  when: 2025-06-22 21:04:40.979005600 Z
