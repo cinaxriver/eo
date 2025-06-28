@@ -2,26 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge github-events stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 180.019527622
+  seconds: 6.879725224
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-27 23:38:45.350062926 Z
+  when: 2025-06-28 00:20:17.138102124 Z
 - _id: 1
-  _time: 2025-06-27 23:38:45.337047341 Z
+  _time: 2025-06-28 00:20:17.128677733 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-05-30 23:38:45.338104609 Z
-  what: quality-of-service
-  when: 2025-06-27 23:38:45.338065506 Z
+  since: 2025-05-31 00:20:17.128864942 Z
+  what: quantity-of-deliverables
+  when: 2025-06-28 00:20:17.128827943 Z
 - _id: 2
-  _time: 2025-06-27 23:38:45.342434209 Z
+  _time: 2025-06-28 00:20:17.132850785 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-05-31 00:20:17.132981899 Z
+  what: quality-of-service
+  when: 2025-06-28 00:20:17.132949980 Z
+- _id: 3
+  _time: 2025-06-28 00:20:17.135439957 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-27 23:38:45.342511353 Z
-- _id: 3
-  _time: 2025-06-27 23:38:45.347367331 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-05-30 23:38:45.347470214 Z
-  what: quantity-of-deliverables
-  when: 2025-06-27 23:38:45.347448013 Z
+  when: 2025-06-28 00:20:17.135555772 Z
