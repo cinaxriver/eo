@@ -2,54 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/proof: 403 - API rate limit
+    exceeded for 52.225.77.184. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 98.660585829
+  seconds: 72.460906116
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-29 17:37:51.979198933 Z
+  when: 2025-06-29 18:07:33.150939762 Z
 - _id: 1
-  _time: 2025-06-29 17:36:23.230401226 Z
+  _time: 2025-06-29 18:07:33.074300724 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/proof#60 has been opened by @renovate[bot].
-  event_id: 50421265582
-  event_type: PullRequestEvent
-  issue: 60
-  repository: 731516758
-  what: pull-was-opened
-  when: 2025-06-02 18:14:50.000000000 Z
-  where: github
-  who: 29139614
+  since: 2025-06-01 18:07:33.074615861 Z
+  what: quality-of-service
+  when: 2025-06-29 18:07:33.074550970 Z
 - _id: 2
-  _time: 2025-06-29 17:36:23.351461702 Z
-  _version: 0.10.1/0.42.0/
-  latest: 50421265582
-  repository: 731516758
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2025-06-29 17:36:23.354091554 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-01 17:36:23.354193263 Z
-  what: quantity-of-deliverables
-  when: 2025-06-29 17:36:23.354167956 Z
-- _id: 4
-  _time: 2025-06-29 17:36:23.356016194 Z
+  _time: 2025-06-29 18:07:33.141970229 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-29 17:36:23.356091624 Z
-- _id: 5
-  _time: 2025-06-29 17:36:23.363404236 Z
+  when: 2025-06-29 18:07:33.142061799 Z
+- _id: 3
+  _time: 2025-06-29 18:07:33.148529149 Z
   _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-29 17:36:23.363541912 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-06-29 17:37:51.975528075 Z
-  _version: 0.10.1/0.42.0/
-  average_triage_time: 0
-  since: 2025-06-01 17:36:23.365849404 Z
-  what: quality-of-service
-  when: 2025-06-29 17:36:23.365825189 Z
+  since: 2025-06-01 18:07:33.148638081 Z
+  what: quantity-of-deliverables
+  when: 2025-06-29 18:07:33.148614077 Z
