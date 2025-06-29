@@ -2,25 +2,92 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 6.5818278
+  seconds: 10.129887077
   version: 0.42.0
   what: judges-summary
-  when: 2025-06-29 20:36:21.064295696 Z
+  when: 2025-06-29 21:04:46.776143489 Z
 - _id: 1
-  _time: 2025-06-29 20:36:21.054741402 Z
+  _time: 2025-06-29 21:04:44.649031949 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-01 20:36:21.054926439 Z
-  what: quality-of-service
-  when: 2025-06-29 20:36:21.054888157 Z
+  details: The issue objectionary/eo#4335 has been opened by @yegor256.
+  event_id: 51470106420
+  event_type: IssuesEvent
+  issue: 4335
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-06-29 10:49:49.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-06-29 20:36:21.059015059 Z
+  _time: 2025-06-29 21:04:44.815151393 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-01 20:36:21.059119184 Z
-  what: quantity-of-deliverables
-  when: 2025-06-29 20:36:21.059094258 Z
+  branch: fix/flaky-random-test-4184-clean
+  details: The pull request objectionary/eo#4334 has been opened by @karishka1222.
+  event_id: 51468472805
+  event_type: PullRequestEvent
+  issue: 4334
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-06-29 08:41:45.000000000 Z
+  where: github
+  who: 123330010
 - _id: 3
-  _time: 2025-06-29 20:36:21.060247100 Z
+  _time: 2025-06-29 21:04:44.878067627 Z
+  _version: 0.10.1/0.42.0/
+  branch: fix/threadlocal-memory-leak-phdefault
+  details: The pull request objectionary/eo#4333 has been opened by @karishka1222.
+  event_id: 51468070192
+  event_type: PullRequestEvent
+  issue: 4333
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-06-29 08:07:42.000000000 Z
+  where: github
+  who: 123330010
+- _id: 4
+  _time: 2025-06-29 21:04:45.213912404 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4263 has been closed by @yegor256.
+  event_id: 51384239485
+  event_type: IssuesEvent
+  issue: 4263
+  repository: 73056727
+  what: issue-was-closed
+  when: 2025-06-26 15:02:05.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-06-29 21:04:46.764006962 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-01 21:04:46.764172731 Z
+  what: quality-of-service
+  when: 2025-06-29 21:04:46.764142314 Z
+- _id: 6
+  _time: 2025-06-29 21:04:46.766267129 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-06-29 20:36:21.060321631 Z
+  when: 2025-06-29 21:04:46.766347800 Z
+- _id: 7
+  _time: 2025-06-29 21:04:46.767659347 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-01 21:04:46.767757120 Z
+  what: quantity-of-deliverables
+  when: 2025-06-29 21:04:46.767734778 Z
+- _id: 8
+  _time: 2025-06-29 21:04:46.772168642 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-06-29 21:04:46.772309905 Z
+  where: github
+  who: 526301
+- _id: 9
+  _time: 2025-06-29 21:04:46.773154712 Z
+  _version: 0.10.1/0.42.0/
+  name: karishka1222
+  what: who-has-name
+  when: 2025-06-29 21:04:46.773299903 Z
+  where: github
+  who: 123330010
