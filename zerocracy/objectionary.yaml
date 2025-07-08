@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/sodg: 403 - API rate limit
+    exceeded for 138.91.166.116. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 7.167816295
+  seconds: 73.810913875
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-08 22:38:06.986224862 Z
+  when: 2025-07-08 23:06:41.409489218 Z
 - _id: 1
-  _time: 2025-07-08 22:38:06.976253588 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-10 22:38:06.976445418 Z
-  what: quality-of-service
-  when: 2025-07-08 22:38:06.976403308 Z
-- _id: 2
-  _time: 2025-07-08 22:38:06.978071224 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-10 22:38:06.978169769 Z
-  what: quantity-of-deliverables
-  when: 2025-07-08 22:38:06.978146755 Z
-- _id: 3
-  _time: 2025-07-08 22:38:06.981474934 Z
+  _time: 2025-07-08 23:06:41.330785668 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-08 22:38:06.981587765 Z
+  when: 2025-07-08 23:06:41.331002426 Z
+- _id: 2
+  _time: 2025-07-08 23:06:41.402529522 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-10 23:06:41.402707649 Z
+  what: quality-of-service
+  when: 2025-07-08 23:06:41.402666110 Z
+- _id: 3
+  _time: 2025-07-08 23:06:41.405845918 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-10 23:06:41.405946548 Z
+  what: quantity-of-deliverables
+  when: 2025-07-08 23:06:41.405923264 Z
