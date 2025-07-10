@@ -2,25 +2,106 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 8.231720629
+  seconds: 14.480183529
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-10 10:40:11.384829245 Z
+  when: 2025-07-10 11:05:30.705273960 Z
 - _id: 1
-  _time: 2025-07-10 10:40:11.378097500 Z
+  _time: 2025-07-10 11:05:29.171645130 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-12 10:40:11.378281203 Z
-  what: quality-of-service
-  when: 2025-07-10 10:40:11.378242791 Z
+  branch: make
+  details: The pull request objectionary/benchmark#75 has been opened by @github-actions[bot].
+  event_id: 51873538958
+  event_type: PullRequestEvent
+  issue: 75
+  repository: 733919301
+  what: pull-was-opened
+  when: 2025-07-09 11:12:31.000000000 Z
+  where: github
+  who: 41898282
 - _id: 2
-  _time: 2025-07-10 10:40:11.379762739 Z
+  _time: 2025-07-10 11:05:29.307768023 Z
+  _version: 0.10.1/0.42.0/
+  commit: 784bf0874823cee7cc90b5e80366c8926d717caa
+  default_branch: master
+  details: 'A new Git push #25387804662 has arrived to objectionary/benchmark, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 51872658529
+  event_type: PushEvent
+  push_id: 25387804662
+  ref: refs/heads/master
+  repository: 733919301
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-07-09 10:51:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-07-10 11:05:29.589728818 Z
+  _version: 0.10.1/0.42.0/
+  commit: ee7bd3ede908619816aaf3d9315a23961182fed8
+  default_branch: master
+  details: 'A new Git push #25381526901 has arrived to objectionary/benchmark, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 51859435494
+  event_type: PushEvent
+  push_id: 25381526901
+  ref: refs/heads/master
+  repository: 733919301
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-07-09 05:30:58.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-07-10 11:05:29.791683630 Z
+  _version: 0.10.1/0.42.0/
+  commit: b53847c96f0032c15e0d933de6d2af361724d095
+  default_branch: master
+  details: 'A new Git push #25381249010 has arrived to objectionary/benchmark, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 51858885433
+  event_type: PushEvent
+  push_id: 25381249010
+  ref: refs/heads/master
+  repository: 733919301
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-07-09 05:09:08.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-07-10 11:05:30.687935444 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-12 11:05:30.688127341 Z
+  what: quality-of-service
+  when: 2025-07-10 11:05:30.688084642 Z
+- _id: 6
+  _time: 2025-07-10 11:05:30.691962875 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-10 10:40:11.379838490 Z
-- _id: 3
-  _time: 2025-07-10 10:40:11.382071940 Z
+  when: 2025-07-10 11:05:30.692082338 Z
+- _id: 7
+  _time: 2025-07-10 11:05:30.696230625 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-12 10:40:11.382180683 Z
+  since: 2025-06-12 11:05:30.696420439 Z
   what: quantity-of-deliverables
-  when: 2025-07-10 10:40:11.382156087 Z
+  when: 2025-07-10 11:05:30.696376677 Z
+- _id: 8
+  _time: 2025-07-10 11:05:30.701185414 Z
+  _version: 0.10.1/0.42.0/
+  name: github-actions[bot]
+  what: who-has-name
+  when: 2025-07-10 11:05:30.701519988 Z
+  where: github
+  who: 41898282
+- _id: 9
+  _time: 2025-07-10 11:05:30.702966983 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-07-10 11:05:30.703193765 Z
+  where: github
+  who: 526301
