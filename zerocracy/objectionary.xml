@@ -1,126 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2963">
+<fb version="0.9.6" size="788">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">14.480183529</seconds>
+    <seconds t="F">17.4937579</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
+    <when t="T">2025-07-10T11:35:34Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-10T11:05:29Z</_time>
+    <_time t="T">2025-07-10T11:35:34Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">make</branch>
-    <details t="S">The pull request objectionary/benchmark#75 has been opened by @github-actions[bot].</details>
-    <event_id t="I">51873538958</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">75</issue>
-    <repository t="I">733919301</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-07-09T11:12:31Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <since t="T">2025-06-12T11:35:34Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-10T11:35:34Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-10T11:05:29Z</_time>
+    <_time t="T">2025-07-10T11:35:34Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">784bf0874823cee7cc90b5e80366c8926d717caa</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #25387804662 has arrived to objectionary/benchmark, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">51872658529</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">25387804662</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">733919301</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-07-09T10:51:41Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-06-12T11:35:34Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-10T11:35:34Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-10T11:05:29Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">ee7bd3ede908619816aaf3d9315a23961182fed8</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #25381526901 has arrived to objectionary/benchmark, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">51859435494</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">25381526901</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">733919301</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-07-09T05:30:58Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-07-10T11:05:29Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">b53847c96f0032c15e0d933de6d2af361724d095</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #25381249010 has arrived to objectionary/benchmark, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">51858885433</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">25381249010</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">733919301</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-07-09T05:09:08Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-07-10T11:05:30Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-06-12T11:05:30Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-07-10T11:05:30Z</_time>
+    <_time t="T">2025-07-10T11:35:34Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-07-10T11:05:30Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-06-12T11:05:30Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-07-10T11:05:30Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-07-10T11:05:30Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-07-10T11:05:30Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <when t="T">2025-07-10T11:35:34Z</when>
   </f>
 </fb>
