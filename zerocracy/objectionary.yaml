@@ -2,40 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 8.717500506
+  seconds: 9.758143954
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-12 04:42:19.751366775 Z
+  when: 2025-07-12 05:06:18.418693281 Z
 - _id: 1
-  _time: 2025-07-12 04:42:18.682964664 Z
+  _time: 2025-07-12 05:06:18.411327645 Z
   _version: 0.10.1/0.42.0/
-  latest: 51745222735
-  repository: 396732517
-  what: events-were-scanned
-  where: github
-- _id: 2
-  _time: 2025-07-12 04:42:18.962644692 Z
-  _version: 0.10.1/0.42.0/
-  latest: 51970998966
-  repository: 721146770
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2025-07-12 04:42:19.733778488 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-14 04:42:19.734952604 Z
+  since: 2025-06-14 05:06:18.411506930 Z
   what: quantity-of-deliverables
-  when: 2025-07-12 04:42:19.734909924 Z
-- _id: 4
-  _time: 2025-07-12 04:42:19.748175787 Z
+  when: 2025-07-12 05:06:18.411470792 Z
+- _id: 2
+  _time: 2025-07-12 05:06:18.415381027 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-14 04:42:19.748330667 Z
+  since: 2025-06-14 05:06:18.415618410 Z
   what: quality-of-service
-  when: 2025-07-12 04:42:19.748293577 Z
-- _id: 5
-  _time: 2025-07-12 04:42:19.750297626 Z
+  when: 2025-07-12 05:06:18.415557326 Z
+- _id: 3
+  _time: 2025-07-12 05:06:18.417119637 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-12 04:42:19.750425806 Z
+  when: 2025-07-12 05:06:18.417201048 Z
