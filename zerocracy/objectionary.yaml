@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/eo.tmbundle: 403 - API rate
+    limit exceeded for 172.203.191.146. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 8.120794492
+  seconds: 108.514216234
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-23 05:42:17.579201437 Z
+  when: 2025-07-23 06:09:34.476340182 Z
 - _id: 1
-  _time: 2025-07-23 05:42:17.565114397 Z
+  _time: 2025-07-23 06:09:34.469123857 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-25 06:09:34.469310214 Z
+  what: quantity-of-deliverables
+  when: 2025-07-23 06:09:34.469272644 Z
+- _id: 2
+  _time: 2025-07-23 06:09:34.470397287 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-23 05:42:17.565274405 Z
-- _id: 2
-  _time: 2025-07-23 05:42:17.570608542 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-25 05:42:17.570785742 Z
-  what: quality-of-service
-  when: 2025-07-23 05:42:17.570746018 Z
+  when: 2025-07-23 06:09:34.470500619 Z
 - _id: 3
-  _time: 2025-07-23 05:42:17.578173375 Z
+  _time: 2025-07-23 06:09:34.473456007 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-25 05:42:17.578274123 Z
-  what: quantity-of-deliverables
-  when: 2025-07-23 05:42:17.578251200 Z
+  since: 2025-06-25 06:09:34.473590668 Z
+  what: quality-of-service
+  when: 2025-07-23 06:09:34.473558057 Z
