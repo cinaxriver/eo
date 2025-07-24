@@ -2,116 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 14.602077249
+  seconds: 14.200298136
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-24 14:06:45.096845563 Z
+  when: 2025-07-24 14:40:17.922495527 Z
 - _id: 1
-  _time: 2025-07-24 14:06:42.962813221 Z
+  _time: 2025-07-24 14:40:17.909888648 Z
   _version: 0.10.1/0.42.0/
-  commit: a7a3719f3a0122b88c1569f10618d5ed2e864613
-  default_branch: master
-  details: 'A new Git push #25429744618 has arrived to objectionary/.github, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51958665462
-  event_type: PushEvent
-  push_id: 25429744618
-  ref: refs/heads/master
-  repository: 490221501
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-11 05:25:43.000000000 Z
-  where: github
-  who: 526301
+  since: 2025-06-26 14:40:17.910072151 Z
+  what: quality-of-service
+  when: 2025-07-24 14:40:17.910034360 Z
 - _id: 2
-  _time: 2025-07-24 14:06:43.372347064 Z
-  _version: 0.10.1/0.42.0/
-  latest: 52024825924
-  repository: 490221501
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2025-07-24 14:06:44.041244601 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/eo-graphs#29 has been opened by @kodsurfer.
-  event_id: 52167800177
-  event_type: IssuesEvent
-  issue: 29
-  repository: 396732517
-  what: issue-was-opened
-  when: 2025-07-16 15:43:34.000000000 Z
-  where: github
-  who: 86408225
-- _id: 4
-  _time: 2025-07-24 14:06:44.049432841 Z
-  _version: 0.10.1/0.42.0/
-  branch: '28'
-  details: The pull request objectionary/eo-graphs#28 has been opened by @uchitsa.
-  event_id: 52080931541
-  event_type: PullRequestEvent
-  issue: 28
-  repository: 396732517
-  what: pull-was-opened
-  when: 2025-07-14 23:54:09.000000000 Z
-  where: github
-  who: 29793349
-- _id: 5
-  _time: 2025-07-24 14:06:44.182456256 Z
-  _version: 0.10.1/0.42.0/
-  commit: b5bdb88b464f5b1a6e5ccaa812db8e68068047a5
-  default_branch: master
-  details: 'A new Git push #25474277212 has arrived to objectionary/eo-graphs, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 52038033287
-  event_type: PushEvent
-  push_id: 25474277212
-  ref: refs/heads/master
-  repository: 396732517
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-14 05:28:34.000000000 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2025-07-24 14:06:45.079377195 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-06-26 14:06:45.079495085 Z
-  what: quantity-of-deliverables
-  when: 2025-07-24 14:06:45.079471160 Z
-- _id: 7
-  _time: 2025-07-24 14:06:45.083077450 Z
+  _time: 2025-07-24 14:40:17.912505642 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-24 14:06:45.083154674 Z
-- _id: 8
-  _time: 2025-07-24 14:06:45.089074582 Z
+  when: 2025-07-24 14:40:17.912581574 Z
+- _id: 3
+  _time: 2025-07-24 14:40:17.917985188 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-26 14:06:45.089178796 Z
-  what: quality-of-service
-  when: 2025-07-24 14:06:45.089156074 Z
-- _id: 9
-  _time: 2025-07-24 14:06:45.091971077 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-07-24 14:06:45.092564304 Z
-  where: github
-  who: 526301
-- _id: 10
-  _time: 2025-07-24 14:06:45.093392109 Z
-  _version: 0.10.1/0.42.0/
-  name: kodsurfer
-  what: who-has-name
-  when: 2025-07-24 14:06:45.093520308 Z
-  where: github
-  who: 86408225
-- _id: 11
-  _time: 2025-07-24 14:06:45.094583242 Z
-  _version: 0.10.1/0.42.0/
-  name: uchitsa
-  what: who-has-name
-  when: 2025-07-24 14:06:45.094731088 Z
-  where: github
-  who: 29793349
+  since: 2025-06-26 14:40:17.918086807 Z
+  what: quantity-of-deliverables
+  when: 2025-07-24 14:40:17.918062472 Z
