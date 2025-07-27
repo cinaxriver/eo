@@ -2,25 +2,46 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 0.741000685
+  seconds: 9.749591533
   version: 0.42.0
   what: judges-summary
-  when: 2025-07-27 01:34:10.850473819 Z
+  when: 2025-07-27 02:49:24.532714878 Z
 - _id: 1
-  _time: 2025-07-27 01:34:10.844400937 Z
+  _time: 2025-07-27 02:49:23.633270979 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-29 01:34:10.844576316 Z
-  what: quantity-of-deliverables
-  when: 2025-07-27 01:34:10.844539136 Z
+  details: The issue objectionary/jeo-maven-plugin#1149 has been closed by @rultor.
+  event_id: 52487778575
+  event_type: IssuesEvent
+  issue: 1149
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-07-24 09:33:01.000000000 Z
+  where: github
+  who: 8086956
 - _id: 2
-  _time: 2025-07-27 01:34:10.847007865 Z
+  _time: 2025-07-27 02:49:24.523061601 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-06-29 01:34:10.847157174 Z
-  what: quality-of-service
-  when: 2025-07-27 01:34:10.847124142 Z
+  name: rultor
+  what: who-has-name
+  when: 2025-07-27 02:49:24.523213673 Z
+  where: github
+  who: 8086956
 - _id: 3
-  _time: 2025-07-27 01:34:10.848657040 Z
+  _time: 2025-07-27 02:49:24.526603464 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-07-27 01:34:10.848733593 Z
+  when: 2025-07-27 02:49:24.526679425 Z
+- _id: 4
+  _time: 2025-07-27 02:49:24.529876044 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-29 02:49:24.529976120 Z
+  what: quantity-of-deliverables
+  when: 2025-07-27 02:49:24.529952065 Z
+- _id: 5
+  _time: 2025-07-27 02:49:24.531347733 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-06-29 02:49:24.531495538 Z
+  what: quality-of-service
+  when: 2025-07-27 02:49:24.531425498 Z
