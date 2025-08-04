@@ -2,46 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 9.969053114
+  seconds: 7.691900896
   version: 0.42.0
   what: judges-summary
-  when: 2025-08-04 11:06:18.250443747 Z
+  when: 2025-08-04 11:36:27.636382908 Z
 - _id: 1
-  _time: 2025-08-04 11:06:17.599254710 Z
+  _time: 2025-08-04 11:36:27.631876073 Z
   _version: 0.10.1/0.42.0/
-  details: The issue objectionary/jeo-maven-plugin#1205 has been closed by @yegor256.
-  event_id: 52906724700
-  event_type: IssuesEvent
-  issue: 1205
-  repository: 671896902
-  what: issue-was-closed
-  when: 2025-08-04 09:20:47.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-08-04 11:06:18.236930334 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-07 11:06:18.237086645 Z
+  since: 2025-07-07 11:36:27.632056953 Z
   what: quality-of-service
-  when: 2025-08-04 11:06:18.237060326 Z
-- _id: 3
-  _time: 2025-08-04 11:06:18.238795133 Z
+  when: 2025-08-04 11:36:27.632019212 Z
+- _id: 2
+  _time: 2025-08-04 11:36:27.633528100 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-08-04 11:06:18.239060648 Z
-- _id: 4
-  _time: 2025-08-04 11:06:18.242550882 Z
+  when: 2025-08-04 11:36:27.633606737 Z
+- _id: 3
+  _time: 2025-08-04 11:36:27.634811383 Z
   _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-08-04 11:06:18.242694691 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2025-08-04 11:06:18.244745096 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-07 11:06:18.244851124 Z
+  since: 2025-07-07 11:36:27.634905530 Z
   what: quantity-of-deliverables
-  when: 2025-08-04 11:06:18.244823954 Z
+  when: 2025-08-04 11:36:27.634883028 Z
