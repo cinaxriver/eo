@@ -1,113 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2361">
+<fb version="0.9.6" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">44.183022877</seconds>
+    <seconds t="F">7.643784802</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
+    <when t="T">2025-08-08T08:07:44Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-08-08T07:39:00Z</_time>
+    <_time t="T">2025-08-08T08:07:44Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commits t="I">2779</commits>
-    <contributors>
-      <v t="I">51804353</v>
-      <v t="I">29139614</v>
-      <v t="I">8086956</v>
-      <v t="I">526301</v>
-      <v t="I">83453843</v>
-      <v t="I">41898282</v>
-      <v t="I">46355873</v>
-    </contributors>
-    <details t="S">A new release '0.13.2' has been published in objectionary/jeo-maven-plugin by @rultor.</details>
-    <event_id t="I">53077468582</event_id>
-    <event_type t="S">ReleaseEvent</event_type>
-    <hoc t="I">19699</hoc>
-    <last_commit t="S">8c2622d19abba40f30cf77d875e7593f9cea62fb</last_commit>
-    <release t="I">238329966</release>
-    <repository t="I">671896902</repository>
-    <tag t="S">0.13.2</tag>
-    <what t="S">release-published</what>
-    <when t="T">2025-08-07T14:15:50Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
+    <since t="T">2025-07-11T08:07:44Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-08-08T08:07:44Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-08-08T07:39:23Z</_time>
+    <_time t="T">2025-08-08T08:07:44Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/jeo-maven-plugin#1217 has been opened by @github-actions[bot].</details>
-    <event_id t="I">53077427856</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">1217</issue>
-    <repository t="I">671896902</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-08-07T14:15:04Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-08-08T08:07:44Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-08-08T07:39:27Z</_time>
+    <_time t="T">2025-08-08T08:07:44Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">A new tag '0.13.2' has been created in objectionary/jeo-maven-plugin by @rultor.</details>
-    <event_id t="I">53077412712</event_id>
-    <event_type t="S">CreateEvent</event_type>
-    <repository t="I">671896902</repository>
-    <tag t="S">0.13.2</tag>
-    <what t="S">tag-was-created</what>
-    <when t="T">2025-08-07T14:14:47Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-08-08T07:39:32Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-08-08T07:39:32Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">rultor</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-08-08T07:39:32Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-08-08T07:39:32Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-07-11T07:39:32Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-08-08T07:39:32Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-07-11T07:39:32Z</since>
+    <since t="T">2025-07-11T08:07:44Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-08-08T07:39:32Z</when>
+    <when t="T">2025-08-08T08:07:44Z</when>
   </f>
 </fb>

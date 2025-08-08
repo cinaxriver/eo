@@ -2,94 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 44.183022877
+  seconds: 7.643784802
   version: 0.42.0
   what: judges-summary
-  when: 2025-08-08 07:39:32.752487149 Z
+  when: 2025-08-08 08:07:44.926895056 Z
 - _id: 1
-  _time: 2025-08-08 07:39:00.860758211 Z
+  _time: 2025-08-08 08:07:44.915368942 Z
   _version: 0.10.1/0.42.0/
-  commits: 2779
-  contributors:
-  - 51804353
-  - 29139614
-  - 8086956
-  - 526301
-  - 83453843
-  - 41898282
-  - 46355873
-  details: A new release '0.13.2' has been published in objectionary/jeo-maven-plugin
-    by @rultor.
-  event_id: 53077468582
-  event_type: ReleaseEvent
-  hoc: 19699
-  last_commit: 8c2622d19abba40f30cf77d875e7593f9cea62fb
-  release: 238329966
-  repository: 671896902
-  tag: 0.13.2
-  what: release-published
-  when: 2025-08-07 14:15:50.000000000 Z
-  where: github
-  who: 8086956
+  since: 2025-07-11 08:07:44.915588754 Z
+  what: quality-of-service
+  when: 2025-08-08 08:07:44.915551404 Z
 - _id: 2
-  _time: 2025-08-08 07:39:23.139255499 Z
-  _version: 0.10.1/0.42.0/
-  branch: version-up
-  details: The pull request objectionary/jeo-maven-plugin#1217 has been opened by
-    @github-actions[bot].
-  event_id: 53077427856
-  event_type: PullRequestEvent
-  issue: 1217
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-08-07 14:15:04.000000000 Z
-  where: github
-  who: 41898282
-- _id: 3
-  _time: 2025-08-08 07:39:27.333423354 Z
-  _version: 0.10.1/0.42.0/
-  details: A new tag '0.13.2' has been created in objectionary/jeo-maven-plugin by
-    @rultor.
-  event_id: 53077412712
-  event_type: CreateEvent
-  repository: 671896902
-  tag: 0.13.2
-  what: tag-was-created
-  when: 2025-08-07 14:14:47.000000000 Z
-  where: github
-  who: 8086956
-- _id: 4
-  _time: 2025-08-08 07:39:32.735696125 Z
+  _time: 2025-08-08 08:07:44.918109889 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-08-08 07:39:32.735791914 Z
-- _id: 5
-  _time: 2025-08-08 07:39:32.741537720 Z
+  when: 2025-08-08 08:07:44.918187786 Z
+- _id: 3
+  _time: 2025-08-08 08:07:44.924963105 Z
   _version: 0.10.1/0.42.0/
-  name: rultor
-  what: who-has-name
-  when: 2025-08-08 07:39:32.741683531 Z
-  where: github
-  who: 8086956
-- _id: 6
-  _time: 2025-08-08 07:39:32.742563791 Z
-  _version: 0.10.1/0.42.0/
-  name: github-actions[bot]
-  what: who-has-name
-  when: 2025-08-08 07:39:32.742693803 Z
-  where: github
-  who: 41898282
-- _id: 7
-  _time: 2025-08-08 07:39:32.748190042 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-11 07:39:32.748290900 Z
-  what: quality-of-service
-  when: 2025-08-08 07:39:32.748266715 Z
-- _id: 8
-  _time: 2025-08-08 07:39:32.751375738 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-11 07:39:32.751476716 Z
+  since: 2025-07-11 08:07:44.925064285 Z
   what: quantity-of-deliverables
-  when: 2025-08-08 07:39:32.751453302 Z
+  when: 2025-08-08 08:07:44.925041442 Z
