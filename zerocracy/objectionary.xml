@@ -1,71 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1559">
+<fb version="0.9.6" size="1124">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
+    <error t="S">GET https://api.github.com/repos/objectionary/reo: 403 - API rate limit exceeded for 40.65.56.227. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">81.388355393</seconds>
+    <seconds t="F">75.444113061</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-08-27T03:20:56Z</when>
+    <when t="T">2025-08-27T03:43:02Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-08-27T03:20:54Z</_time>
+    <_time t="T">2025-08-27T03:43:02Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">53676433517</latest>
-    <repository t="I">483303722</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <since t="T">2025-07-30T03:43:02Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-08-27T03:43:02Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-08-27T03:20:55Z</_time>
+    <_time t="T">2025-08-27T03:43:02Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eoc#641 has been opened by @github-actions[bot].</details>
-    <event_id t="I">53781610355</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">641</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-08-25T08:22:00Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <since t="T">2025-07-30T03:43:02Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-08-27T03:43:02Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-08-27T03:20:56Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-07-30T03:20:56Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-08-27T03:20:56Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-08-27T03:20:56Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-07-30T03:20:56Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-08-27T03:20:56Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-08-27T03:20:56Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-08-27T03:20:56Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-08-27T03:20:56Z</_time>
+    <_time t="T">2025-08-27T03:43:02Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-08-27T03:20:56Z</when>
+    <when t="T">2025-08-27T03:43:02Z</when>
   </f>
 </fb>

@@ -2,54 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
+  error: 'GET https://api.github.com/repos/objectionary/reo: 403 - API rate limit
+    exceeded for 40.65.56.227. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 81.388355393
+  seconds: 75.444113061
   version: 0.42.0
   what: judges-summary
-  when: 2025-08-27 03:20:56.847251322 Z
+  when: 2025-08-27 03:43:02.271583538 Z
 - _id: 1
-  _time: 2025-08-27 03:20:54.386056057 Z
+  _time: 2025-08-27 03:43:02.127173884 Z
   _version: 0.10.1/0.42.0/
-  latest: 53676433517
-  repository: 483303722
-  what: events-were-scanned
-  where: github
-- _id: 2
-  _time: 2025-08-27 03:20:55.841594132 Z
-  _version: 0.10.1/0.42.0/
-  branch: version-up
-  details: The pull request objectionary/eoc#641 has been opened by @github-actions[bot].
-  event_id: 53781610355
-  event_type: PullRequestEvent
-  issue: 641
-  repository: 489321585
-  what: pull-was-opened
-  when: 2025-08-25 08:22:00.000000000 Z
-  where: github
-  who: 41898282
-- _id: 3
-  _time: 2025-08-27 03:20:56.831482165 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-30 03:20:56.831657103 Z
-  what: quantity-of-deliverables
-  when: 2025-08-27 03:20:56.831616436 Z
-- _id: 4
-  _time: 2025-08-27 03:20:56.834729028 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-07-30 03:20:56.835754230 Z
+  since: 2025-07-30 03:43:02.127474655 Z
   what: quality-of-service
-  when: 2025-08-27 03:20:56.835711950 Z
-- _id: 5
-  _time: 2025-08-27 03:20:56.841060933 Z
+  when: 2025-08-27 03:43:02.127412639 Z
+- _id: 2
+  _time: 2025-08-27 03:43:02.267659488 Z
   _version: 0.10.1/0.42.0/
-  name: github-actions[bot]
-  what: who-has-name
-  when: 2025-08-27 03:20:56.841273301 Z
-  where: github
-  who: 41898282
-- _id: 6
-  _time: 2025-08-27 03:20:56.846329505 Z
+  since: 2025-07-30 03:43:02.267767730 Z
+  what: quantity-of-deliverables
+  when: 2025-08-27 03:43:02.267744126 Z
+- _id: 3
+  _time: 2025-08-27 03:43:02.268786721 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-08-27 03:20:56.846405878 Z
+  when: 2025-08-27 03:43:02.268860769 Z
