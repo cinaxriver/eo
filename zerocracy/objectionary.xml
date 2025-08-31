@@ -1,70 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1542">
+<fb version="0.9.6" size="775">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.646261717</seconds>
+    <seconds t="F">8.119365411</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-08-31T21:33:55Z</when>
+    <when t="T">2025-08-31T22:04:48Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
+    <_time t="T">2025-08-31T22:04:48Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/actions-checkout-5.x</branch>
-    <details t="S">The pull request objectionary/eolang.sty#110 has been opened by @renovate[bot].</details>
-    <event_id t="I">53217120722</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">110</issue>
-    <repository t="I">546194972</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-08-11T16:37:32Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-08-03T22:04:48Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-08-31T22:04:48Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
+    <_time t="T">2025-08-31T22:04:48Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">54053231760</latest>
-    <repository t="I">546194972</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-08-31T22:04:48Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
+    <_time t="T">2025-08-31T22:04:48Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-08-31T21:33:55Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-03T21:33:55Z</since>
+    <since t="T">2025-08-03T22:04:48Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-08-31T21:33:55Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-08-31T21:33:55Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-08-31T21:33:55Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-03T21:33:55Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-08-31T21:33:55Z</when>
+    <when t="T">2025-08-31T22:04:48Z</when>
   </f>
 </fb>
