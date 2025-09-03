@@ -2,74 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 9.986106976
+  seconds: 8.705867226
   version: 0.42.0
   what: judges-summary
-  when: 2025-09-03 03:13:30.994995102 Z
+  when: 2025-09-03 03:39:07.458170789 Z
 - _id: 1
-  _time: 2025-09-03 03:13:29.780466594 Z
+  _time: 2025-09-03 03:39:07.441377249 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/actions-checkout-5.x
-  details: The pull request objectionary/eo-book#48 has been opened by @renovate[bot].
-  event_id: 53213817066
-  event_type: PullRequestEvent
-  issue: 48
-  repository: 565789755
-  what: pull-was-opened
-  when: 2025-08-11 15:27:22.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-09-03 03:13:29.894897341 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/eo-book#47 has been opened by @renovate[bot].
-  event_id: 53094307024
-  event_type: PullRequestEvent
-  issue: 47
-  repository: 565789755
-  what: pull-was-opened
-  when: 2025-08-07 21:12:23.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-09-03 03:13:30.785742728 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-08-06 03:13:30.785861411 Z
+  since: 2025-08-06 03:39:07.441592823 Z
   what: quantity-of-deliverables
-  when: 2025-09-03 03:13:30.785836744 Z
-- _id: 4
-  _time: 2025-09-03 03:13:30.790567129 Z
+  when: 2025-09-03 03:39:07.441552487 Z
+- _id: 2
+  _time: 2025-09-03 03:39:07.452363106 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-09-03 03:13:30.790645186 Z
-- _id: 5
-  _time: 2025-09-03 03:13:30.793161593 Z
+  when: 2025-09-03 03:39:07.452610709 Z
+- _id: 3
+  _time: 2025-09-03 03:39:07.455249720 Z
   _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-09-03 03:13:30.793304371 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-09-03 03:13:30.988724910 Z
-  _version: 0.10.1/0.42.0/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 7
-  _time: 2025-09-03 03:13:30.991535510 Z
-  _version: 0.10.1/0.42.0/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 8
-  _time: 2025-09-03 03:13:30.993064542 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-08-06 03:13:30.993205737 Z
+  since: 2025-08-06 03:39:07.455386006 Z
   what: quality-of-service
-  when: 2025-09-03 03:13:30.993176802 Z
+  when: 2025-09-03 03:39:07.455353855 Z
