@@ -1,66 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1485">
+<fb version="0.9.6" size="790">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.132008543</seconds>
+    <seconds t="F">10.686829758</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-09-07T18:06:20Z</when>
+    <when t="T">2025-09-07T18:38:14Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-09-07T18:06:19Z</_time>
+    <_time t="T">2025-09-07T18:38:14Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <comments t="I">3</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eoc#658 has been reviewed by @yegor256 with 14 HoC and 3 comments.</details>
-    <event_id t="I">54292619437</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">14</hoc>
-    <issue t="I">658</issue>
-    <repository t="I">489321585</repository>
-    <review_comments t="I">0</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-09-05T08:48:46Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-08-10T18:38:14Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-09-07T18:38:14Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-09-07T18:06:20Z</_time>
+    <_time t="T">2025-09-07T18:38:14Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-10T18:06:20Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-09-07T18:06:20Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-09-07T18:38:14Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-09-07T18:06:20Z</_time>
+    <_time t="T">2025-09-07T18:38:14Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-09-07T18:06:20Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-09-07T18:06:20Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-10T18:06:20Z</since>
+    <since t="T">2025-08-10T18:38:14Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-09-07T18:06:20Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-09-07T18:06:20Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-09-07T18:06:20Z</when>
+    <when t="T">2025-09-07T18:38:14Z</when>
   </f>
 </fb>
