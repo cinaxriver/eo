@@ -3,24 +3,31 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 11.399784234
+  seconds: 8.841131883
   version: 0.42.0
   what: judges-summary
-  when: 2025-09-12 18:07:07.056546948 Z
+  when: 2025-09-12 18:37:52.509846617 Z
 - _id: 1
-  _time: 2025-09-12 18:07:07.047506520 Z
+  _time: 2025-09-12 18:37:52.492273942 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-08-15 18:07:07.047682809 Z
-  what: quantity-of-deliverables
-  when: 2025-09-12 18:07:07.047645940 Z
+  latest: 0
+  repository: 531151981
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2025-09-12 18:07:07.051681573 Z
+  _time: 2025-09-12 18:37:52.496845625 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-08-15 18:07:07.051822717 Z
-  what: quality-of-service
-  when: 2025-09-12 18:07:07.051789835 Z
+  since: 2025-08-15 18:37:52.496986338 Z
+  what: quantity-of-deliverables
+  when: 2025-09-12 18:37:52.496951343 Z
 - _id: 3
-  _time: 2025-09-12 18:07:07.053237658 Z
+  _time: 2025-09-12 18:37:52.502184216 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-09-12 18:07:07.053313871 Z
+  when: 2025-09-12 18:37:52.502292308 Z
+- _id: 4
+  _time: 2025-09-12 18:37:52.505514200 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-08-15 18:37:52.505970215 Z
+  what: quality-of-service
+  when: 2025-09-12 18:37:52.505931702 Z
