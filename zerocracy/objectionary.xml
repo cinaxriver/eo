@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="793">
+<fb version="0.9.6" size="1005">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">13.086955013</seconds>
+    <seconds t="F">26.517275334</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-09-24T07:35:07Z</when>
+    <when t="T">2025-09-24T08:07:38Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-09-24T07:35:07Z</_time>
+    <_time t="T">2025-09-24T08:07:33Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-09-24T07:35:07Z</when>
+    <latest t="I">54965802263</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-09-24T07:35:07Z</_time>
+    <_time t="T">2025-09-24T08:07:38Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-27T07:35:07Z</since>
+    <since t="T">2025-08-27T08:07:38Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-09-24T07:35:07Z</when>
+    <when t="T">2025-09-24T08:07:38Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-09-24T07:35:07Z</_time>
+    <_time t="T">2025-09-24T08:07:38Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-08-27T07:35:07Z</since>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-09-24T08:07:38Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-09-24T08:07:38Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-08-27T08:07:38Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-09-24T07:35:07Z</when>
+    <when t="T">2025-09-24T08:07:38Z</when>
   </f>
 </fb>
