@@ -2,25 +2,144 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 0.800714327
+  seconds: 9.845429761
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-07 00:49:31.892497569 Z
+  when: 2025-10-07 01:32:42.593270651 Z
 - _id: 1
-  _time: 2025-10-07 00:49:31.885010422 Z
+  _time: 2025-10-07 01:32:41.725488298 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-09 00:49:31.885199096 Z
-  what: quality-of-service
-  when: 2025-10-07 00:49:31.885160944 Z
+  branch: '232'
+  details: The pull request objectionary/sodg.rs#237 has been opened by @raprogramm.
+  event_id: 55308463704
+  event_type: PullRequestEvent
+  issue: 237
+  repository: 543969974
+  what: pull-was-opened
+  when: 2025-09-28 14:12:47.000000000 Z
+  where: github
+  who: 70325462
 - _id: 2
-  _time: 2025-10-07 00:49:31.887826324 Z
+  _time: 2025-10-07 01:32:41.846527825 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-09 00:49:31.887931701 Z
-  what: quantity-of-deliverables
-  when: 2025-10-07 00:49:31.887907796 Z
+  branch: '235'
+  details: The pull request objectionary/sodg.rs#236 has been opened by @raprogramm.
+  event_id: 55298587072
+  event_type: PullRequestEvent
+  issue: 236
+  repository: 543969974
+  what: pull-was-opened
+  when: 2025-09-28 03:01:41.000000000 Z
+  where: github
+  who: 70325462
 - _id: 3
-  _time: 2025-10-07 00:49:31.889130035 Z
+  _time: 2025-10-07 01:32:41.862398624 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/sodg.rs#235 has been opened by @raprogramm.
+  event_id: 55298028534
+  event_type: IssuesEvent
+  issue: 235
+  repository: 543969974
+  what: issue-was-opened
+  when: 2025-09-28 02:13:30.000000000 Z
+  where: github
+  who: 70325462
+- _id: 4
+  _time: 2025-10-07 01:32:41.953623336 Z
+  _version: 0.10.1/0.42.0/
+  comments: 3
+  commits: 1
+  details: The pull request objectionary/sodg.rs#234 has been reviewed by @yegor256
+    with 2 HoC and 3 comments.
+  event_id: 55279145178
+  event_type: PullRequestReviewEvent
+  files: 1
+  hoc: 2
+  issue: 234
+  repository: 543969974
+  review_comments: 0
+  what: pull-was-reviewed
+  when: 2025-09-27 02:41:47.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-10-07 01:32:42.204765111 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/sodg.rs#234 has been opened by @renovate[bot].
+  event_id: 55270949745
+  event_type: PullRequestEvent
+  issue: 234
+  repository: 543969974
+  what: pull-was-opened
+  when: 2025-09-26 20:09:21.000000000 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2025-10-07 01:32:42.364747964 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/sodg.rs#232 has been opened by @raprogramm.
+  event_id: 55168464922
+  event_type: IssuesEvent
+  issue: 232
+  repository: 543969974
+  what: issue-was-opened
+  when: 2025-09-25 00:18:26.000000000 Z
+  where: github
+  who: 70325462
+- _id: 7
+  _time: 2025-10-07 01:32:42.371518705 Z
+  _version: 0.10.1/0.42.0/
+  branch: '230'
+  details: The pull request objectionary/sodg.rs#231 has been opened by @raprogramm.
+  event_id: 55167652173
+  event_type: PullRequestEvent
+  issue: 231
+  repository: 543969974
+  what: pull-was-opened
+  when: 2025-09-24 23:40:06.000000000 Z
+  where: github
+  who: 70325462
+- _id: 8
+  _time: 2025-10-07 01:32:42.581396924 Z
+  _version: 0.10.1/0.42.0/
+  name: raprogramm
+  what: who-has-name
+  when: 2025-10-07 01:32:42.581547905 Z
+  where: github
+  who: 70325462
+- _id: 9
+  _time: 2025-10-07 01:32:42.582777685 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-10-07 01:32:42.582916454 Z
+  where: github
+  who: 526301
+- _id: 10
+  _time: 2025-10-07 01:32:42.583700744 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-10-07 01:32:42.583862736 Z
+  where: github
+  who: 29139614
+- _id: 11
+  _time: 2025-10-07 01:32:42.588212140 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-09 01:32:42.588312967 Z
+  what: quality-of-service
+  when: 2025-10-07 01:32:42.588289173 Z
+- _id: 12
+  _time: 2025-10-07 01:32:42.590522032 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-07 00:49:31.889268353 Z
+  when: 2025-10-07 01:32:42.590597242 Z
+- _id: 13
+  _time: 2025-10-07 01:32:42.592047754 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-09 01:32:42.592146708 Z
+  what: quantity-of-deliverables
+  when: 2025-10-07 01:32:42.592123625 Z
