@@ -1,174 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="3455">
+<fb version="0.9.6" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">9.845429761</seconds>
+    <seconds t="F">9.263426256</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
+    <when t="T">2025-10-07T02:30:19Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-10-07T01:32:41Z</_time>
+    <_time t="T">2025-10-07T02:30:19Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">232</branch>
-    <details t="S">The pull request objectionary/sodg.rs#237 has been opened by @raprogramm.</details>
-    <event_id t="I">55308463704</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">237</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-09-28T14:12:47Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
+    <since t="T">2025-09-09T02:30:19Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-10-07T02:30:19Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-10-07T01:32:41Z</_time>
+    <_time t="T">2025-10-07T02:30:19Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">235</branch>
-    <details t="S">The pull request objectionary/sodg.rs#236 has been opened by @raprogramm.</details>
-    <event_id t="I">55298587072</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">236</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-09-28T03:01:41Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-10-07T02:30:19Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-10-07T01:32:41Z</_time>
+    <_time t="T">2025-10-07T02:30:19Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">The issue objectionary/sodg.rs#235 has been opened by @raprogramm.</details>
-    <event_id t="I">55298028534</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">235</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-09-28T02:13:30Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-10-07T01:32:41Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <comments t="I">3</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/sodg.rs#234 has been reviewed by @yegor256 with 2 HoC and 3 comments.</details>
-    <event_id t="I">55279145178</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">2</hoc>
-    <issue t="I">234</issue>
-    <repository t="I">543969974</repository>
-    <review_comments t="I">0</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-09-27T02:41:47Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/crate-ci-typos-1.x</branch>
-    <details t="S">The pull request objectionary/sodg.rs#234 has been opened by @renovate[bot].</details>
-    <event_id t="I">55270949745</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">234</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-09-26T20:09:21Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">The issue objectionary/sodg.rs#232 has been opened by @raprogramm.</details>
-    <event_id t="I">55168464922</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">232</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-09-25T00:18:26Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">230</branch>
-    <details t="S">The pull request objectionary/sodg.rs#231 has been opened by @raprogramm.</details>
-    <event_id t="I">55167652173</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">231</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-09-24T23:40:06Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">raprogramm</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
-    <where t="S">github</where>
-    <who t="I">70325462</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-09-09T01:32:42Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
-  </f>
-  <f>
-    <_id t="I">13</_id>
-    <_time t="T">2025-10-07T01:32:42Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-09-09T01:32:42Z</since>
+    <since t="T">2025-09-09T02:30:19Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-10-07T01:32:42Z</when>
+    <when t="T">2025-10-07T02:30:19Z</when>
   </f>
 </fb>
