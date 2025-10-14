@@ -3,143 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 21.685767245
+  seconds: 9.658996169
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-14 12:47:21.396792055 Z
+  when: 2025-10-14 13:13:50.886240487 Z
 - _id: 1
-  _time: 2025-10-14 12:47:20.155592800 Z
-  _version: 0.10.1/0.42.0/
-  comments: 4
-  commits: 1
-  details: The pull request objectionary/news.eolang.org#88 has been reviewed by @yegor256
-    with 2 HoC and 4 comments.
-  event_id: 55708152482
-  event_type: PullRequestReviewEvent
-  files: 1
-  hoc: 2
-  issue: 88
-  repository: 501259435
-  review_comments: 0
-  what: pull-was-reviewed
-  when: 2025-10-07 08:51:25.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-10-14 12:47:20.556766498 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/fsfe-reuse-action-6.x
-  details: The pull request objectionary/news.eolang.org#88 has been opened by @renovate[bot].
-  event_id: 55675989715
-  event_type: PullRequestEvent
-  issue: 88
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-10-06 16:58:51.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-10-14 12:47:20.818936291 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/news.eolang.org#86 has been closed by @kodsurfer.
-  event_id: 55668760336
-  event_type: IssuesEvent
-  issue: 86
-  repository: 501259435
-  what: issue-was-closed
-  when: 2025-10-06 14:43:42.000000000 Z
-  where: github
-  who: 86408225
-- _id: 4
-  _time: 2025-10-14 12:47:21.063559226 Z
-  _version: 0.10.1/0.42.0/
-  branch: '86'
-  details: The pull request objectionary/news.eolang.org#87 has been opened by @kodsurfer.
-  event_id: 55493781513
-  event_type: PullRequestEvent
-  issue: 87
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-10-01 23:31:19.000000000 Z
-  where: github
-  who: 86408225
-- _id: 5
-  _time: 2025-10-14 12:47:21.069790035 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/news.eolang.org#86 has been opened by @kodsurfer.
-  event_id: 55493436776
-  event_type: IssuesEvent
-  issue: 86
-  repository: 501259435
-  what: issue-was-opened
-  when: 2025-10-01 23:18:41.000000000 Z
-  where: github
-  who: 86408225
-- _id: 6
-  _time: 2025-10-14 12:47:21.104390415 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/news.eolang.org#85 has been opened by @maxonfjvipon.
-  event_id: 54820659135
-  event_type: IssuesEvent
-  issue: 85
-  repository: 501259435
-  what: issue-was-opened
-  when: 2025-09-17 11:56:22.000000000 Z
-  where: github
-  who: 37025995
-- _id: 7
-  _time: 2025-10-14 12:47:21.368844680 Z
-  _version: 0.10.1/0.42.0/
-  latest: 55755609165
-  repository: 501259435
-  what: events-were-scanned
-  where: github
-- _id: 8
-  _time: 2025-10-14 12:47:21.374117392 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-10-14 12:47:21.374280506 Z
-  where: github
-  who: 526301
-- _id: 9
-  _time: 2025-10-14 12:47:21.376011354 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-10-14 12:47:21.376152597 Z
-  where: github
-  who: 29139614
-- _id: 10
-  _time: 2025-10-14 12:47:21.377106235 Z
-  _version: 0.10.1/0.42.0/
-  name: kodsurfer
-  what: who-has-name
-  when: 2025-10-14 12:47:21.377246206 Z
-  where: github
-  who: 86408225
-- _id: 11
-  _time: 2025-10-14 12:47:21.378442336 Z
-  _version: 0.10.1/0.42.0/
-  name: maxonfjvipon
-  what: who-has-name
-  when: 2025-10-14 12:47:21.378599750 Z
-  where: github
-  who: 37025995
-- _id: 12
-  _time: 2025-10-14 12:47:21.384232413 Z
+  _time: 2025-10-14 13:13:50.871679624 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-14 12:47:21.384333612 Z
-- _id: 13
-  _time: 2025-10-14 12:47:21.387543569 Z
+  when: 2025-10-14 13:13:50.871975881 Z
+- _id: 2
+  _time: 2025-10-14 13:13:50.881048780 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-16 12:47:21.387676407 Z
+  since: 2025-09-16 13:13:50.881465924 Z
   what: quality-of-service
-  when: 2025-10-14 12:47:21.387648174 Z
-- _id: 14
-  _time: 2025-10-14 12:47:21.394595720 Z
+  when: 2025-10-14 13:13:50.881157705 Z
+- _id: 3
+  _time: 2025-10-14 13:13:50.884829455 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-16 12:47:21.394727695 Z
+  since: 2025-09-16 13:13:50.884961573 Z
   what: quantity-of-deliverables
-  when: 2025-10-14 12:47:21.394701898 Z
+  when: 2025-10-14 13:13:50.884907482 Z
