@@ -3,24 +3,66 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.73761372
+  seconds: 13.633983705
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-16 14:38:30.185597636 Z
+  when: 2025-10-16 15:06:27.666858192 Z
 - _id: 1
-  _time: 2025-10-16 14:38:30.180002561 Z
+  _time: 2025-10-16 15:06:26.787475122 Z
+  _version: 0.10.1/0.42.0/
+  latest: 0
+  repository: 490157985
+  what: events-were-scanned
+  where: github
+- _id: 2
+  _time: 2025-10-16 15:06:27.163986889 Z
+  _version: 0.10.1/0.42.0/
+  latest: 55943387585
+  repository: 482612876
+  what: events-were-scanned
+  where: github
+- _id: 3
+  _time: 2025-10-16 15:06:27.486984550 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/fsfe-reuse-action-6.x
+  details: The pull request objectionary/eo-graphs#35 has been opened by @renovate[bot].
+  event_id: 55680170214
+  event_type: PullRequestEvent
+  issue: 35
+  repository: 396732517
+  what: pull-was-opened
+  when: 2025-10-06 18:29:15.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2025-10-16 15:06:27.648110258 Z
+  _version: 0.10.1/0.42.0/
+  latest: 55750996140
+  repository: 396732517
+  what: events-were-scanned
+  where: github
+- _id: 5
+  _time: 2025-10-16 15:06:27.654902936 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-18 15:06:27.655007181 Z
+  what: quality-of-service
+  when: 2025-10-16 15:06:27.654983297 Z
+- _id: 6
+  _time: 2025-10-16 15:06:27.659596426 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-16 14:38:30.180148713 Z
-- _id: 2
-  _time: 2025-10-16 14:38:30.182632245 Z
+  when: 2025-10-16 15:06:27.659679301 Z
+- _id: 7
+  _time: 2025-10-16 15:06:27.662010151 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-18 14:38:30.182770452 Z
-  what: quality-of-service
-  when: 2025-10-16 14:38:30.182737310 Z
-- _id: 3
-  _time: 2025-10-16 14:38:30.184667345 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-18 14:38:30.184767171 Z
+  since: 2025-09-18 15:06:27.662107162 Z
   what: quantity-of-deliverables
-  when: 2025-10-16 14:38:30.184744339 Z
+  when: 2025-10-16 15:06:27.662083989 Z
+- _id: 8
+  _time: 2025-10-16 15:06:27.664289967 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-10-16 15:06:27.664427724 Z
+  where: github
+  who: 29139614
