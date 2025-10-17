@@ -1,70 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1549">
+<fb version="0.9.6" size="795">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">9.582267778</seconds>
+    <seconds t="F">8.999781393</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-10-17T13:12:29Z</when>
+    <when t="T">2025-10-17T13:39:10Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
+    <_time t="T">2025-10-17T13:39:10Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/fsfe-reuse-action-6.x</branch>
-    <details t="S">The pull request objectionary/eo-intellij-plugin#79 has been opened by @renovate[bot].</details>
-    <event_id t="I">55678748672</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">79</issue>
-    <repository t="I">492899189</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-10-06T17:58:26Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-09-19T13:39:10Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-10-17T13:39:10Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
+    <_time t="T">2025-10-17T13:39:10Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">55937268845</latest>
-    <repository t="I">492899189</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <since t="T">2025-09-19T13:39:10Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-10-17T13:39:10Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
+    <_time t="T">2025-10-17T13:39:10Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-10-17T13:12:29Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-10-17T13:12:29Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-09-19T13:12:29Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-10-17T13:12:29Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-10-17T13:12:29Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-09-19T13:12:29Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-10-17T13:12:29Z</when>
+    <when t="T">2025-10-17T13:39:10Z</when>
   </f>
 </fb>

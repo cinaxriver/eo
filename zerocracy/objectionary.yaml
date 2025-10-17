@@ -3,53 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.582267778
+  seconds: 8.999781393
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-17 13:12:29.983569903 Z
+  when: 2025-10-17 13:39:10.773743651 Z
 - _id: 1
-  _time: 2025-10-17 13:12:29.874237603 Z
+  _time: 2025-10-17 13:39:10.764509787 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/fsfe-reuse-action-6.x
-  details: The pull request objectionary/eo-intellij-plugin#79 has been opened by
-    @renovate[bot].
-  event_id: 55678748672
-  event_type: PullRequestEvent
-  issue: 79
-  repository: 492899189
-  what: pull-was-opened
-  when: 2025-10-06 17:58:26.000000000 Z
-  where: github
-  who: 29139614
+  since: 2025-09-19 13:39:10.764733694 Z
+  what: quantity-of-deliverables
+  when: 2025-10-17 13:39:10.764693499 Z
 - _id: 2
-  _time: 2025-10-17 13:12:29.966379995 Z
+  _time: 2025-10-17 13:39:10.766451518 Z
   _version: 0.10.1/0.42.0/
-  latest: 55937268845
-  repository: 492899189
-  what: events-were-scanned
-  where: github
+  since: 2025-09-19 13:39:10.766587152 Z
+  what: quality-of-service
+  when: 2025-10-17 13:39:10.766555542 Z
 - _id: 3
-  _time: 2025-10-17 13:12:29.968340017 Z
+  _time: 2025-10-17 13:39:10.771932631 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-17 13:12:29.968415989 Z
-- _id: 4
-  _time: 2025-10-17 13:12:29.973458701 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-10-17 13:12:29.973599294 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2025-10-17 13:12:29.976346457 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-19 13:12:29.976451323 Z
-  what: quantity-of-deliverables
-  when: 2025-10-17 13:12:29.976426787 Z
-- _id: 6
-  _time: 2025-10-17 13:12:29.982261208 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-19 13:12:29.982365693 Z
-  what: quality-of-service
-  when: 2025-10-17 13:12:29.982341899 Z
+  when: 2025-10-17 13:39:10.772011959 Z
