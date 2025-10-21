@@ -2,25 +2,75 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 13.418062327
+  seconds: 15.553169541
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-21 07:35:21.235034379 Z
+  when: 2025-10-21 08:07:52.856380432 Z
 - _id: 1
-  _time: 2025-10-21 07:35:21.223911589 Z
+  _time: 2025-10-21 08:07:49.443403124 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-23 07:35:21.224094721 Z
-  what: quantity-of-deliverables
-  when: 2025-10-21 07:35:21.224056911 Z
+  branch: '40'
+  details: The pull request objectionary/game-of-life#45 has been opened by @uchitsa.
+  event_id: 4089640530
+  event_type: PullRequestEvent
+  issue: 45
+  repository: 501942888
+  what: pull-was-opened
+  when: 2025-10-16 23:51:54.000000000 Z
+  where: github
+  who: 29793349
 - _id: 2
-  _time: 2025-10-21 07:35:21.228554860 Z
+  _time: 2025-10-21 08:07:49.586299613 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/fsfe-reuse-action-6.x
+  details: The pull request objectionary/game-of-life#44 has been opened by @renovate[bot].
+  event_id: 3877210283
+  event_type: PullRequestEvent
+  issue: 44
+  repository: 501942888
+  what: pull-was-opened
+  when: 2025-10-06 16:41:55.000000000 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2025-10-21 08:07:49.719097257 Z
+  _version: 0.10.1/0.42.0/
+  latest: 4089640530
+  repository: 501942888
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2025-10-21 08:07:52.841916241 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-23 08:07:52.842016568 Z
+  what: quality-of-service
+  when: 2025-10-21 08:07:52.841994036 Z
+- _id: 5
+  _time: 2025-10-21 08:07:52.843813838 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-23 08:07:52.843919444 Z
+  what: quantity-of-deliverables
+  when: 2025-10-21 08:07:52.843896892 Z
+- _id: 6
+  _time: 2025-10-21 08:07:52.846642394 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-21 07:35:21.228659435 Z
-- _id: 3
-  _time: 2025-10-21 07:35:21.232081114 Z
+  when: 2025-10-21 08:07:52.846718616 Z
+- _id: 7
+  _time: 2025-10-21 08:07:52.851549784 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-09-23 07:35:21.232248807 Z
-  what: quality-of-service
-  when: 2025-10-21 07:35:21.232208632 Z
+  name: uchitsa
+  what: who-has-name
+  when: 2025-10-21 08:07:52.851689434 Z
+  where: github
+  who: 29793349
+- _id: 8
+  _time: 2025-10-21 08:07:52.852604500 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-10-21 08:07:52.852735665 Z
+  where: github
+  who: 29139614
