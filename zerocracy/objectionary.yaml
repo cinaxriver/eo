@@ -2,48 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 12.022127274
+  seconds: 8.803152582
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-24 22:36:25.416475809 Z
+  when: 2025-10-24 23:05:45.807495742 Z
 - _id: 1
-  _time: 2025-10-24 22:36:24.477489427 Z
+  _time: 2025-10-24 23:05:45.794678160 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/org.apache.maven.plugin-tools-maven-plugin-annotations-3.x
-  details: The pull request objectionary/hone-maven-plugin#378 has been opened by
-    @renovate[bot].
-  event_id: 4250294878
-  event_type: PullRequestEvent
-  issue: 378
-  repository: 840332960
-  what: pull-was-opened
-  when: 2025-10-24 22:28:48.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-10-24 22:36:25.404036627 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-26 22:36:25.404140061 Z
-  what: quantity-of-deliverables
-  when: 2025-10-24 22:36:25.404115876 Z
-- _id: 3
-  _time: 2025-10-24 22:36:25.406771041 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-26 22:36:25.406958902 Z
+  since: 2025-09-26 23:05:45.794869947 Z
   what: quality-of-service
-  when: 2025-10-24 22:36:25.406909930 Z
-- _id: 4
-  _time: 2025-10-24 22:36:25.413435832 Z
+  when: 2025-10-24 23:05:45.794833369 Z
+- _id: 2
+  _time: 2025-10-24 23:05:45.798244453 Z
   _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-10-24 22:36:25.413575834 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2025-10-24 22:36:25.415547022 Z
+  since: 2025-09-26 23:05:45.798347746 Z
+  what: quantity-of-deliverables
+  when: 2025-10-24 23:05:45.798323781 Z
+- _id: 3
+  _time: 2025-10-24 23:05:45.803934827 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-24 22:36:25.415624778 Z
+  when: 2025-10-24 23:05:45.804018323 Z
