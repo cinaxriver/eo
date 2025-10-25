@@ -2,195 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
+  error: 'GET https://api.github.com/repos/objectionary/sandbox: 403 - API rate limit
+    exceeded for 68.220.59.244. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 108.958463954
+  seconds: 75.075457637
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-25 13:37:27.449451311 Z
+  when: 2025-10-25 14:06:05.012254963 Z
 - _id: 1
-  _time: 2025-10-25 13:35:58.411007678 Z
+  _time: 2025-10-25 14:06:04.933908365 Z
   _version: 0.10.1/0.42.0/
-  commit: ed5f938f9e8d42da3c5e795ff629a54047006cda
-  default_branch: master
-  details: 'A new Git push #27058502421 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4769597171
-  event_type: PushEvent
-  push_id: 27058502421
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 13:17:26.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-10-25 13:35:58.919347445 Z
-  _version: 0.10.1/0.42.0/
-  commit: cdfe86e5649d02d8dce58c0299e9935ede03f6f1
-  default_branch: master
-  details: 'A new Git push #27056542641 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4767638775
-  event_type: PushEvent
-  push_id: 27056542641
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 12:01:45.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2025-10-25 13:35:59.184615061 Z
-  _version: 0.10.1/0.42.0/
-  commit: 10755a89c75474c4cceef97621f1da9b3717ca7e
-  default_branch: master
-  details: 'A new Git push #27056509965 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4767606129
-  event_type: PushEvent
-  push_id: 27056509965
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 12:00:34.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-10-25 13:35:59.463936704 Z
-  _version: 0.10.1/0.42.0/
-  commit: ff2e710d536fd3334d875631970edc15e2849f1a
-  default_branch: master
-  details: 'A new Git push #27055673226 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4766770253
-  event_type: PushEvent
-  push_id: 27055673226
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 11:23:15.000000000 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2025-10-25 13:35:59.766261706 Z
-  _version: 0.10.1/0.42.0/
-  commit: 6e9b0a11976e5dcb95c0997d06c706ae8fa8b116
-  default_branch: master
-  details: 'A new Git push #27055250899 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4766348189
-  event_type: PushEvent
-  push_id: 27055250899
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 11:04:33.000000000 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2025-10-25 13:36:00.076265084 Z
-  _version: 0.10.1/0.42.0/
-  commit: 60e041f409a1488ab829818eb7db742209224b7b
-  default_branch: master
-  details: 'A new Git push #27050999545 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4762101031
-  event_type: PushEvent
-  push_id: 27050999545
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 08:07:02.000000000 Z
-  where: github
-  who: 526301
-- _id: 7
-  _time: 2025-10-25 13:36:00.357301184 Z
-  _version: 0.10.1/0.42.0/
-  commit: 9ec8aca3547d26174f38d9866cf71037df4d4b6c
-  default_branch: master
-  details: 'A new Git push #27049637783 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4760741464
-  event_type: PushEvent
-  push_id: 27049637783
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 07:04:27.000000000 Z
-  where: github
-  who: 526301
-- _id: 8
-  _time: 2025-10-25 13:36:00.599835513 Z
-  _version: 0.10.1/0.42.0/
-  commit: 05c6e9064f690786243d860f9a9af0e66bbaf47e
-  default_branch: master
-  details: 'A new Git push #27049411713 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4760515734
-  event_type: PushEvent
-  push_id: 27049411713
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 06:53:39.000000000 Z
-  where: github
-  who: 526301
-- _id: 9
-  _time: 2025-10-25 13:36:00.876057958 Z
-  _version: 0.10.1/0.42.0/
-  commit: b555a959a8af4b16b2843536da2a996cfaf9508d
-  default_branch: master
-  details: 'A new Git push #27049379887 has arrived to objectionary/speedment, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 4760483941
-  event_type: PushEvent
-  push_id: 27049379887
-  ref: refs/heads/master
-  repository: 1049128198
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-25 06:52:01.000000000 Z
-  where: github
-  who: 526301
-- _id: 10
-  _time: 2025-10-25 13:36:01.137416606 Z
-  _version: 0.10.1/0.42.0/
-  latest: 3691348556
-  repository: 1049128198
-  what: events-were-scanned
-  where: github
-- _id: 11
-  _time: 2025-10-25 13:36:03.827341810 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-27 13:36:03.827504446 Z
-  what: quality-of-service
-  when: 2025-10-25 13:36:03.827465212 Z
-- _id: 12
-  _time: 2025-10-25 13:36:03.831209780 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-27 13:36:03.831361756 Z
-  what: quantity-of-deliverables
-  when: 2025-10-25 13:36:03.831325989 Z
-- _id: 13
-  _time: 2025-10-25 13:36:03.847486956 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2025-10-25 13:36:03.847626628 Z
-  where: github
-  who: 526301
-- _id: 14
-  _time: 2025-10-25 13:37:27.446498085 Z
-  _version: 0.10.1/0.42.0/
-  total_active_contributors: 14
   what: dimensions-of-terrain
-  when: 2025-10-25 13:36:03.850032360 Z
+  when: 2025-10-25 14:06:04.934132625 Z
+- _id: 2
+  _time: 2025-10-25 14:06:05.003737124 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-27 14:06:05.003921649 Z
+  what: quantity-of-deliverables
+  when: 2025-10-25 14:06:05.003885191 Z
+- _id: 3
+  _time: 2025-10-25 14:06:05.010894506 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-27 14:06:05.011031472 Z
+  what: quality-of-service
+  when: 2025-10-25 14:06:05.010999042 Z
