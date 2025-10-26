@@ -3,51 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 12.049142154
+  seconds: 12.732876617
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-26 21:34:05.815301434 Z
+  when: 2025-10-26 22:05:43.050413536 Z
 - _id: 1
-  _time: 2025-10-26 21:34:05.436345922 Z
+  _time: 2025-10-26 22:05:43.042667155 Z
   _version: 0.10.1/0.42.0/
-  details: The issue objectionary/reo#185 has been opened by @morphqdd.
-  event_id: 4198971969
-  event_type: IssuesEvent
-  issue: 185
-  repository: 519299365
-  what: issue-was-opened
-  when: 2025-10-22 21:39:21.000000000 Z
-  where: github
-  who: 125282851
+  since: 2025-09-28 22:05:43.042885843 Z
+  what: quality-of-service
+  when: 2025-10-26 22:05:43.042846079 Z
 - _id: 2
-  _time: 2025-10-26 21:34:05.797296887 Z
+  _time: 2025-10-26 22:05:43.045173666 Z
   _version: 0.10.1/0.42.0/
-  latest: 4198971969
-  repository: 519299365
-  what: events-were-scanned
-  where: github
+  since: 2025-09-28 22:05:43.045270507 Z
+  what: quantity-of-deliverables
+  when: 2025-10-26 22:05:43.045247614 Z
 - _id: 3
-  _time: 2025-10-26 21:34:05.803106064 Z
+  _time: 2025-10-26 22:05:43.049549253 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-26 21:34:05.803178821 Z
-- _id: 4
-  _time: 2025-10-26 21:34:05.804974501 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-28 21:34:05.805064857 Z
-  what: quantity-of-deliverables
-  when: 2025-10-26 21:34:05.805043750 Z
-- _id: 5
-  _time: 2025-10-26 21:34:05.810290926 Z
-  _version: 0.10.1/0.42.0/
-  name: morphqdd
-  what: who-has-name
-  when: 2025-10-26 21:34:05.810421566 Z
-  where: github
-  who: 125282851
-- _id: 6
-  _time: 2025-10-26 21:34:05.813131086 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-28 21:34:05.813224598 Z
-  what: quality-of-service
-  when: 2025-10-26 21:34:05.813203491 Z
+  when: 2025-10-26 22:05:43.049626006 Z
