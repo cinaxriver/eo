@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
+    rate limit exceeded for 52.225.25.97. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 12.079471063
+  seconds: 75.929279852
   version: 0.42.0
   what: judges-summary
-  when: 2025-10-28 10:06:25.771583002 Z
+  when: 2025-10-28 10:40:12.972485336 Z
 - _id: 1
-  _time: 2025-10-28 10:06:25.756835994 Z
+  _time: 2025-10-28 10:40:12.892687626 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-30 10:40:12.892955388 Z
+  what: quality-of-service
+  when: 2025-10-28 10:40:12.892897489 Z
+- _id: 2
+  _time: 2025-10-28 10:40:12.966422155 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-09-30 10:40:12.966533013 Z
+  what: quantity-of-deliverables
+  when: 2025-10-28 10:40:12.966507144 Z
+- _id: 3
+  _time: 2025-10-28 10:40:12.967647017 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-10-28 10:06:25.757289588 Z
-- _id: 2
-  _time: 2025-10-28 10:06:25.759470992 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-30 10:06:25.759630098 Z
-  what: quantity-of-deliverables
-  when: 2025-10-28 10:06:25.759596606 Z
-- _id: 3
-  _time: 2025-10-28 10:06:25.769862848 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-09-30 10:06:25.770020952 Z
-  what: quality-of-service
-  when: 2025-10-28 10:06:25.769986819 Z
+  when: 2025-10-28 10:40:12.967724682 Z
