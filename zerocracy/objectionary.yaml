@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/opeo-maven-plugin: 403 - API
+    rate limit exceeded for 172.184.211.113. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 9.112860181
+  seconds: 74.602750067
   version: 0.42.0
   what: judges-summary
-  when: 2025-11-10 13:41:48.023041224 Z
+  when: 2025-11-10 14:07:19.492875360 Z
 - _id: 1
-  _time: 2025-11-10 13:41:48.009481520 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-10-13 13:41:48.009690912 Z
-  what: quality-of-service
-  when: 2025-11-10 13:41:48.009651699 Z
-- _id: 2
-  _time: 2025-11-10 13:41:48.016014922 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-10-13 13:41:48.016191002 Z
-  what: quantity-of-deliverables
-  when: 2025-11-10 13:41:48.016146779 Z
-- _id: 3
-  _time: 2025-11-10 13:41:48.017792387 Z
+  _time: 2025-11-10 14:07:19.410246550 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-11-10 13:41:48.017873048 Z
+  when: 2025-11-10 14:07:19.410471701 Z
+- _id: 2
+  _time: 2025-11-10 14:07:19.484500919 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-10-13 14:07:19.484641282 Z
+  what: quantity-of-deliverables
+  when: 2025-11-10 14:07:19.484607879 Z
+- _id: 3
+  _time: 2025-11-10 14:07:19.488366186 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-10-13 14:07:19.488504094 Z
+  what: quality-of-service
+  when: 2025-11-10 14:07:19.488471643 Z
