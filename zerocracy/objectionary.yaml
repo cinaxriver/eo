@@ -3,24 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.15901802
+  seconds: 22.422591443
   version: 0.42.0
   what: judges-summary
-  when: 2025-11-26 08:07:33.627375439 Z
+  when: 2025-11-26 08:41:49.382808318 Z
 - _id: 1
-  _time: 2025-11-26 08:07:33.617491229 Z
+  _time: 2025-11-26 08:41:49.375194522 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-10-29 08:41:49.375388475 Z
+  what: quantity-of-deliverables
+  when: 2025-11-26 08:41:49.375349041 Z
+- _id: 2
+  _time: 2025-11-26 08:41:49.376702995 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-11-26 08:07:33.617631903 Z
-- _id: 2
-  _time: 2025-11-26 08:07:33.622752361 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-10-29 08:07:33.622920165 Z
-  what: quality-of-service
-  when: 2025-11-26 08:07:33.622856285 Z
+  when: 2025-11-26 08:41:49.376813041 Z
 - _id: 3
-  _time: 2025-11-26 08:07:33.625426258 Z
+  _time: 2025-11-26 08:41:49.380995426 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-10-29 08:07:33.625523299 Z
-  what: quantity-of-deliverables
-  when: 2025-11-26 08:07:33.625501058 Z
+  since: 2025-10-29 08:41:49.381137511 Z
+  what: quality-of-service
+  when: 2025-11-26 08:41:49.381103628 Z
