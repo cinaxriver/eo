@@ -2,25 +2,33 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 9.043084558
+  seconds: 12.593832233
   version: 0.42.0
   what: judges-summary
-  when: 2025-11-29 06:42:17.016747765 Z
+  when: 2025-11-29 07:05:42.183916384 Z
 - _id: 1
-  _time: 2025-11-29 06:42:17.010967973 Z
+  _time: 2025-11-29 07:05:41.486207795 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-01 06:42:17.011153069 Z
-  what: quality-of-service
-  when: 2025-11-29 06:42:17.011116240 Z
+  latest: 0
+  repository: 1037933692
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2025-11-29 06:42:17.013668568 Z
+  _time: 2025-11-29 07:05:42.172563817 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-11-29 06:42:17.013747215 Z
+  when: 2025-11-29 07:05:42.172643806 Z
 - _id: 3
-  _time: 2025-11-29 06:42:17.015831302 Z
+  _time: 2025-11-29 07:05:42.175716770 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-01 06:42:17.015928914 Z
+  since: 2025-11-01 07:05:42.175923917 Z
   what: quantity-of-deliverables
-  when: 2025-11-29 06:42:17.015906733 Z
+  when: 2025-11-29 07:05:42.175871038 Z
+- _id: 4
+  _time: 2025-11-29 07:05:42.181071237 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-01 07:05:42.181173147 Z
+  what: quality-of-service
+  when: 2025-11-29 07:05:42.181148662 Z
