@@ -2,88 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '+' for nil
   inserted: 8
-  seconds: 16.206942229
+  seconds: 0.79819346
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-01 14:06:27.767212836 Z
+  when: 2025-12-01 14:39:53.797936943 Z
 - _id: 1
-  _time: 2025-12-01 14:06:26.762418469 Z
+  _time: 2025-12-01 14:39:53.789475649 Z
   _version: 0.10.1/0.42.0/
-  branch: version-up
-  details: The pull request objectionary/eoc#805 has been opened by @github-actions[bot].
-  event_id: 4989814038
-  event_type: PullRequestEvent
-  issue: 805
-  repository: 489321585
-  what: pull-was-opened
-  when: 2025-11-30 11:27:11.000000000 Z
-  where: github
-  who: 41898282
+  since: 2025-11-03 14:39:53.789671415 Z
+  what: quality-of-service
+  when: 2025-12-01 14:39:53.789633314 Z
 - _id: 2
-  _time: 2025-12-01 14:06:27.029776780 Z
+  _time: 2025-12-01 14:39:53.794681823 Z
   _version: 0.10.1/0.42.0/
-  details: The issue objectionary/eoc#434 has been closed by @0pdd.
-  event_id: 4989813265
-  event_type: IssuesEvent
-  issue: 434
-  repository: 489321585
-  what: issue-was-closed
-  when: 2025-11-30 11:27:00.000000000 Z
-  where: github
-  who: 24456188
+  since: 2025-11-03 14:39:53.794793211 Z
+  what: quantity-of-deliverables
+  when: 2025-12-01 14:39:53.794768275 Z
 - _id: 3
-  _time: 2025-12-01 14:06:27.726621514 Z
-  _version: 0.10.1/0.42.0/
-  branch: "#434"
-  details: The pull request objectionary/eoc#804 has been opened by @vladislav-yevtushenko.
-  event_id: 4989071540
-  event_type: PullRequestEvent
-  issue: 804
-  repository: 489321585
-  what: pull-was-opened
-  when: 2025-11-30 08:45:22.000000000 Z
-  where: github
-  who: 2672964
-- _id: 4
-  _time: 2025-12-01 14:06:27.747958572 Z
+  _time: 2025-12-01 14:39:53.796978510 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-01 14:06:27.748037169 Z
-- _id: 5
-  _time: 2025-12-01 14:06:27.754125345 Z
-  _version: 0.10.1/0.42.0/
-  name: github-actions[bot]
-  what: who-has-name
-  when: 2025-12-01 14:06:27.754260718 Z
-  where: github
-  who: 41898282
-- _id: 6
-  _time: 2025-12-01 14:06:27.755074876 Z
-  _version: 0.10.1/0.42.0/
-  name: 0pdd
-  what: who-has-name
-  when: 2025-12-01 14:06:27.755204528 Z
-  where: github
-  who: 24456188
-- _id: 7
-  _time: 2025-12-01 14:06:27.756205074 Z
-  _version: 0.10.1/0.42.0/
-  name: vladislav-yevtushenko
-  what: who-has-name
-  when: 2025-12-01 14:06:27.756358470 Z
-  where: github
-  who: 2672964
-- _id: 8
-  _time: 2025-12-01 14:06:27.760733220 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-03 14:06:27.760833718 Z
-  what: quality-of-service
-  when: 2025-12-01 14:06:27.760809693 Z
-- _id: 9
-  _time: 2025-12-01 14:06:27.762493203 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-03 14:06:27.762590725 Z
-  what: quantity-of-deliverables
-  when: 2025-12-01 14:06:27.762567712 Z
+  when: 2025-12-01 14:39:53.797052698 Z
