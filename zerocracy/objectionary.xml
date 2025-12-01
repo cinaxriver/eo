@@ -1,36 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="793">
+<fb version="0.9.6" size="2276">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '+' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">14.055479549</seconds>
+    <seconds t="F">16.206942229</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-12-01T13:44:00Z</when>
+    <when t="T">2025-12-01T14:06:27Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-12-01T13:44:00Z</_time>
+    <_time t="T">2025-12-01T14:06:26Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-11-03T13:44:00Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-12-01T13:44:00Z</when>
+    <branch t="S">version-up</branch>
+    <details t="S">The pull request objectionary/eoc#805 has been opened by @github-actions[bot].</details>
+    <event_id t="I">4989814038</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">805</issue>
+    <repository t="I">489321585</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-11-30T11:27:11Z</when>
+    <where t="S">github</where>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-12-01T13:44:00Z</_time>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-11-03T13:44:00Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-12-01T13:44:00Z</when>
+    <details t="S">The issue objectionary/eoc#434 has been closed by @0pdd.</details>
+    <event_id t="I">4989813265</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">434</issue>
+    <repository t="I">489321585</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2025-11-30T11:27:00Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-12-01T13:44:00Z</_time>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">#434</branch>
+    <details t="S">The pull request objectionary/eoc#804 has been opened by @vladislav-yevtushenko.</details>
+    <event_id t="I">4989071540</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">804</issue>
+    <repository t="I">489321585</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-11-30T08:45:22Z</when>
+    <where t="S">github</where>
+    <who t="I">2672964</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-12-01T13:44:00Z</when>
+    <when t="T">2025-12-01T14:06:27Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">github-actions[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-12-01T14:06:27Z</when>
+    <where t="S">github</where>
+    <who t="I">41898282</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">0pdd</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-12-01T14:06:27Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">vladislav-yevtushenko</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-12-01T14:06:27Z</when>
+    <where t="S">github</where>
+    <who t="I">2672964</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-11-03T14:06:27Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-12-01T14:06:27Z</when>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2025-12-01T14:06:27Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-11-03T14:06:27Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-12-01T14:06:27Z</when>
   </f>
 </fb>
