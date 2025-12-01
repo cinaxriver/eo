@@ -2,29 +2,50 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/news.eolang.org: 403 - API
-    rate limit exceeded for 52.159.247.68. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error:
+  - undefined method '[]' for nil
+  - 'Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 73.752853672
+  seconds: 191.723981937
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-01 18:47:16.553707532 Z
+  when: 2025-12-01 19:10:32.688911177 Z
 - _id: 1
-  _time: 2025-12-01 18:47:16.472983776 Z
+  _time: 2025-12-01 19:07:31.890005142 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-03 18:47:16.473172428 Z
-  what: quality-of-service
-  when: 2025-12-01 18:47:16.473133656 Z
+  branch: renovate/actions-checkout-6.x
+  details: The pull request objectionary/jucs#63 has been opened by @renovate[bot].
+  event_id: 4815375827
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 63
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-11-20 18:37:55.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-12-01 18:47:16.545152375 Z
+  _time: 2025-12-01 19:07:32.679920471 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-12-01 19:07:32.680110796 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2025-12-01 19:07:32.682786004 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-03 19:07:32.682890338 Z
+  what: quantity-of-deliverables
+  when: 2025-12-01 19:07:32.682865502 Z
+- _id: 4
+  _time: 2025-12-01 19:10:32.684177523 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-03 19:10:32.684306663 Z
+  what: quality-of-service
+  when: 2025-12-01 19:10:32.684280625 Z
+- _id: 5
+  _time: 2025-12-01 19:10:32.685843949 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-01 18:47:16.545235931 Z
-- _id: 3
-  _time: 2025-12-01 18:47:16.549624273 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-03 18:47:16.549724129 Z
-  what: quantity-of-deliverables
-  when: 2025-12-01 18:47:16.549700545 Z
+  when: 2025-12-01 19:10:32.685924028 Z
