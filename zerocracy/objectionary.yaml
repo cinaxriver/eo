@@ -2,89 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '+' for nil
   inserted: 8
-  seconds: 26.064856195
+  seconds: 12.355634244
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-04 08:08:25.586262234 Z
+  when: 2025-12-04 08:42:47.558662226 Z
 - _id: 1
-  _time: 2025-12-04 08:08:23.669197803 Z
+  _time: 2025-12-04 08:42:47.546383477 Z
   _version: 0.10.1/0.42.0/
-  branch: version-up
-  details: The pull request objectionary/eoc#805 has been opened by @github-actions[bot].
-  event_id: 4989814038
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 805
-  repository: 489321585
-  what: pull-was-opened
-  when: 2025-11-30 11:27:11.000000000 Z
-  where: github
-  who: 41898282
-- _id: 2
-  _time: 2025-12-04 08:08:24.282380836 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/eoc#434 has been closed by @0pdd.
-  event_id: 4989813265
-  event_type: IssuesEvent
-  issue: 434
-  repository: 489321585
-  what: issue-was-closed
-  when: 2025-11-30 11:27:00.000000000 Z
-  where: github
-  who: 24456188
-- _id: 3
-  _time: 2025-12-04 08:08:25.553177928 Z
-  _version: 0.10.1/0.42.0/
-  branch: "#434"
-  details: The pull request objectionary/eoc#804 has been opened by @vladislav-yevtushenko.
-  event_id: 4989071540
-  event_type: PullRequestEvent
-  issue: 804
-  repository: 489321585
-  what: pull-was-opened
-  when: 2025-11-30 08:45:22.000000000 Z
-  where: github
-  who: 2672964
-- _id: 4
-  _time: 2025-12-04 08:08:25.569391295 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-06 08:08:25.569551176 Z
+  since: 2025-11-06 08:42:47.546632682 Z
   what: quality-of-service
-  when: 2025-12-04 08:08:25.569514712 Z
-- _id: 5
-  _time: 2025-12-04 08:08:25.573843430 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-06 08:08:25.574010965 Z
-  what: quantity-of-deliverables
-  when: 2025-12-04 08:08:25.573975667 Z
-- _id: 6
-  _time: 2025-12-04 08:08:25.575291621 Z
+  when: 2025-12-04 08:42:47.546592197 Z
+- _id: 2
+  _time: 2025-12-04 08:42:47.555941643 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-04 08:08:25.575431094 Z
-- _id: 7
-  _time: 2025-12-04 08:08:25.580477585 Z
+  when: 2025-12-04 08:42:47.556025229 Z
+- _id: 3
+  _time: 2025-12-04 08:42:47.557274578 Z
   _version: 0.10.1/0.42.0/
-  name: 0pdd
-  what: who-has-name
-  when: 2025-12-04 08:08:25.580697071 Z
-  where: github
-  who: 24456188
-- _id: 8
-  _time: 2025-12-04 08:08:25.582036460 Z
-  _version: 0.10.1/0.42.0/
-  name: vladislav-yevtushenko
-  what: who-has-name
-  when: 2025-12-04 08:08:25.582249988 Z
-  where: github
-  who: 2672964
-- _id: 9
-  _time: 2025-12-04 08:08:25.583650192 Z
-  _version: 0.10.1/0.42.0/
-  name: github-actions[bot]
-  what: who-has-name
-  when: 2025-12-04 08:08:25.583880281 Z
-  where: github
-  who: 41898282
+  since: 2025-11-06 08:42:47.557371468 Z
+  what: quantity-of-deliverables
+  when: 2025-12-04 08:42:47.557348466 Z
