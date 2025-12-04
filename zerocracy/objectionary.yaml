@@ -2,29 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/news.eolang.org: 403 - API
-    rate limit exceeded for 104.209.11.18. (But here''s the good news: Authenticated
+  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
+    rate limit exceeded for 52.159.229.2. (But here''s the good news: Authenticated
     requests get a higher rate limit. Check out the documentation for more details.)
     // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 73.333395661
+  seconds: 75.983444545
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-04 10:07:28.401507726 Z
+  when: 2025-12-04 10:41:58.044678639 Z
 - _id: 1
-  _time: 2025-12-04 10:07:28.394638789 Z
+  _time: 2025-12-04 10:41:57.967598273 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-06 10:41:57.967909897 Z
+  what: quality-of-service
+  when: 2025-12-04 10:41:57.967848141 Z
+- _id: 2
+  _time: 2025-12-04 10:41:58.036746711 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-06 10:41:58.036863019 Z
+  what: quantity-of-deliverables
+  when: 2025-12-04 10:41:58.036838994 Z
+- _id: 3
+  _time: 2025-12-04 10:41:58.042058317 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-04 10:07:28.395153469 Z
-- _id: 2
-  _time: 2025-12-04 10:07:28.397337148 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-06 10:07:28.397475406 Z
-  what: quantity-of-deliverables
-  when: 2025-12-04 10:07:28.397442074 Z
-- _id: 3
-  _time: 2025-12-04 10:07:28.400175841 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-06 10:07:28.400311013 Z
-  what: quality-of-service
-  when: 2025-12-04 10:07:28.400279024 Z
+  when: 2025-12-04 10:41:58.042139079 Z
