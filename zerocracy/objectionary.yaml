@@ -2,25 +2,47 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 0.783960717
+  seconds: 9.352205921
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-06 21:34:32.212963455 Z
+  when: 2025-12-06 22:05:27.191520613 Z
 - _id: 1
-  _time: 2025-12-06 21:34:32.201711082 Z
+  _time: 2025-12-06 22:05:26.618290714 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/actions-checkout-6.x
+  details: The pull request objectionary/jucs#63 has been opened by @renovate[bot].
+  event_id: 4815375827
+  event_type: PullRequestEvent
+  issue: 63
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-11-20 18:37:55.000000000 Z
+  where: github
+  who: 29139614
+- _id: 2
+  _time: 2025-12-06 22:05:27.182903905 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-12-06 22:05:27.183044396 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2025-12-06 22:05:27.185905049 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-08 22:05:27.186007379 Z
+  what: quality-of-service
+  when: 2025-12-06 22:05:27.185983265 Z
+- _id: 4
+  _time: 2025-12-06 22:05:27.187381222 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-06 21:34:32.201856833 Z
-- _id: 2
-  _time: 2025-12-06 21:34:32.210051936 Z
+  when: 2025-12-06 22:05:27.187457283 Z
+- _id: 5
+  _time: 2025-12-06 22:05:27.190516229 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-08 21:34:32.210238854 Z
-  what: quality-of-service
-  when: 2025-12-06 21:34:32.210200823 Z
-- _id: 3
-  _time: 2025-12-06 21:34:32.211975743 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-08 21:34:32.212102720 Z
+  since: 2025-11-08 22:05:27.190655247 Z
   what: quantity-of-deliverables
-  when: 2025-12-06 21:34:32.212049571 Z
+  when: 2025-12-06 22:05:27.190630261 Z
