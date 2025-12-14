@@ -2,25 +2,187 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 9.282166361
+  seconds: 17.413053998
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-14 10:05:39.827823816 Z
+  when: 2025-12-14 10:38:10.315606721 Z
 - _id: 1
-  _time: 2025-12-14 10:05:39.814348365 Z
+  _time: 2025-12-14 10:38:06.531585636 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4749 has been closed by @yegor256.
+  event_id: 5279794754
+  event_type: IssuesEvent
+  issue: 4749
+  repository: 73056727
+  what: issue-was-closed
+  when: 2025-12-13 05:33:22.000000000 Z
+  where: github
+  who: 526301
+- _id: 2
+  _time: 2025-12-14 10:38:06.654769710 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4749 has been opened by @yegor256.
+  event_id: 5279793663
+  event_type: IssuesEvent
+  issue: 4749
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-12-13 05:33:06.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-12-14 10:38:07.062283867 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4748 has been opened by @yegor256.
+  event_id: 5279545567
+  event_type: IssuesEvent
+  issue: 4748
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-12-13 04:35:30.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-12-14 10:38:07.676584526 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/major-github-artifact-actions
+  details: The pull request objectionary/eo#4747 has been opened by @renovate[bot].
+  event_id: 5275242058
+  event_type: PullRequestEvent
+  issue: 4747
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-12-12 20:20:19.000000000 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2025-12-14 10:38:07.788802620 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/zerocracy-judges-action-0.x
+  details: The pull request objectionary/eo#4746 has been opened by @renovate[bot].
+  event_id: 5275241266
+  event_type: PullRequestEvent
+  issue: 4746
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-12-12 20:20:16.000000000 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2025-12-14 10:38:08.100020838 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/zerocracy-judges-action-0.x
+  details: The pull request objectionary/eo#4745 has been opened by @renovate[bot].
+  event_id: 5269729169
+  event_type: PullRequestEvent
+  issue: 4745
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-12-12 15:22:13.000000000 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2025-12-14 10:38:08.894950350 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4744 has been opened by @0pdd.
+  event_id: 5266763700
+  event_type: IssuesEvent
+  issue: 4744
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-12-12 13:05:57.000000000 Z
+  where: github
+  who: 24456188
+- _id: 8
+  _time: 2025-12-14 10:38:08.909800189 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo#4743 has been opened by @0pdd.
+  event_id: 5266762994
+  event_type: IssuesEvent
+  issue: 4743
+  repository: 73056727
+  what: issue-was-opened
+  when: 2025-12-12 13:05:55.000000000 Z
+  where: github
+  who: 24456188
+- _id: 9
+  _time: 2025-12-14 10:38:09.388841336 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/com.qulice-qulice-maven-plugin-0.x
+  details: The pull request objectionary/eo#4742 has been opened by @renovate[bot].
+  event_id: 5260297984
+  event_type: PullRequestEvent
+  issue: 4742
+  repository: 73056727
+  what: pull-was-opened
+  when: 2025-12-12 07:29:54.000000000 Z
+  where: github
+  who: 29139614
+- _id: 10
+  _time: 2025-12-14 10:38:09.854393881 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-16 10:38:09.854496561 Z
+  what: quantity-of-deliverables
+  when: 2025-12-14 10:38:09.854473308 Z
+- _id: 11
+  _time: 2025-12-14 10:38:09.859105046 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2025-12-14 10:38:09.859245187 Z
+  where: github
+  who: 526301
+- _id: 12
+  _time: 2025-12-14 10:38:09.860071534 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-12-14 10:38:09.860205884 Z
+  where: github
+  who: 29139614
+- _id: 13
+  _time: 2025-12-14 10:38:09.861066686 Z
+  _version: 0.10.1/0.42.0/
+  name: 0pdd
+  what: who-has-name
+  when: 2025-12-14 10:38:09.861208159 Z
+  where: github
+  who: 24456188
+- _id: 14
+  _time: 2025-12-14 10:38:10.047037735 Z
+  _version: 0.10.1/0.42.0/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 15
+  _time: 2025-12-14 10:38:10.305516502 Z
+  _version: 0.10.1/0.42.0/
+  details: The '#bug' label was attached by @0pdd to the issue objectionary/eo#4743.
+  issue: 4743
+  label: bug
+  repository: 73056727
+  what: label-was-attached
+  when: 2025-12-12 13:05:54.000000000 Z
+  where: github
+  who: 24456188
+- _id: 16
+  _time: 2025-12-14 10:38:10.308479217 Z
+  _version: 0.10.1/0.42.0/
+  latest: 4743
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 17
+  _time: 2025-12-14 10:38:10.309830042 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-14 10:05:39.814498556 Z
-- _id: 2
-  _time: 2025-12-14 10:05:39.821895735 Z
+  when: 2025-12-14 10:38:10.309939596 Z
+- _id: 18
+  _time: 2025-12-14 10:38:10.311565292 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-16 10:05:39.822036108 Z
-  what: quantity-of-deliverables
-  when: 2025-12-14 10:05:39.822002084 Z
-- _id: 3
-  _time: 2025-12-14 10:05:39.823801366 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-16 10:05:39.823945546 Z
+  since: 2025-11-16 10:38:10.311662413 Z
   what: quality-of-service
-  when: 2025-12-14 10:05:39.823912324 Z
+  when: 2025-12-14 10:38:10.311639149 Z
