@@ -2,29 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/reducing-programs-to-objects:
-    403 - API rate limit exceeded for 52.160.164.120. (But here''s the good news:
-    Authenticated requests get a higher rate limit. Check out the documentation for
-    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
+    rate limit exceeded for 57.151.138.144. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 74.634325104
+  seconds: 76.16105444
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-14 12:47:51.727467578 Z
+  when: 2025-12-14 13:13:08.436801238 Z
 - _id: 1
-  _time: 2025-12-14 12:47:51.716512073 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-16 12:47:51.716702450 Z
-  what: quality-of-service
-  when: 2025-12-14 12:47:51.716663837 Z
-- _id: 2
-  _time: 2025-12-14 12:47:51.721877899 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-16 12:47:51.722011219 Z
-  what: quantity-of-deliverables
-  when: 2025-12-14 12:47:51.721959402 Z
-- _id: 3
-  _time: 2025-12-14 12:47:51.725475180 Z
+  _time: 2025-12-14 13:13:08.332583994 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-14 12:47:51.725553897 Z
+  when: 2025-12-14 13:13:08.332722358 Z
+- _id: 2
+  _time: 2025-12-14 13:13:08.429232311 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-16 13:13:08.429368145 Z
+  what: quality-of-service
+  when: 2025-12-14 13:13:08.429339219 Z
+- _id: 3
+  _time: 2025-12-14 13:13:08.433288686 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-16 13:13:08.433390317 Z
+  what: quantity-of-deliverables
+  when: 2025-12-14 13:13:08.433369673 Z
