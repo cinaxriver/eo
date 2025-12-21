@@ -3,24 +3,79 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 76.340721891
+  seconds: 20.483677745
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-21 11:06:03.720536654 Z
+  when: 2025-12-21 11:34:27.547254747 Z
 - _id: 1
-  _time: 2025-12-21 11:06:03.712185982 Z
+  _time: 2025-12-21 11:34:27.503510046 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-23 11:06:03.712370669 Z
-  what: quality-of-service
-  when: 2025-12-21 11:06:03.712332778 Z
+  branch: ci
+  details: The pull request objectionary/eo-intellij-plugin#83 has been opened by
+    @xepozz.
+  event_id: 5119518749
+  event_type: PullRequestEvent
+  issue: 83
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-12-05 13:29:47.000000000 Z
+  where: github
+  who: 6815714
 - _id: 2
-  _time: 2025-12-21 11:06:03.714761815 Z
+  _time: 2025-12-21 11:34:27.510865938 Z
+  _version: 0.10.1/0.42.0/
+  branch: revise-base
+  details: The pull request objectionary/eo-intellij-plugin#82 has been opened by
+    @xepozz.
+  event_id: 5117483736
+  event_type: PullRequestEvent
+  issue: 82
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-12-05 11:45:01.000000000 Z
+  where: github
+  who: 6815714
+- _id: 3
+  _time: 2025-12-21 11:34:27.521822325 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/eo-intellij-plugin#81 has been opened by @xepozz.
+  event_id: 5113722503
+  event_type: IssuesEvent
+  issue: 81
+  repository: 492899189
+  what: issue-was-opened
+  when: 2025-12-05 08:39:06.000000000 Z
+  where: github
+  who: 6815714
+- _id: 4
+  _time: 2025-12-21 11:34:27.529570261 Z
+  _version: 0.10.1/0.42.0/
+  latest: 6674980954
+  repository: 492899189
+  what: events-were-scanned
+  where: github
+- _id: 5
+  _time: 2025-12-21 11:34:27.532213826 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-23 11:34:27.532309946 Z
+  what: quantity-of-deliverables
+  when: 2025-12-21 11:34:27.532287244 Z
+- _id: 6
+  _time: 2025-12-21 11:34:27.535846935 Z
+  _version: 0.10.1/0.42.0/
+  name: xepozz
+  what: who-has-name
+  when: 2025-12-21 11:34:27.535984522 Z
+  where: github
+  who: 6815714
+- _id: 7
+  _time: 2025-12-21 11:34:27.542159034 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-21 11:06:03.714838439 Z
-- _id: 3
-  _time: 2025-12-21 11:06:03.717672832 Z
+  when: 2025-12-21 11:34:27.542237080 Z
+- _id: 8
+  _time: 2025-12-21 11:34:27.543609286 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-11-23 11:06:03.717771047 Z
-  what: quantity-of-deliverables
-  when: 2025-12-21 11:06:03.717748304 Z
+  since: 2025-11-23 11:34:27.543718380 Z
+  what: quality-of-service
+  when: 2025-12-21 11:34:27.543692261 Z
