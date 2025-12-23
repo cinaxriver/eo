@@ -4,7 +4,7 @@
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/eolang.sty: 504 - &lt;!DOCTYPE html&gt;&#13;
+    <error t="S">GET https://api.github.com/repos/objectionary/eo-graphs: 504 - &lt;!DOCTYPE html&gt;&#13;
 &lt;!--&#13;
 &#13;
 Hello future GitHubber! I bet you're here to remove those nasty inline styles,&#13;
@@ -88,32 +88,32 @@ iVBORw0KGgoAAAANSUhEUgAAAZAAAAGZCAMAAACQbpc2AAADAFBMVEWEBz6FAD6FAD6GAD+MAEGOAEOK
 &lt;/html&gt;&#13;
 </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">44.942185205</seconds>
+    <seconds t="F">75.51999752</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-12-23T12:47:44Z</when>
+    <when t="T">2025-12-23T13:17:54Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-12-23T12:47:44Z</_time>
+    <_time t="T">2025-12-23T13:17:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-11-25T12:47:44Z</since>
+    <since t="T">2025-11-25T13:17:54Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-12-23T12:47:44Z</when>
+    <when t="T">2025-12-23T13:17:54Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-12-23T12:47:44Z</_time>
+    <_time t="T">2025-12-23T13:17:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-11-25T12:47:44Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-12-23T12:47:44Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-12-23T13:17:54Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-12-23T12:47:44Z</_time>
+    <_time t="T">2025-12-23T13:17:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-12-23T12:47:44Z</when>
+    <since t="T">2025-11-25T13:17:54Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-12-23T13:17:54Z</when>
   </f>
 </fb>
