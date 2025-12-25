@@ -2,60 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 14.250518297
+  seconds: 11.715855326
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-25 00:49:40.924374257 Z
+  when: 2025-12-25 01:34:40.242578787 Z
 - _id: 1
-  _time: 2025-12-25 00:49:40.409853896 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/zerocracy-judges-action-0.x
-  details: The pull request objectionary/eo#4773 has been opened by @renovate[bot].
-  event_id: 5488157320
-  event_type: PullRequestEvent
-  issue: 4773
-  repository: 73056727
-  what: pull-was-opened
-  when: 2025-12-24 16:22:32.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-12-25 00:49:40.804844319 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/com.qulice-qulice-maven-plugin-0.x
-  details: The pull request objectionary/eo#4772 has been opened by @renovate[bot].
-  event_id: 5454688277
-  event_type: PullRequestEvent
-  issue: 4772
-  repository: 73056727
-  what: pull-was-opened
-  when: 2025-12-22 19:27:51.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-12-25 00:49:40.911999100 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-27 00:49:40.912173967 Z
-  what: quantity-of-deliverables
-  when: 2025-12-25 00:49:40.912132730 Z
-- _id: 4
-  _time: 2025-12-25 00:49:40.913835386 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-11-27 00:49:40.914022015 Z
-  what: quality-of-service
-  when: 2025-12-25 00:49:40.913981049 Z
-- _id: 5
-  _time: 2025-12-25 00:49:40.920538129 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-12-25 00:49:40.920768940 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-12-25 00:49:40.923205430 Z
+  _time: 2025-12-25 01:34:40.226272226 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-25 00:49:40.923338729 Z
+  when: 2025-12-25 01:34:40.227060630 Z
+- _id: 2
+  _time: 2025-12-25 01:34:40.233313080 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-27 01:34:40.233456668 Z
+  what: quality-of-service
+  when: 2025-12-25 01:34:40.233422484 Z
+- _id: 3
+  _time: 2025-12-25 01:34:40.240611839 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-11-27 01:34:40.240718578 Z
+  what: quantity-of-deliverables
+  when: 2025-12-25 01:34:40.240694794 Z
