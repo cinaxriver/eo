@@ -2,55 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 21.930114564
+  seconds: 9.893636564
   version: 0.42.0
   what: judges-summary
-  when: 2025-12-30 02:41:27.958582640 Z
+  when: 2025-12-30 03:33:56.110728564 Z
 - _id: 1
-  _time: 2025-12-30 02:41:27.060325080 Z
+  _time: 2025-12-30 03:33:56.098639768 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/hone-maven-plugin#401 has been opened by
-    @renovate[bot].
-  event_id: 5530530211
-  event_type: PullRequestEvent
-  issue: 401
-  repository: 840332960
-  what: pull-was-opened
-  when: 2025-12-29 17:14:10.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-12-30 02:41:27.942492614 Z
-  _version: 0.10.1/0.42.0/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-12-30 02:41:27.947239567 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-02 02:41:27.947355274 Z
+  since: 2025-12-02 03:33:56.098942661 Z
   what: quality-of-service
-  when: 2025-12-30 02:41:27.947328864 Z
-- _id: 4
-  _time: 2025-12-30 02:41:27.951104490 Z
+  when: 2025-12-30 03:33:56.098882079 Z
+- _id: 2
+  _time: 2025-12-30 03:33:56.106096409 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-12-02 02:41:27.951207834 Z
+  since: 2025-12-02 03:33:56.106197867 Z
   what: quantity-of-deliverables
-  when: 2025-12-30 02:41:27.951183258 Z
-- _id: 5
-  _time: 2025-12-30 02:41:27.954504743 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-12-30 02:41:27.954679090 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-12-30 02:41:27.957473892 Z
+  when: 2025-12-30 03:33:56.106174764 Z
+- _id: 3
+  _time: 2025-12-30 03:33:56.108856484 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2025-12-30 02:41:27.957555655 Z
+  when: 2025-12-30 03:33:56.108935140 Z
