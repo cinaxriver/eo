@@ -2,73 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 19.213672333
+  seconds: 8.954817575
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-10 21:35:30.072533928 Z
+  when: 2026-01-10 22:05:38.770261631 Z
 - _id: 1
-  _time: 2026-01-10 21:35:23.026502165 Z
+  _time: 2026-01-10 22:05:38.754396451 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/jamesives-github-pages-deploy-action-4.x
-  details: The pull request objectionary/eolang.sty#132 has been opened by @renovate[bot].
-  event_id: 5716961271
-  event_type: PullRequestEvent
-  issue: 132
-  repository: 546194972
-  what: pull-was-opened
-  when: 2026-01-09 21:55:13.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-01-10 21:35:23.199922874 Z
-  _version: 0.10.1/0.42.0/
-  commit: 6c51f970566cf72030e3ebd05941c5d76e9f3cb1
-  default_branch: master
-  details: 'A new Git push #29411710136 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 7117007173
-  event_type: PushEvent
-  push_id: 29411710136
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 09:39:11.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2026-01-10 21:35:30.056242884 Z
-  _version: 0.10.1/0.42.0/
-  total_files: 14275
-  what: dimensions-of-terrain
-  when: 2026-01-10 21:35:23.616404259 Z
-- _id: 4
-  _time: 2026-01-10 21:35:30.062471257 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-13 21:35:30.062575231 Z
+  since: 2025-12-13 22:05:38.754603428 Z
   what: quantity-of-deliverables
-  when: 2026-01-10 21:35:30.062551096 Z
-- _id: 5
-  _time: 2026-01-10 21:35:30.066021722 Z
+  when: 2026-01-10 22:05:38.754565307 Z
+- _id: 2
+  _time: 2026-01-10 22:05:38.758948148 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-12-13 21:35:30.066119885 Z
+  what: dimensions-of-terrain
+  when: 2026-01-10 22:05:38.759050840 Z
+- _id: 3
+  _time: 2026-01-10 22:05:38.764336325 Z
+  _version: 0.10.1/0.42.0/
+  since: 2025-12-13 22:05:38.764513526 Z
   what: quality-of-service
-  when: 2026-01-10 21:35:30.066097353 Z
-- _id: 6
-  _time: 2026-01-10 21:35:30.069729114 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-10 21:35:30.069876028 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2026-01-10 21:35:30.070730954 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-10 21:35:30.070866366 Z
-  where: github
-  who: 526301
+  when: 2026-01-10 22:05:38.764452392 Z
