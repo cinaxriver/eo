@@ -1,36 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="794">
+<fb version="0.9.6" size="2236">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">11.168147532</seconds>
+    <seconds t="F">78.089425832</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-01-10T08:41:03Z</when>
+    <when t="T">2026-01-10T09:06:55Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-01-10T08:41:03Z</_time>
+    <_time t="T">2026-01-10T09:06:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-01-10T08:41:03Z</when>
+    <commit t="S">e46c77a181bcc65b2d0c2e367ee86a183955e738</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #29552927814 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">7257999806</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">29552927814</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">574534248</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-01-07T12:00:16Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-01-10T08:41:03Z</_time>
+    <_time t="T">2026-01-10T09:06:54Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-13T08:41:03Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-01-10T08:41:03Z</when>
+    <commit t="S">a15349cdf826aac40d05d0d137860165a09a9345</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #29412106076 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">7117400842</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">29412106076</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">574534248</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-01-01T10:13:57Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-01-10T08:41:03Z</_time>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-13T08:41:03Z</since>
+    <latest t="I">7276314020</latest>
+    <repository t="I">574534248</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519246071</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-12-13T09:06:55Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-01-10T09:06:55Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-12-13T09:06:55Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-01-10T08:41:03Z</when>
+    <when t="T">2026-01-10T09:06:55Z</when>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-01-10T09:06:55Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2026-01-10T09:06:55Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-01-10T09:06:55Z</when>
   </f>
 </fb>
