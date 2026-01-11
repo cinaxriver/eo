@@ -3,199 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 13.368811569
+  seconds: 0.790336206
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-11 09:37:02.909108309 Z
+  when: 2026-01-11 10:05:44.065344541 Z
 - _id: 1
-  _time: 2026-01-11 09:37:01.281342253 Z
+  _time: 2026-01-11 10:05:44.052075476 Z
   _version: 0.10.1/0.42.0/
-  commit: f34c7e0d885147dcb4c738d47e8701e9dad9be2b
-  default_branch: master
-  details: 'A new Git push #29552879578 has arrived to objectionary/jeo-maven-plugin,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7257951514
-  event_type: PushEvent
-  push_id: 29552879578
-  ref: refs/heads/master
-  repository: 671896902
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-07 11:58:21.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2026-01-11 09:37:01.516893728 Z
-  _version: 0.10.1/0.42.0/
-  commit: 689557e3578963b37feb16a9c4c8795424398f8a
-  default_branch: master
-  details: 'A new Git push #29412053747 has arrived to objectionary/jeo-maven-plugin,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117348774
-  event_type: PushEvent
-  push_id: 29412053747
-  ref: refs/heads/master
-  repository: 671896902
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:09:15.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2026-01-11 09:37:01.703242485 Z
-  _version: 0.10.1/0.42.0/
-  commit: 6461805af9f389429c46ef25cee352e6334e91d6
-  default_branch: master
-  details: 'A new Git push #29411926081 has arrived to objectionary/jeo-maven-plugin,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117221834
-  event_type: PushEvent
-  push_id: 29411926081
-  ref: refs/heads/master
-  repository: 671896902
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 09:58:53.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2026-01-11 09:37:02.079741102 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.codehaus.mojo-exec-maven-plugin-3.x
-  details: The pull request objectionary/jeo-maven-plugin#1457 has been opened by
-    @renovate[bot].
-  event_id: 5434859363
-  event_type: PullRequestEvent
-  issue: 1457
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-21 21:34:18.000000000 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2026-01-11 09:37:02.239022148 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.apache.maven-maven-model-3.x
-  details: The pull request objectionary/jeo-maven-plugin#1456 has been opened by
-    @renovate[bot].
-  event_id: 5347960659
-  event_type: PullRequestEvent
-  issue: 1456
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-17 00:06:48.000000000 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2026-01-11 09:37:02.248760149 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.apache.maven-maven-core-3.x
-  details: The pull request objectionary/jeo-maven-plugin#1455 has been opened by
-    @renovate[bot].
-  event_id: 5347959909
-  event_type: PullRequestEvent
-  issue: 1455
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-17 00:06:44.000000000 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2026-01-11 09:37:02.286619584 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.ow2.asm-asm-util-9.x
-  details: The pull request objectionary/jeo-maven-plugin#1454 has been opened by
-    @renovate[bot].
-  event_id: 5325070026
-  event_type: PullRequestEvent
-  issue: 1454
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-16 04:49:05.000000000 Z
-  where: github
-  who: 29139614
-- _id: 8
-  _time: 2026-01-11 09:37:02.292671272 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.ow2.asm-asm-9.x
-  details: The pull request objectionary/jeo-maven-plugin#1453 has been opened by
-    @renovate[bot].
-  event_id: 5325069235
-  event_type: PullRequestEvent
-  issue: 1453
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-16 04:49:01.000000000 Z
-  where: github
-  who: 29139614
-- _id: 9
-  _time: 2026-01-11 09:37:02.318773408 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/major-github-artifact-actions
-  details: The pull request objectionary/jeo-maven-plugin#1452 has been opened by
-    @renovate[bot].
-  event_id: 5275760610
-  event_type: PullRequestEvent
-  issue: 1452
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-12 20:54:42.000000000 Z
-  where: github
-  who: 29139614
-- _id: 10
-  _time: 2026-01-11 09:37:02.878620419 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/actions-cache-5.x
-  details: The pull request objectionary/jeo-maven-plugin#1451 has been opened by
-    @renovate[bot].
-  event_id: 5257739141
-  event_type: PullRequestEvent
-  issue: 1451
-  repository: 671896902
-  what: pull-was-opened
-  when: 2025-12-12 04:11:34.000000000 Z
-  where: github
-  who: 29139614
-- _id: 11
-  _time: 2026-01-11 09:37:02.888295423 Z
-  _version: 0.10.1/0.42.0/
-  latest: 7257951514
-  repository: 671896902
-  what: events-were-scanned
-  where: github
-- _id: 12
-  _time: 2026-01-11 09:37:02.891329528 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-14 09:37:02.891429224 Z
+  since: 2025-12-14 10:05:44.052259629 Z
   what: quantity-of-deliverables
-  when: 2026-01-11 09:37:02.891406401 Z
-- _id: 13
-  _time: 2026-01-11 09:37:02.893766595 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-14 09:37:02.894109306 Z
-  what: quality-of-service
-  when: 2026-01-11 09:37:02.893839311 Z
-- _id: 14
-  _time: 2026-01-11 09:37:02.898775212 Z
+  when: 2026-01-11 10:05:44.052221198 Z
+- _id: 2
+  _time: 2026-01-11 10:05:44.056670524 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-01-11 09:37:02.898852337 Z
-- _id: 15
-  _time: 2026-01-11 09:37:02.903404833 Z
+  when: 2026-01-11 10:05:44.056771983 Z
+- _id: 3
+  _time: 2026-01-11 10:05:44.058202123 Z
   _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-11 09:37:02.903537050 Z
-  where: github
-  who: 526301
-- _id: 16
-  _time: 2026-01-11 09:37:02.904580752 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-11 09:37:02.904727266 Z
-  where: github
-  who: 29139614
+  since: 2025-12-14 10:05:44.058330452 Z
+  what: quality-of-service
+  when: 2026-01-11 10:05:44.058299725 Z
