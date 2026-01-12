@@ -2,92 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/on-the-origin-of-objects:
+    403 - API rate limit exceeded for 172.184.210.51. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 10.547627988
+  seconds: 73.651664833
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-12 09:10:54.724849085 Z
+  when: 2026-01-12 09:45:17.530393941 Z
 - _id: 1
-  _time: 2026-01-12 09:10:54.346459473 Z
+  _time: 2026-01-12 09:45:17.448329575 Z
   _version: 0.10.1/0.42.0/
-  commit: 9a9da0567ff25064867ce8c7bc35f0864266363a
-  default_branch: master
-  details: 'A new Git push #29411983681 has arrived to objectionary/news.eolang.org,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117279090
-  event_type: PushEvent
-  push_id: 29411983681
-  ref: refs/heads/master
-  repository: 501259435
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:03:04.000000000 Z
-  where: github
-  who: 526301
+  since: 2025-12-15 09:45:17.448609455 Z
+  what: quantity-of-deliverables
+  when: 2026-01-12 09:45:17.448549975 Z
 - _id: 2
-  _time: 2026-01-12 09:10:54.615574469 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/ruby-4.x
-  details: The pull request objectionary/news.eolang.org#94 has been opened by @renovate[bot].
-  event_id: 5492268740
-  event_type: PullRequestEvent
-  issue: 94
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-25 04:41:22.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2026-01-12 09:10:54.695139981 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/ruby-3.x
-  details: The pull request objectionary/news.eolang.org#93 has been opened by @renovate[bot].
-  event_id: 5349381015
-  event_type: PullRequestEvent
-  issue: 93
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-17 02:06:19.000000000 Z
-  where: github
-  who: 29139614
-- _id: 4
-  _time: 2026-01-12 09:10:54.703192225 Z
-  _version: 0.10.1/0.42.0/
-  latest: 7276150305
-  repository: 501259435
-  what: events-were-scanned
-  where: github
-- _id: 5
-  _time: 2026-01-12 09:10:54.709257052 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-12 09:10:54.709455041 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2026-01-12 09:10:54.710259262 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-12 09:10:54.710416936 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2026-01-12 09:10:54.716818357 Z
+  _time: 2026-01-12 09:45:17.521738724 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-01-12 09:10:54.716898837 Z
-- _id: 8
-  _time: 2026-01-12 09:10:54.720436709 Z
+  when: 2026-01-12 09:45:17.521860811 Z
+- _id: 3
+  _time: 2026-01-12 09:45:17.528706150 Z
   _version: 0.10.1/0.42.0/
-  since: 2025-12-15 09:10:54.720542286 Z
-  what: quantity-of-deliverables
-  when: 2026-01-12 09:10:54.720518111 Z
-- _id: 9
-  _time: 2026-01-12 09:10:54.721798413 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-15 09:10:54.721898710 Z
+  since: 2025-12-15 09:45:17.528843867 Z
   what: quality-of-service
-  when: 2026-01-12 09:10:54.721875006 Z
+  when: 2026-01-12 09:45:17.528811436 Z
