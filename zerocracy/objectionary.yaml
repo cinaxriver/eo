@@ -3,57 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 15.083116104
+  seconds: 11.833800799
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-13 17:41:57.740648346 Z
+  when: 2026-01-13 18:09:10.469474366 Z
 - _id: 1
-  _time: 2026-01-13 17:41:57.223181676 Z
+  _time: 2026-01-13 18:09:10.454339279 Z
   _version: 0.10.1/0.42.0/
-  commit: d294a8cae4dd79f4d390c305286231c43e2dc751
-  default_branch: master
-  details: 'A new Git push #29412021058 has arrived to objectionary/reducing-programs-to-objects,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117316270
-  event_type: PushEvent
-  push_id: 29412021058
-  ref: refs/heads/master
-  repository: 493235807
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:06:18.000000000 Z
-  where: github
-  who: 526301
+  since: 2025-12-16 18:09:10.454524024 Z
+  what: quantity-of-deliverables
+  when: 2026-01-13 18:09:10.454486835 Z
 - _id: 2
-  _time: 2026-01-13 17:41:57.720524999 Z
+  _time: 2026-01-13 18:09:10.456952750 Z
   _version: 0.10.1/0.42.0/
-  latest: 7337266245
-  repository: 493235807
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2026-01-13 17:41:57.724803688 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-16 17:41:57.724918263 Z
+  since: 2025-12-16 18:09:10.457089626 Z
   what: quality-of-service
-  when: 2026-01-13 17:41:57.724893737 Z
-- _id: 4
-  _time: 2026-01-13 17:41:57.727333595 Z
+  when: 2026-01-13 18:09:10.457056644 Z
+- _id: 3
+  _time: 2026-01-13 18:09:10.466153902 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-01-13 17:41:57.727416180 Z
-- _id: 5
-  _time: 2026-01-13 17:41:57.735381567 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-13 17:41:57.735535485 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2026-01-13 17:41:57.737541730 Z
-  _version: 0.10.1/0.42.0/
-  since: 2025-12-16 17:41:57.737649562 Z
-  what: quantity-of-deliverables
-  when: 2026-01-13 17:41:57.737624335 Z
+  when: 2026-01-13 18:09:10.466234343 Z
