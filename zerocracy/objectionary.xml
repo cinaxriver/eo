@@ -1,37 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1143">
+<fb version="0.9.6" size="4735">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/objectionary.github.io: 403 - API rate limit exceeded for 128.24.161.80. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
+    <error>
+      <v t="S">undefined method '[]' for nil</v>
+      <v t="S">Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired</v>
+    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">73.619973576</seconds>
+    <seconds t="F">239.979646522</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-01-17T11:06:34Z</when>
+    <when t="T">2026-01-17T11:38:18Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-01-17T11:06:34Z</_time>
+    <_time t="T">2026-01-17T11:34:30Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-01-17T11:06:34Z</when>
+    <commits t="I">1102</commits>
+    <contributors>
+      <v t="I">37025995</v>
+      <v t="I">526301</v>
+      <v t="I">41898282</v>
+      <v t="I">8086956</v>
+      <v t="I">29139614</v>
+      <v t="I">198982749</v>
+      <v t="I">42595614</v>
+      <v t="I">51804353</v>
+    </contributors>
+    <details t="S">A new release 'names of rules are using upcase' has been published in objectionary/phino by @rultor.</details>
+    <event_id t="I">5870400338</event_id>
+    <event_type t="S">ReleaseEvent</event_type>
+    <hoc t="I">14370</hoc>
+    <last_commit t="S">83c9444be35ce89f24c3fec838beb7bedb717e8f</last_commit>
+    <release t="I">277545273</release>
+    <repository t="I">977982682</repository>
+    <tag t="S">0.0.64</tag>
+    <what t="S">release-published</what>
+    <when t="T">2026-01-16T21:52:04Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-01-17T11:06:34Z</_time>
+    <_time t="T">2026-01-17T11:34:43Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-20T11:06:34Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-01-17T11:06:34Z</when>
+    <branch t="S">version-up</branch>
+    <details t="S">The pull request objectionary/phino#599 has been opened by @github-actions[bot].</details>
+    <event_id t="I">5870386635</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">599</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-01-16T21:51:07Z</when>
+    <where t="S">github</where>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-01-17T11:06:34Z</_time>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-20T11:06:34Z</since>
+    <details t="S">The issue objectionary/phino#597 has been closed by @rultor.</details>
+    <event_id t="I">5869886397</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">597</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2026-01-16T21:22:56Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">bug/#597/names-in-lower-case</branch>
+    <details t="S">The pull request objectionary/phino#598 has been opened by @maxonfjvipon.</details>
+    <event_id t="I">5869173462</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">598</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-01-16T20:37:01Z</when>
+    <where t="S">github</where>
+    <who t="I">37025995</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <details t="S">The issue objectionary/phino#597 has been opened by @yegor256.</details>
+    <event_id t="I">5866864568</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">597</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2026-01-16T18:33:04Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <commits t="I">1</commits>
+    <contributors t="I">8086956</contributors>
+    <details t="S">A new release 'vertical bars conflict with eolang package' has been published in objectionary/phino by @rultor.</details>
+    <event_id t="I">5866501977</event_id>
+    <event_type t="S">ReleaseEvent</event_type>
+    <hoc t="I">2</hoc>
+    <last_commit t="S">b41d39be925b29d1d105c23b11929749eb79030f</last_commit>
+    <release t="I">277491945</release>
+    <repository t="I">977982682</repository>
+    <tag t="S">0.0.63</tag>
+    <what t="S">release-published</what>
+    <when t="T">2026-01-16T18:12:51Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">version-up</branch>
+    <details t="S">The pull request objectionary/phino#596 has been opened by @github-actions[bot].</details>
+    <event_id t="I">5866482251</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">596</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-01-16T18:11:46Z</when>
+    <where t="S">github</where>
+    <who t="I">41898282</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2026-01-17T11:34:44Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <details t="S">The issue objectionary/phino#594 has been closed by @rultor.</details>
+    <event_id t="I">5865869166</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">594</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2026-01-16T17:40:25Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2026-01-17T11:34:45Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">bug/#594/vert</branch>
+    <details t="S">The pull request objectionary/phino#595 has been opened by @maxonfjvipon.</details>
+    <event_id t="I">5865371937</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">595</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-01-16T17:15:48Z</when>
+    <where t="S">github</where>
+    <who t="I">37025995</who>
+  </f>
+  <f>
+    <_id t="I">10</_id>
+    <_time t="T">2026-01-17T11:34:45Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <details t="S">The issue objectionary/phino#594 has been opened by @yegor256.</details>
+    <event_id t="I">5864647291</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">594</issue>
+    <repository t="I">977982682</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2026-01-16T16:40:49Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_time t="T">2026-01-17T11:34:46Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-12-20T11:34:46Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-01-17T11:34:46Z</when>
+  </f>
+  <f>
+    <_id t="I">12</_id>
+    <_time t="T">2026-01-17T11:38:14Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">rultor</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-01-17T11:38:14Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
+  </f>
+  <f>
+    <_id t="I">13</_id>
+    <_time t="T">2026-01-17T11:38:14Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">github-actions[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-01-17T11:38:14Z</when>
+    <where t="S">github</where>
+    <who t="I">41898282</who>
+  </f>
+  <f>
+    <_id t="I">14</_id>
+    <_time t="T">2026-01-17T11:38:18Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">maxonfjvipon</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-01-17T11:38:18Z</when>
+    <where t="S">github</where>
+    <who t="I">37025995</who>
+  </f>
+  <f>
+    <_id t="I">15</_id>
+    <_time t="T">2026-01-17T11:38:18Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-01-17T11:38:18Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">16</_id>
+    <_time t="T">2026-01-17T11:38:18Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-01-17T11:38:18Z</when>
+  </f>
+  <f>
+    <_id t="I">17</_id>
+    <_time t="T">2026-01-17T11:38:18Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2025-12-20T11:38:18Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-01-17T11:06:34Z</when>
+    <when t="T">2026-01-17T11:38:18Z</when>
   </f>
 </fb>
