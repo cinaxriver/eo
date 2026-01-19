@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1016">
+<fb version="0.9.6" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">13.565675062</seconds>
+    <seconds t="F">11.60558672</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-01-19T17:39:34Z</when>
+    <when t="T">2026-01-19T18:07:56Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-01-19T17:39:34Z</_time>
+    <_time t="T">2026-01-19T18:07:56Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">501942888</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
+    <since t="T">2025-12-22T18:07:56Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-01-19T18:07:56Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-01-19T17:39:34Z</_time>
+    <_time t="T">2026-01-19T18:07:56Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-01-19T17:39:34Z</when>
+    <since t="T">2025-12-22T18:07:56Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-01-19T18:07:56Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-01-19T17:39:34Z</_time>
+    <_time t="T">2026-01-19T18:07:56Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-22T17:39:34Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-01-19T17:39:34Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-01-19T17:39:34Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2025-12-22T17:39:34Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-01-19T17:39:34Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-01-19T18:07:56Z</when>
   </f>
 </fb>
