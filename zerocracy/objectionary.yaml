@@ -2,76 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 13.269256309
+  seconds: 0.952842472
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-30 18:46:54.658497338 Z
+  when: 2026-01-30 19:14:12.908278375 Z
 - _id: 1
-  _time: 2026-01-30 18:46:54.039115597 Z
+  _time: 2026-01-30 19:14:12.902083059 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/sodg-maven-plugin#147 has been opened by
-    @renovate[bot].
-  event_id: 5911520381
-  event_type: PullRequestEvent
-  issue: 147
-  repository: 955159947
-  what: pull-was-opened
-  when: 2026-01-19 18:03:29.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-01-30 18:46:54.154482529 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.eolang-eo-parser-0.x
-  details: The pull request objectionary/sodg-maven-plugin#146 has been opened by
-    @renovate[bot].
-  event_id: 5782640254
-  event_type: PullRequestEvent
-  issue: 146
-  repository: 955159947
-  what: pull-was-opened
-  when: 2026-01-13 15:37:00.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2026-01-30 18:46:54.161635871 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/org.eolang-eo-maven-plugin-0.x
-  details: The pull request objectionary/sodg-maven-plugin#145 has been opened by
-    @renovate[bot].
-  event_id: 5782637843
-  event_type: PullRequestEvent
-  issue: 145
-  repository: 955159947
-  what: pull-was-opened
-  when: 2026-01-13 15:36:56.000000000 Z
-  where: github
-  who: 29139614
-- _id: 4
-  _time: 2026-01-30 18:46:54.633720656 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-30 18:46:54.633896766 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2026-01-30 18:46:54.647707296 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-01-02 18:46:54.647829522 Z
+  since: 2026-01-02 19:14:12.902277081 Z
   what: quality-of-service
-  when: 2026-01-30 18:46:54.647806561 Z
-- _id: 6
-  _time: 2026-01-30 18:46:54.652051899 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-01-02 18:46:54.652163128 Z
-  what: quantity-of-deliverables
-  when: 2026-01-30 18:46:54.652140845 Z
-- _id: 7
-  _time: 2026-01-30 18:46:54.654143239 Z
+  when: 2026-01-30 19:14:12.902237307 Z
+- _id: 2
+  _time: 2026-01-30 19:14:12.903845389 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-01-30 18:46:54.654230486 Z
+  when: 2026-01-30 19:14:12.903927362 Z
+- _id: 3
+  _time: 2026-01-30 19:14:12.905120539 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-02 19:14:12.905220737 Z
+  what: quantity-of-deliverables
+  when: 2026-01-30 19:14:12.905197182 Z
