@@ -3,24 +3,73 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 11.5402632
+  seconds: 22.217670579
   version: 0.42.0
   what: judges-summary
-  when: 2026-01-31 00:50:34.801520046 Z
+  when: 2026-01-31 01:36:09.527416046 Z
 - _id: 1
-  _time: 2026-01-31 00:50:34.787107918 Z
+  _time: 2026-01-31 01:36:08.593057373 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-03 00:50:34.787289879 Z
-  what: quality-of-service
-  when: 2026-01-31 00:50:34.787251707 Z
+  commit: bf9a2ce8f70e3c628ce3bf280bab948932948491
+  default_branch: master
+  details: 'A new Git push #29552894758 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 7257966687
+  event_type: PushEvent
+  push_id: 29552894758
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-01-07 11:58:58.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2026-01-31 00:50:34.793679874 Z
+  _time: 2026-01-31 01:36:09.177341627 Z
+  _version: 0.10.1/0.42.0/
+  commit: 5c4ace12b5c2ebdc7a6b1038e9689dbdad7890fa
+  default_branch: master
+  details: 'A new Git push #29411937148 has arrived to objectionary/jucs, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 7117232810
+  event_type: PushEvent
+  push_id: 29411937148
+  ref: refs/heads/master
+  repository: 574459304
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-01-01 09:59:54.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2026-01-31 01:36:09.508706998 Z
+  _version: 0.10.1/0.42.0/
+  latest: 7876445332
+  repository: 574459304
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-01-31 01:36:09.512902001 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-03 01:36:09.513001556 Z
+  what: quality-of-service
+  when: 2026-01-31 01:36:09.512978263 Z
+- _id: 5
+  _time: 2026-01-31 01:36:09.516737570 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-03 01:36:09.516833489 Z
+  what: quantity-of-deliverables
+  when: 2026-01-31 01:36:09.516811307 Z
+- _id: 6
+  _time: 2026-01-31 01:36:09.522233309 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2026-01-31 01:36:09.522367168 Z
+  where: github
+  who: 526301
+- _id: 7
+  _time: 2026-01-31 01:36:09.525357869 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-01-31 00:50:34.794455646 Z
-- _id: 3
-  _time: 2026-01-31 00:50:34.798909182 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-01-03 00:50:34.799010412 Z
-  what: quantity-of-deliverables
-  when: 2026-01-31 00:50:34.798986437 Z
+  when: 2026-01-31 01:36:09.525431827 Z
