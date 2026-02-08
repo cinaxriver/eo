@@ -3,24 +3,51 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 9.153031421
+  seconds: 20.801901616
   version: 0.42.0
   what: judges-summary
-  when: 2026-02-08 07:18:34.462604186 Z
+  when: 2026-02-08 07:45:26.131471335 Z
 - _id: 1
-  _time: 2026-02-08 07:18:34.453109366 Z
+  _time: 2026-02-08 07:45:26.095412084 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-11 07:18:34.453294101 Z
-  what: quantity-of-deliverables
-  when: 2026-02-08 07:18:34.453257653 Z
+  details: The issue objectionary/lints#796 has been opened by @h1alexbel.
+  event_id: 6047596027
+  event_type: IssuesEvent
+  issue: 796
+  repository: 889819508
+  what: issue-was-opened
+  when: 2026-01-25 11:32:51.000000000 Z
+  where: github
+  who: 83453843
 - _id: 2
-  _time: 2026-02-08 07:18:34.454382795 Z
+  _time: 2026-02-08 07:45:26.113691095 Z
+  _version: 0.10.1/0.42.0/
+  latest: 8158631765
+  repository: 889819508
+  what: events-were-scanned
+  where: github
+- _id: 3
+  _time: 2026-02-08 07:45:26.119759509 Z
+  _version: 0.10.1/0.42.0/
+  name: h1alexbel
+  what: who-has-name
+  when: 2026-02-08 07:45:26.119896775 Z
+  where: github
+  who: 83453843
+- _id: 4
+  _time: 2026-02-08 07:45:26.124674601 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-02-08 07:18:34.454493812 Z
-- _id: 3
-  _time: 2026-02-08 07:18:34.459514260 Z
+  when: 2026-02-08 07:45:26.124811577 Z
+- _id: 5
+  _time: 2026-02-08 07:45:26.126997864 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-11 07:18:34.459658659 Z
+  since: 2026-01-11 07:45:26.127096217 Z
   what: quality-of-service
-  when: 2026-02-08 07:18:34.459624576 Z
+  when: 2026-02-08 07:45:26.127072302 Z
+- _id: 6
+  _time: 2026-02-08 07:45:26.128848026 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-11 07:45:26.128946540 Z
+  what: quantity-of-deliverables
+  when: 2026-02-08 07:45:26.128923637 Z
