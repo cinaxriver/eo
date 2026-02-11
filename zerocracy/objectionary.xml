@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1019">
+<fb version="0.9.6" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">19.000156584</seconds>
+    <seconds t="F">0.957452886</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-02-11T04:19:40Z</when>
+    <when t="T">2026-02-11T05:11:31Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-02-11T04:19:39Z</_time>
+    <_time t="T">2026-02-11T05:11:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">7693798206</latest>
-    <repository t="I">492899189</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <since t="T">2026-01-14T05:11:31Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-02-11T05:11:31Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-02-11T04:19:40Z</_time>
+    <_time t="T">2026-02-11T05:11:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-02-11T04:19:40Z</when>
+    <when t="T">2026-02-11T05:11:31Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-02-11T04:19:40Z</_time>
+    <_time t="T">2026-02-11T05:11:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-01-14T04:19:40Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-02-11T04:19:40Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-02-11T04:19:40Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-01-14T04:19:40Z</since>
+    <since t="T">2026-01-14T05:11:31Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-02-11T04:19:40Z</when>
+    <when t="T">2026-02-11T05:11:31Z</when>
   </f>
 </fb>
