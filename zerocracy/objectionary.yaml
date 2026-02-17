@@ -3,53 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 12.128075715
+  seconds: 11.919088792
   version: 0.42.0
   what: judges-summary
-  when: 2026-02-17 05:06:07.199184521 Z
+  when: 2026-02-17 05:49:51.587374867 Z
 - _id: 1
-  _time: 2026-02-17 05:06:07.047219293 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/sodg-maven-plugin#147 has been opened by
-    @renovate[bot].
-  event_id: 5911520381
-  event_type: PullRequestEvent
-  issue: 147
-  repository: 955159947
-  what: pull-was-opened
-  when: 2026-01-19 18:03:29.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-02-17 05:06:07.179847792 Z
-  _version: 0.10.1/0.42.0/
-  latest: 8502760502
-  repository: 955159947
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2026-02-17 05:06:07.186610316 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-02-17 05:06:07.186759104 Z
-  where: github
-  who: 29139614
-- _id: 4
-  _time: 2026-02-17 05:06:07.190069067 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-01-20 05:06:07.190181026 Z
-  what: quality-of-service
-  when: 2026-02-17 05:06:07.190154957 Z
-- _id: 5
-  _time: 2026-02-17 05:06:07.194815981 Z
+  _time: 2026-02-17 05:49:51.571919740 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-02-17 05:06:07.194899367 Z
-- _id: 6
-  _time: 2026-02-17 05:06:07.196773267 Z
+  when: 2026-02-17 05:49:51.572067405 Z
+- _id: 2
+  _time: 2026-02-17 05:49:51.576215756 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-20 05:06:07.196874236 Z
+  since: 2026-01-20 05:49:51.576351279 Z
+  what: quality-of-service
+  when: 2026-02-17 05:49:51.576319590 Z
+- _id: 3
+  _time: 2026-02-17 05:49:51.585199056 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-20 05:49:51.585319592 Z
   what: quantity-of-deliverables
-  when: 2026-02-17 05:06:07.196851624 Z
+  when: 2026-02-17 05:49:51.585295967 Z

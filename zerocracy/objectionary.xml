@@ -1,70 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1544">
+<fb version="0.9.6" size="793">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.128075715</seconds>
+    <seconds t="F">11.919088792</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-02-17T05:06:07Z</when>
+    <when t="T">2026-02-17T05:49:51Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
+    <_time t="T">2026-02-17T05:49:51Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/crate-ci-typos-1.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#147 has been opened by @renovate[bot].</details>
-    <event_id t="I">5911520381</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">147</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-01-19T18:03:29Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-02-17T05:49:51Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
+    <_time t="T">2026-02-17T05:49:51Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">8502760502</latest>
-    <repository t="I">955159947</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <since t="T">2026-01-20T05:49:51Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-02-17T05:49:51Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
+    <_time t="T">2026-02-17T05:49:51Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-02-17T05:06:07Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-01-20T05:06:07Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-02-17T05:06:07Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-02-17T05:06:07Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-02-17T05:06:07Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-01-20T05:06:07Z</since>
+    <since t="T">2026-01-20T05:49:51Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-02-17T05:06:07Z</when>
+    <when t="T">2026-02-17T05:49:51Z</when>
   </f>
 </fb>
