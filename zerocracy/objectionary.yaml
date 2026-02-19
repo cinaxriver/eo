@@ -2,25 +2,54 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 0.727299178
+  seconds: 12.471659617
   version: 0.42.0
   what: judges-summary
-  when: 2026-02-19 21:10:56.051833572 Z
+  when: 2026-02-19 21:44:21.728052775 Z
 - _id: 1
-  _time: 2026-02-19 21:10:56.039334050 Z
+  _time: 2026-02-19 21:44:20.449636892 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-22 21:10:56.039504720 Z
-  what: quality-of-service
-  when: 2026-02-19 21:10:56.039468312 Z
+  latest: 8467283554
+  repository: 570457023
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2026-02-19 21:10:56.042594872 Z
+  _time: 2026-02-19 21:44:21.414619682 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-01-22 21:10:56.042691544 Z
-  what: quantity-of-deliverables
-  when: 2026-02-19 21:10:56.042668140 Z
+  branch: renovate/aws-actions-configure-aws-credentials-6.x
+  details: The pull request objectionary/phino#606 has been opened by @renovate[bot].
+  event_id: 6322247059
+  event_type: PullRequestEvent
+  issue: 606
+  repository: 977982682
+  what: pull-was-opened
+  when: 2026-02-04 22:37:43.000000000 Z
+  where: github
+  who: 29139614
 - _id: 3
-  _time: 2026-02-19 21:10:56.048023872 Z
+  _time: 2026-02-19 21:44:21.708080350 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-02-19 21:10:56.048170366 Z
+  when: 2026-02-19 21:44:21.708161762 Z
+- _id: 4
+  _time: 2026-02-19 21:44:21.716923733 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-22 21:44:21.717034209 Z
+  what: quantity-of-deliverables
+  when: 2026-02-19 21:44:21.717008751 Z
+- _id: 5
+  _time: 2026-02-19 21:44:21.724113830 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-02-19 21:44:21.724264772 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2026-02-19 21:44:21.726712240 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-01-22 21:44:21.726813910 Z
+  what: quality-of-service
+  when: 2026-02-19 21:44:21.726789855 Z
