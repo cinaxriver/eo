@@ -2,25 +2,79 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 8.604742638
+  seconds: 41.678686646
   version: 0.42.0
   what: judges-summary
-  when: 2026-03-21 07:43:06.664247946 Z
+  when: 2026-03-21 08:09:46.729916352 Z
 - _id: 1
-  _time: 2026-03-21 07:43:06.644339377 Z
+  _time: 2026-03-21 08:09:26.465062220 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-02-21 07:43:06.644823920 Z
-  what: quality-of-service
-  when: 2026-03-21 07:43:06.644756465 Z
+  commits: 1197
+  contributors:
+  - 526301
+  - 29139614
+  - 37025995
+  - 8086956
+  - 41898282
+  - 86408225
+  - 51804353
+  details: A new release 'phino version is not set' has been published in objectionary/hone-maven-plugin
+    by @rultor.
+  event_id: 7381520058
+  event_type: ReleaseEvent
+  hoc: 16908
+  last_commit: 9c37b64c42c5a790068307e13030d5f39b98a5bf
+  release: 296802876
+  repository: 840332960
+  tag: 0.23.1
+  what: release-published
+  when: 2026-03-13 17:24:32.000000000 Z
+  where: github
+  who: 8086956
 - _id: 2
-  _time: 2026-03-21 07:43:06.654734527 Z
+  _time: 2026-03-21 08:09:46.312331328 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/hone-maven-plugin#441 has been closed by @yegor256.
+  event_id: 7380943288
+  event_type: IssuesEvent
+  issue: 441
+  repository: 840332960
+  what: issue-was-closed
+  when: 2026-03-13 17:06:20.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2026-03-21 08:09:46.713077460 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-03-21 07:43:06.654896869 Z
-- _id: 3
-  _time: 2026-03-21 07:43:06.662933637 Z
+  when: 2026-03-21 08:09:46.713158120 Z
+- _id: 4
+  _time: 2026-03-21 08:09:46.716334141 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-02-21 07:43:06.663102732 Z
+  name: rultor
+  what: who-has-name
+  when: 2026-03-21 08:09:46.716481416 Z
+  where: github
+  who: 8086956
+- _id: 5
+  _time: 2026-03-21 08:09:46.717340217 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2026-03-21 08:09:46.717479697 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2026-03-21 08:09:46.725153673 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-02-21 08:09:46.725261684 Z
+  what: quality-of-service
+  when: 2026-03-21 08:09:46.725234965 Z
+- _id: 7
+  _time: 2026-03-21 08:09:46.728052918 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-02-21 08:09:46.728156832 Z
   what: quantity-of-deliverables
-  when: 2026-03-21 07:43:06.663070261 Z
+  when: 2026-03-21 08:09:46.728133669 Z
