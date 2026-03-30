@@ -1,87 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1912">
+<fb version="0.9.6" size="790">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">19.892255411</seconds>
+    <seconds t="F">9.212961909</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
+    <when t="T">2026-03-30T05:23:28Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-03-30T04:30:19Z</_time>
+    <_time t="T">2026-03-30T05:23:28Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/codecov-codecov-action-6.x</branch>
-    <details t="S">The pull request objectionary/eo-lsp-server#277 has been opened by @renovate[bot].</details>
-    <event_id t="I">7891648893</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">277</issue>
-    <repository t="I">970961472</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-03-30T04:15:51Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2026-03-02T05:23:28Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-03-30T05:23:28Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-03-30T04:30:20Z</_time>
+    <_time t="T">2026-03-30T05:23:28Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eo-lsp-server#276 has been opened by @github-actions[bot].</details>
-    <event_id t="I">7891645542</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">276</issue>
-    <repository t="I">970961472</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-03-30T04:15:40Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <since t="T">2026-03-02T05:23:28Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-03-30T05:23:28Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-03-30T04:30:21Z</_time>
+    <_time t="T">2026-03-30T05:23:28Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-03-30T04:30:21Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-02T04:30:21Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-03-30T04:30:21Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-02T04:30:21Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-03-30T04:30:21Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-03-30T04:30:21Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-03-30T04:30:21Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <when t="T">2026-03-30T05:23:28Z</when>
   </f>
 </fb>
