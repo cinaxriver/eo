@@ -2,25 +2,68 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 8.982844555
+  seconds: 19.892255411
   version: 0.42.0
   what: judges-summary
-  when: 2026-03-30 03:07:36.775235985 Z
+  when: 2026-03-30 04:30:21.147773054 Z
 - _id: 1
-  _time: 2026-03-30 03:07:36.768246782 Z
+  _time: 2026-03-30 04:30:19.850857538 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-02 03:07:36.768459087 Z
-  what: quantity-of-deliverables
-  when: 2026-03-30 03:07:36.768422119 Z
+  branch: renovate/codecov-codecov-action-6.x
+  details: The pull request objectionary/eo-lsp-server#277 has been opened by @renovate[bot].
+  event_id: 7891648893
+  event_type: PullRequestEvent
+  issue: 277
+  repository: 970961472
+  what: pull-was-opened
+  when: 2026-03-30 04:15:51.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-03-30 03:07:36.771162580 Z
+  _time: 2026-03-30 04:30:20.087385667 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-02 03:07:36.771342936 Z
-  what: quality-of-service
-  when: 2026-03-30 03:07:36.771305215 Z
+  branch: version-up
+  details: The pull request objectionary/eo-lsp-server#276 has been opened by @github-actions[bot].
+  event_id: 7891645542
+  event_type: PullRequestEvent
+  issue: 276
+  repository: 970961472
+  what: pull-was-opened
+  when: 2026-03-30 04:15:40.000000000 Z
+  where: github
+  who: 41898282
 - _id: 3
-  _time: 2026-03-30 03:07:36.773384979 Z
+  _time: 2026-03-30 04:30:21.123107687 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-03-30 03:07:36.773488552 Z
+  when: 2026-03-30 04:30:21.123232751 Z
+- _id: 4
+  _time: 2026-03-30 04:30:21.129821399 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-02 04:30:21.130527218 Z
+  what: quality-of-service
+  when: 2026-03-30 04:30:21.130482785 Z
+- _id: 5
+  _time: 2026-03-30 04:30:21.132671737 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-02 04:30:21.132855090 Z
+  what: quantity-of-deliverables
+  when: 2026-03-30 04:30:21.132809345 Z
+- _id: 6
+  _time: 2026-03-30 04:30:21.139606790 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-03-30 04:30:21.140235475 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2026-03-30 04:30:21.141572985 Z
+  _version: 0.10.1/0.42.0/
+  name: github-actions[bot]
+  what: who-has-name
+  when: 2026-03-30 04:30:21.141724609 Z
+  where: github
+  who: 41898282
