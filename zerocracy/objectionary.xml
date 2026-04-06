@@ -1,36 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="792">
+<fb version="0.9.6" size="2328">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">8.837401495</seconds>
+    <seconds t="F">15.838124683</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-04-06T22:46:06Z</when>
+    <when t="T">2026-04-06T23:13:56Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-04-06T22:46:06Z</_time>
+    <_time t="T">2026-04-06T23:13:55Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-09T22:46:06Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-04-06T22:46:06Z</when>
+    <details t="S">The issue objectionary/hone-maven-plugin#466 has been closed by @0pdd.</details>
+    <event_id t="I">8065728323</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">466</issue>
+    <repository t="I">840332960</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2026-04-03T11:39:42Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-04-06T22:46:06Z</_time>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-09T22:46:06Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-04-06T22:46:06Z</when>
+    <details t="S">The issue objectionary/hone-maven-plugin#469 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">8065155903</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">469</issue>
+    <repository t="I">840332960</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2026-04-03T11:09:15Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-04-06T22:46:06Z</_time>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <branch t="S">renovate/com.qulice-qulice-maven-plugin-0.x</branch>
+    <details t="S">The pull request objectionary/hone-maven-plugin#468 has been opened by @renovate[bot].</details>
+    <event_id t="I">8063017501</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">468</issue>
+    <repository t="I">840332960</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-04-03T09:29:36Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-04-06T22:46:06Z</when>
+    <when t="T">2026-04-06T23:13:56Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2026-03-09T23:13:56Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-04-06T23:13:56Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2026-03-09T23:13:56Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-04-06T23:13:56Z</when>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">0pdd</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-04-06T23:13:56Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">volodya-lombrozo</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-04-06T23:13:56Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2026-04-06T23:13:56Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">renovate[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-04-06T23:13:56Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
 </fb>
