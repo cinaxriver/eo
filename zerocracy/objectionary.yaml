@@ -2,25 +2,68 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 19.494106372
+  seconds: 13.363732137
   version: 0.42.0
   what: judges-summary
-  when: 2026-04-08 15:32:53.570483216 Z
+  when: 2026-04-08 16:29:09.762499112 Z
 - _id: 1
-  _time: 2026-04-08 15:32:53.560464493 Z
+  _time: 2026-04-08 16:29:09.027671427 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-11 15:32:53.561524569 Z
-  what: quantity-of-deliverables
-  when: 2026-04-08 15:32:53.561486649 Z
+  branch: renovate/python-3.x
+  details: The pull request objectionary/home#394 has been opened by @renovate[bot].
+  event_id: 8184943070
+  event_type: PullRequestEvent
+  issue: 394
+  repository: 13623548
+  what: pull-was-opened
+  when: 2026-04-08 04:46:52.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-04-08 15:32:53.562479379 Z
+  _time: 2026-04-08 16:29:09.270180816 Z
+  _version: 0.10.1/0.42.0/
+  branch: update-eo-0.59.7
+  details: The pull request objectionary/home#393 has been opened by @maxonfjvipon.
+  event_id: 8154070355
+  event_type: PullRequestEvent
+  issue: 393
+  repository: 13623548
+  what: pull-was-opened
+  when: 2026-04-07 10:26:35.000000000 Z
+  where: github
+  who: 37025995
+- _id: 3
+  _time: 2026-04-08 16:29:09.745718572 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-11 16:29:09.745863692 Z
+  what: quantity-of-deliverables
+  when: 2026-04-08 16:29:09.745836772 Z
+- _id: 4
+  _time: 2026-04-08 16:29:09.750940214 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-11 16:29:09.751055117 Z
+  what: quality-of-service
+  when: 2026-04-08 16:29:09.751029139 Z
+- _id: 5
+  _time: 2026-04-08 16:29:09.755094069 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-04-08 16:29:09.755241554 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2026-04-08 16:29:09.756153339 Z
+  _version: 0.10.1/0.42.0/
+  name: maxonfjvipon
+  what: who-has-name
+  when: 2026-04-08 16:29:09.756292258 Z
+  where: github
+  who: 37025995
+- _id: 7
+  _time: 2026-04-08 16:29:09.760353842 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-04-08 15:32:53.562576478 Z
-- _id: 3
-  _time: 2026-04-08 15:32:53.568540977 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-03-11 15:32:53.568664400 Z
-  what: quality-of-service
-  when: 2026-04-08 15:32:53.568636833 Z
+  when: 2026-04-08 16:29:09.760467162 Z
