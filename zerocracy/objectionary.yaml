@@ -3,24 +3,67 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 14.220191964
+  seconds: 19.808762623
   version: 0.42.0
   what: judges-summary
-  when: 2026-04-14 03:07:27.581833493 Z
+  when: 2026-04-14 04:31:09.493989291 Z
 - _id: 1
-  _time: 2026-04-14 03:07:27.570552578 Z
+  _time: 2026-04-14 04:31:09.223439328 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-17 03:07:27.570779090 Z
-  what: quality-of-service
-  when: 2026-04-14 03:07:27.570697698 Z
+  branch: renovate/org.cactoos-cactoos-0.x
+  details: The pull request objectionary/sodg-maven-plugin#152 has been opened by
+    @renovate[bot].
+  event_id: 7715483152
+  event_type: PullRequestEvent
+  issue: 152
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-03-24 18:16:18.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-04-14 03:07:27.576975812 Z
+  _time: 2026-04-14 04:31:09.457392275 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-17 03:07:27.577089012 Z
-  what: quantity-of-deliverables
-  when: 2026-04-14 03:07:27.577064987 Z
+  branch: renovate/zauguin-install-texlive-4.x
+  details: The pull request objectionary/sodg-maven-plugin#151 has been opened by
+    @renovate[bot].
+  event_id: 7678418118
+  event_type: PullRequestEvent
+  issue: 151
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-03-23 20:29:47.000000000 Z
+  where: github
+  who: 29139614
 - _id: 3
-  _time: 2026-04-14 03:07:27.580027125 Z
+  _time: 2026-04-14 04:31:09.475661998 Z
+  _version: 0.10.1/0.42.0/
+  latest: 10529489641
+  repository: 955159947
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-04-14 04:31:09.481615554 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-17 04:31:09.481715582 Z
+  what: quantity-of-deliverables
+  when: 2026-04-14 04:31:09.481693359 Z
+- _id: 5
+  _time: 2026-04-14 04:31:09.484468871 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-17 04:31:09.484636688 Z
+  what: quality-of-service
+  when: 2026-04-14 04:31:09.484596980 Z
+- _id: 6
+  _time: 2026-04-14 04:31:09.486851749 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-04-14 03:07:27.580109668 Z
+  when: 2026-04-14 04:31:09.486962412 Z
+- _id: 7
+  _time: 2026-04-14 04:31:09.491172769 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-04-14 04:31:09.491308439 Z
+  where: github
+  who: 29139614
