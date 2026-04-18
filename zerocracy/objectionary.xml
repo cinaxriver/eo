@@ -1,89 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2232">
+<fb version="0.9.6" size="793">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error>
-      <v t="S">undefined method '+' for nil</v>
-      <v t="S">GET https://api.github.com/repos/objectionary/lints/pulls/760/reviews?per_page=100: 403 - API rate limit exceeded for 64.236.192.146. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</v>
-    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">150.113307219</seconds>
+    <seconds t="F">0.835739424</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-04-18T07:31:24Z</when>
+    <when t="T">2026-04-18T07:53:25Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-04-18T07:29:08Z</_time>
+    <_time t="T">2026-04-18T07:53:25Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/org.eolang-hone-maven-plugin-0.x</branch>
-    <details t="S">The pull request objectionary/lints#837 has been opened by @renovate[bot].</details>
-    <event_id t="I">8522416727</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">837</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-04-17T10:04:52Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2026-03-21T07:53:25Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-04-18T07:53:25Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-04-18T07:29:09Z</_time>
+    <_time t="T">2026-04-18T07:53:25Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">The issue objectionary/lints#836 has been opened by @volodya-lombrozo.</details>
-    <event_id t="I">8245110110</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">836</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2026-04-09T13:48:25Z</when>
-    <where t="S">github</where>
-    <who t="I">51804353</who>
+    <since t="T">2026-03-21T07:53:25Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-04-18T07:53:25Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-04-18T07:29:09Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-21T07:29:09Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-04-18T07:29:09Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-04-18T07:31:12Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-04-18T07:31:12Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-04-18T07:31:24Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">volodya-lombrozo</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-04-18T07:31:24Z</when>
-    <where t="S">github</where>
-    <who t="I">51804353</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-04-18T07:31:24Z</_time>
+    <_time t="T">2026-04-18T07:53:25Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-04-18T07:31:24Z</when>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-04-18T07:31:24Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-03-21T07:31:24Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-04-18T07:31:24Z</when>
+    <when t="T">2026-04-18T07:53:25Z</when>
   </f>
 </fb>

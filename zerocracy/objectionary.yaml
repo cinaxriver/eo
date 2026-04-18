@@ -2,72 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error:
-  - undefined method '+' for nil
-  - 'GET https://api.github.com/repos/objectionary/lints/pulls/760/reviews?per_page=100:
-    403 - API rate limit exceeded for 64.236.192.146. (But here''s the good news:
-    Authenticated requests get a higher rate limit. Check out the documentation for
-    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 150.113307219
+  seconds: 0.835739424
   version: 0.42.0
   what: judges-summary
-  when: 2026-04-18 07:31:24.319627180 Z
+  when: 2026-04-18 07:53:25.626015134 Z
 - _id: 1
-  _time: 2026-04-18 07:29:08.707557784 Z
+  _time: 2026-04-18 07:53:25.613583796 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/org.eolang-hone-maven-plugin-0.x
-  details: The pull request objectionary/lints#837 has been opened by @renovate[bot].
-  event_id: 8522416727
-  event_type: PullRequestEvent
-  issue: 837
-  repository: 889819508
-  what: pull-was-opened
-  when: 2026-04-17 10:04:52.000000000 Z
-  where: github
-  who: 29139614
+  since: 2026-03-21 07:53:25.613775724 Z
+  what: quality-of-service
+  when: 2026-04-18 07:53:25.613736991 Z
 - _id: 2
-  _time: 2026-04-18 07:29:09.167161374 Z
+  _time: 2026-04-18 07:53:25.617581019 Z
   _version: 0.10.1/0.42.0/
-  details: The issue objectionary/lints#836 has been opened by @volodya-lombrozo.
-  event_id: 8245110110
-  event_type: IssuesEvent
-  issue: 836
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-04-09 13:48:25.000000000 Z
-  where: github
-  who: 51804353
-- _id: 3
-  _time: 2026-04-18 07:29:09.308520241 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-03-21 07:29:09.308632601 Z
+  since: 2026-03-21 07:53:25.617689661 Z
   what: quantity-of-deliverables
-  when: 2026-04-18 07:29:09.308606662 Z
-- _id: 4
-  _time: 2026-04-18 07:31:12.062713993 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-04-18 07:31:12.063002454 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2026-04-18 07:31:24.310233926 Z
-  _version: 0.10.1/0.42.0/
-  name: volodya-lombrozo
-  what: who-has-name
-  when: 2026-04-18 07:31:24.310452115 Z
-  where: github
-  who: 51804353
-- _id: 6
-  _time: 2026-04-18 07:31:24.315184660 Z
+  when: 2026-04-18 07:53:25.617665626 Z
+- _id: 3
+  _time: 2026-04-18 07:53:25.625079781 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-04-18 07:31:24.315392950 Z
-- _id: 7
-  _time: 2026-04-18 07:31:24.318025360 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-03-21 07:31:24.318125889 Z
-  what: quality-of-service
-  when: 2026-04-18 07:31:24.318101232 Z
+  when: 2026-04-18 07:53:25.625208901 Z
