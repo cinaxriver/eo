@@ -3,24 +3,58 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 15.18725908
+  seconds: 15.589883699
   version: 0.42.0
   what: judges-summary
-  when: 2026-04-28 11:13:06.017057875 Z
+  when: 2026-04-28 12:06:18.535271367 Z
 - _id: 1
-  _time: 2026-04-28 11:13:06.010062347 Z
+  _time: 2026-04-28 12:06:17.790600378 Z
+  _version: 0.10.1/0.42.0/
+  latest: 0
+  repository: 568705267
+  what: events-were-scanned
+  where: github
+- _id: 2
+  _time: 2026-04-28 12:06:18.320536027 Z
+  _version: 0.10.1/0.42.0/
+  details: The issue objectionary/game-of-life#50 has been opened by @yegor256.
+  event_id: 8797707037
+  event_type: IssuesEvent
+  issue: 50
+  repository: 501942888
+  what: issue-was-opened
+  when: 2026-04-26 09:26:48.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2026-04-28 12:06:18.518253060 Z
+  _version: 0.10.1/0.42.0/
+  latest: 11111042624
+  repository: 501942888
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-04-28 12:06:18.521809070 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2026-04-28 12:06:18.521950929 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2026-04-28 12:06:18.526647588 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-03-31 12:06:18.526737008 Z
+  what: quantity-of-deliverables
+  when: 2026-04-28 12:06:18.526715443 Z
+- _id: 6
+  _time: 2026-04-28 12:06:18.527767266 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-04-28 11:13:06.010196603 Z
-- _id: 2
-  _time: 2026-04-28 11:13:06.012656339 Z
+  when: 2026-04-28 12:06:18.527845361 Z
+- _id: 7
+  _time: 2026-04-28 12:06:18.529796550 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-03-31 11:13:06.012782140 Z
+  since: 2026-03-31 12:06:18.529889537 Z
   what: quality-of-service
-  when: 2026-04-28 11:13:06.012754127 Z
-- _id: 3
-  _time: 2026-04-28 11:13:06.015405099 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-03-31 11:13:06.015506602 Z
-  what: quantity-of-deliverables
-  when: 2026-04-28 11:13:06.015485377 Z
+  when: 2026-04-28 12:06:18.529868539 Z
