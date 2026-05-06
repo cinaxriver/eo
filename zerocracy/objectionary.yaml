@@ -3,24 +3,84 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 22.221355327
+  seconds: 12.158378254
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-06 21:27:51.936082618 Z
+  when: 2026-05-06 21:51:22.149800229 Z
 - _id: 1
-  _time: 2026-05-06 21:27:51.922170808 Z
+  _time: 2026-05-06 21:51:21.180520644 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-08 21:27:51.922354702 Z
-  what: quality-of-service
-  when: 2026-05-06 21:27:51.922316130 Z
+  branch: deps-upgrade
+  details: The pull request objectionary/xax#162 has been opened by @bibonix.
+  event_id: 9004368957
+  event_type: PullRequestEvent
+  issue: 162
+  repository: 574534248
+  what: pull-was-opened
+  when: 2026-05-01 19:01:27.000000000 Z
+  where: github
+  who: 9535539
 - _id: 2
-  _time: 2026-05-06 21:27:51.930846298 Z
+  _time: 2026-05-06 21:51:21.289552465 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-08 21:27:51.930954631 Z
-  what: quantity-of-deliverables
-  when: 2026-05-06 21:27:51.930931397 Z
+  commit: 5aee83bb9c5feb3d44a18a17ff311d84e7de93bb
+  default_branch: master
+  details: 'A new Git push #33573254386 has arrived to objectionary/xax, made by @yegor256
+    (default branch is ''master''), not associated with any pull request.'
+  event_id: 11281865238
+  event_type: PushEvent
+  push_id: 33573254386
+  ref: refs/heads/master
+  repository: 574534248
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-05-01 05:41:16.000000000 Z
+  where: github
+  who: 526301
 - _id: 3
-  _time: 2026-05-06 21:27:51.932271455 Z
+  _time: 2026-05-06 21:51:21.636905896 Z
+  _version: 0.10.1/0.42.0/
+  latest: 11309869054
+  repository: 574534248
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-05-06 21:51:22.129389188 Z
+  _version: 0.10.1/0.42.0/
+  latest: 11452427783
+  repository: 551486781
+  what: events-were-scanned
+  where: github
+- _id: 5
+  _time: 2026-05-06 21:51:22.137269161 Z
+  _version: 0.10.1/0.42.0/
+  name: bibonix
+  what: who-has-name
+  when: 2026-05-06 21:51:22.137402773 Z
+  where: github
+  who: 9535539
+- _id: 6
+  _time: 2026-05-06 21:51:22.138860587 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2026-05-06 21:51:22.138987348 Z
+  where: github
+  who: 526301
+- _id: 7
+  _time: 2026-05-06 21:51:22.143616929 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-08 21:51:22.143736639 Z
+  what: quality-of-service
+  when: 2026-05-06 21:51:22.143714375 Z
+- _id: 8
+  _time: 2026-05-06 21:51:22.145137769 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-06 21:27:51.932346846 Z
+  when: 2026-05-06 21:51:22.145209847 Z
+- _id: 9
+  _time: 2026-05-06 21:51:22.147713136 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-08 21:51:22.147814028 Z
+  what: quantity-of-deliverables
+  when: 2026-05-06 21:51:22.147791875 Z
