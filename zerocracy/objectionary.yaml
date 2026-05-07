@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/phie: 403 - API rate limit
+    exceeded for 52.160.149.135. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 9.795738299
+  seconds: 74.758042854
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-07 00:41:41.091873851 Z
+  when: 2026-05-07 01:40:08.000129414 Z
 - _id: 1
-  _time: 2026-05-07 00:41:41.076769143 Z
+  _time: 2026-05-07 01:40:07.989347917 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-09 01:40:07.989502359 Z
+  what: quality-of-service
+  when: 2026-05-07 01:40:07.989476701 Z
+- _id: 2
+  _time: 2026-05-07 01:40:07.997346109 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-09 01:40:07.997453791 Z
+  what: quantity-of-deliverables
+  when: 2026-05-07 01:40:07.997435353 Z
+- _id: 3
+  _time: 2026-05-07 01:40:07.998359413 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-07 00:41:41.076916481 Z
-- _id: 2
-  _time: 2026-05-07 00:41:41.087778585 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-09 00:41:41.087909999 Z
-  what: quantity-of-deliverables
-  when: 2026-05-07 00:41:41.087881507 Z
-- _id: 3
-  _time: 2026-05-07 00:41:41.090614211 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-09 00:41:41.090742551 Z
-  what: quality-of-service
-  when: 2026-05-07 00:41:41.090713228 Z
+  when: 2026-05-07 01:40:07.998421416 Z
