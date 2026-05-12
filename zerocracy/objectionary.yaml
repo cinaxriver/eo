@@ -2,25 +2,33 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 11.552418006
+  seconds: 18.283398791
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-12 08:22:07.039742195 Z
+  when: 2026-05-12 09:24:23.671922902 Z
 - _id: 1
-  _time: 2026-05-12 08:22:07.025289336 Z
+  _time: 2026-05-12 09:24:22.597939509 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-14 08:22:07.025529263 Z
-  what: quantity-of-deliverables
-  when: 2026-05-12 08:22:07.025486232 Z
+  latest: 0
+  repository: 531151981
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2026-05-12 08:22:07.032972661 Z
+  _time: 2026-05-12 09:24:23.659297076 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-14 08:22:07.033222346 Z
+  since: 2026-04-14 09:24:23.659458018 Z
   what: quality-of-service
-  when: 2026-05-12 08:22:07.033163306 Z
+  when: 2026-05-12 09:24:23.659421894 Z
 - _id: 3
-  _time: 2026-05-12 08:22:07.037202416 Z
+  _time: 2026-05-12 09:24:23.663867409 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-14 09:24:23.664012868 Z
+  what: quantity-of-deliverables
+  when: 2026-05-12 09:24:23.663980179 Z
+- _id: 4
+  _time: 2026-05-12 09:24:23.670861102 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-12 08:22:07.037283167 Z
+  when: 2026-05-12 09:24:23.670938639 Z
