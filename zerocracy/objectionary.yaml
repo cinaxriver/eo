@@ -3,24 +3,117 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 10.275701816
+  seconds: 18.64516497
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-15 01:40:11.907428845 Z
+  when: 2026-05-15 03:10:57.988845786 Z
 - _id: 1
-  _time: 2026-05-15 01:40:11.897831241 Z
+  _time: 2026-05-15 03:10:55.583880891 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/micromap-0.x
+  details: The pull request objectionary/sodg.rs#253 has been opened by @renovate[bot].
+  event_id: 8842927231
+  event_type: PullRequestEvent
+  issue: 253
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 19:34:00.000000000 Z
+  where: github
+  who: 29139614
+- _id: 2
+  _time: 2026-05-15 03:10:55.766887831 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/sodg.rs#252 has been opened by @renovate[bot].
+  event_id: 8842893987
+  event_type: PullRequestEvent
+  issue: 252
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 19:33:01.000000000 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2026-05-15 03:10:55.772942914 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/tempfile-3.x-lockfile
+  details: The pull request objectionary/sodg.rs#251 has been opened by @renovate[bot].
+  event_id: 8829942153
+  event_type: PullRequestEvent
+  issue: 251
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 13:42:16.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2026-05-15 03:10:55.785661552 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/rustc-hash-2.x-lockfile
+  details: The pull request objectionary/sodg.rs#250 has been opened by @renovate[bot].
+  event_id: 8829936394
+  event_type: PullRequestEvent
+  issue: 250
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 13:42:07.000000000 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2026-05-15 03:10:55.799645116 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/predicates-3.x-lockfile
+  details: The pull request objectionary/sodg.rs#249 has been opened by @renovate[bot].
+  event_id: 8821264445
+  event_type: PullRequestEvent
+  issue: 249
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 09:44:55.000000000 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2026-05-15 03:10:55.808663919 Z
+  _version: 0.10.1/0.42.0/
+  branch: renovate/anyhow-1.x-lockfile
+  details: The pull request objectionary/sodg.rs#248 has been opened by @renovate[bot].
+  event_id: 8821257830
+  event_type: PullRequestEvent
+  issue: 248
+  repository: 543969974
+  what: pull-was-opened
+  when: 2026-04-27 09:44:44.000000000 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2026-05-15 03:10:57.969729981 Z
+  _version: 0.10.1/0.42.0/
+  latest: 9467308328
+  repository: 543969974
+  what: events-were-scanned
+  where: github
+- _id: 8
+  _time: 2026-05-15 03:10:57.975421673 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-17 03:10:57.975779506 Z
+  what: quantity-of-deliverables
+  when: 2026-05-15 03:10:57.975501444 Z
+- _id: 9
+  _time: 2026-05-15 03:10:57.981871099 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-05-15 03:10:57.982006124 Z
+  where: github
+  who: 29139614
+- _id: 10
+  _time: 2026-05-15 03:10:57.983877721 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-17 03:10:57.983973355 Z
+  what: quality-of-service
+  when: 2026-05-15 03:10:57.983951823 Z
+- _id: 11
+  _time: 2026-05-15 03:10:57.986677925 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-15 01:40:11.897970891 Z
-- _id: 2
-  _time: 2026-05-15 01:40:11.903003934 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-17 01:40:11.903149803 Z
-  what: quality-of-service
-  when: 2026-05-15 01:40:11.903118666 Z
-- _id: 3
-  _time: 2026-05-15 01:40:11.904839326 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-17 01:40:11.904933607 Z
-  what: quantity-of-deliverables
-  when: 2026-05-15 01:40:11.904911925 Z
+  when: 2026-05-15 03:10:57.986752248 Z
