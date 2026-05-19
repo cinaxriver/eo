@@ -1,62 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1449">
+<fb version="0.9.6" size="790">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.273749658</seconds>
+    <seconds t="F">9.396070088</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-05-19T22:55:19Z</when>
+    <when t="T">2026-05-19T23:28:15Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-05-19T22:55:19Z</_time>
+    <_time t="T">2026-05-19T23:28:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">coverage</branch>
-    <details t="S">The pull request objectionary/hone-maven-plugin#597 has been opened by @github-actions[bot].</details>
-    <event_id t="I">9654194039</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">597</issue>
-    <repository t="I">840332960</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-05-19T19:11:20Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <since t="T">2026-04-21T23:28:15Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-05-19T23:28:15Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-05-19T22:55:19Z</_time>
+    <_time t="T">2026-05-19T23:28:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-05-19T22:55:19Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-05-19T23:28:15Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-05-19T22:55:19Z</_time>
+    <_time t="T">2026-05-19T23:28:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-04-21T22:55:19Z</since>
+    <since t="T">2026-04-21T23:28:15Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-05-19T22:55:19Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-05-19T22:55:19Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-04-21T22:55:19Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-05-19T22:55:19Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-05-19T22:55:19Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-05-19T22:55:19Z</when>
+    <when t="T">2026-05-19T23:28:15Z</when>
   </f>
 </fb>
