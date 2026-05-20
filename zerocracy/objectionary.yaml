@@ -2,104 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 14.166100522
+  seconds: 14.241085293
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-20 03:10:51.584078246 Z
+  when: 2026-05-20 04:53:45.610522274 Z
 - _id: 1
-  _time: 2026-05-20 03:10:51.019487399 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/lints#869 has been opened by @volodya-lombrozo.
-  event_id: 9593798316
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 869
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-05-18 14:46:02.000000000 Z
-  where: github
-  who: 51804353
-- _id: 2
-  _time: 2026-05-20 03:10:51.052442225 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/lints#866 has been closed by @volodya-lombrozo.
-  event_id: 9593488787
-  event_type: IssuesEvent
-  issue: 866
-  repository: 889819508
-  what: issue-was-closed
-  when: 2026-05-18 14:38:49.000000000 Z
-  where: github
-  who: 51804353
-- _id: 3
-  _time: 2026-05-20 03:10:51.060769784 Z
-  _version: 0.10.1/0.42.0/
-  branch: 867-fix-test-timeout
-  details: The pull request objectionary/lints#868 has been opened by @volodya-lombrozo.
-  event_id: 9593162307
-  event_type: PullRequestEvent
-  issue: 868
-  repository: 889819508
-  what: pull-was-opened
-  when: 2026-05-18 14:31:05.000000000 Z
-  where: github
-  who: 51804353
-- _id: 4
-  _time: 2026-05-20 03:10:51.070211627 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/lints#867 has been opened by @volodya-lombrozo.
-  event_id: 9590558313
-  event_type: IssuesEvent
-  issue: 867
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-05-18 13:32:30.000000000 Z
-  where: github
-  who: 51804353
-- _id: 5
-  _time: 2026-05-20 03:10:51.083980184 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/lints#866 has been opened by @morphqdd.
-  event_id: 9522201072
-  event_type: IssuesEvent
-  issue: 866
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-05-15 20:33:23.000000000 Z
-  where: github
-  who: 125282851
-- _id: 6
-  _time: 2026-05-20 03:10:51.570479929 Z
-  _version: 0.10.1/0.42.0/
-  name: volodya-lombrozo
-  what: who-has-name
-  when: 2026-05-20 03:10:51.570648702 Z
-  where: github
-  who: 51804353
-- _id: 7
-  _time: 2026-05-20 03:10:51.571457195 Z
-  _version: 0.10.1/0.42.0/
-  name: morphqdd
-  what: who-has-name
-  when: 2026-05-20 03:10:51.572038578 Z
-  where: github
-  who: 125282851
-- _id: 8
-  _time: 2026-05-20 03:10:51.577470708 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-22 03:10:51.577573472 Z
-  what: quality-of-service
-  when: 2026-05-20 03:10:51.577551068 Z
-- _id: 9
-  _time: 2026-05-20 03:10:51.580797151 Z
+  _time: 2026-05-20 04:53:45.600639120 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-20 03:10:51.580875398 Z
-- _id: 10
-  _time: 2026-05-20 03:10:51.582293837 Z
+  when: 2026-05-20 04:53:45.600777893 Z
+- _id: 2
+  _time: 2026-05-20 04:53:45.604926185 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-22 03:10:51.582389331 Z
+  since: 2026-04-22 04:53:45.605057979 Z
   what: quantity-of-deliverables
-  when: 2026-05-20 03:10:51.582367558 Z
+  when: 2026-05-20 04:53:45.605029708 Z
+- _id: 3
+  _time: 2026-05-20 04:53:45.608748817 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-22 04:53:45.608879657 Z
+  what: quality-of-service
+  when: 2026-05-20 04:53:45.608850242 Z
