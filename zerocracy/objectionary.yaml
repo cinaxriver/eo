@@ -2,29 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/phino: 403 - API rate limit
-    exceeded for 52.250.210.71. (But here''s the good news: Authenticated requests
-    get a higher rate limit. Check out the documentation for more details.) // See:
-    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 75.70635312
+  seconds: 21.163454701
   version: 0.42.0
   what: judges-summary
-  when: 2026-05-28 22:11:02.209680607 Z
+  when: 2026-05-28 22:59:17.585917291 Z
 - _id: 1
-  _time: 2026-05-28 22:11:02.201944135 Z
+  _time: 2026-05-28 22:59:17.577513164 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-04-30 22:11:02.202087260 Z
-  what: quantity-of-deliverables
-  when: 2026-05-28 22:11:02.202061301 Z
-- _id: 2
-  _time: 2026-05-28 22:11:02.203974288 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-04-30 22:11:02.204071854 Z
+  since: 2026-04-30 22:59:17.577605523 Z
   what: quality-of-service
-  when: 2026-05-28 22:11:02.204048449 Z
-- _id: 3
-  _time: 2026-05-28 22:11:02.205927634 Z
+  when: 2026-05-28 22:59:17.577586715 Z
+- _id: 2
+  _time: 2026-05-28 22:59:17.579377760 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-05-28 22:11:02.205986603 Z
+  when: 2026-05-28 22:59:17.579438341 Z
+- _id: 3
+  _time: 2026-05-28 22:59:17.583510049 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-04-30 22:59:17.583587415 Z
+  what: quantity-of-deliverables
+  when: 2026-05-28 22:59:17.583569719 Z
