@@ -2,26 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge github-events stopped by timeout after 3m0s: execution expired'
+  error: 'GET https://api.github.com/repos/objectionary/phie: 403 - API rate limit
+    exceeded for 52.159.247.65. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 180.020889796
+  seconds: 73.981608579
   version: 0.42.0
   what: judges-summary
-  when: 2026-06-05 22:37:30.104872757 Z
+  when: 2026-06-05 23:30:42.852588911 Z
 - _id: 1
-  _time: 2026-06-05 22:37:30.091932596 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-05-08 22:37:30.092117054 Z
-  what: quantity-of-deliverables
-  when: 2026-06-05 22:37:30.092082832 Z
-- _id: 2
-  _time: 2026-06-05 22:37:30.094668461 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-05-08 22:37:30.094799789 Z
-  what: quality-of-service
-  when: 2026-06-05 22:37:30.094771967 Z
-- _id: 3
-  _time: 2026-06-05 22:37:30.102201740 Z
+  _time: 2026-06-05 23:30:42.759912671 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-06-05 22:37:30.102280128 Z
+  when: 2026-06-05 23:30:42.760134038 Z
+- _id: 2
+  _time: 2026-06-05 23:30:42.844288060 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-05-08 23:30:42.844447430 Z
+  what: quantity-of-deliverables
+  when: 2026-06-05 23:30:42.844413727 Z
+- _id: 3
+  _time: 2026-06-05 23:30:42.851269550 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-05-08 23:30:42.851414372 Z
+  what: quality-of-service
+  when: 2026-06-05 23:30:42.851381520 Z
