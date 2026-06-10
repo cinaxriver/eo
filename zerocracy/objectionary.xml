@@ -1,36 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="791">
+<fb version="0.9.6" size="1657">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">13.26030641</seconds>
+    <seconds t="F">13.619503807</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-06-10T14:09:00Z</when>
+    <when t="T">2026-06-10T15:47:08Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-06-10T14:09:00Z</_time>
+    <_time t="T">2026-06-10T15:47:06Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-05-13T14:09:00Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-06-10T14:09:00Z</when>
+    <commit t="S">07bba2e3644401b3013cd6a4f2ad4c4a1972f5ad</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #35317365678 has arrived to objectionary/reducing-programs-to-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">13027848301</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">35317365678</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">493235807</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-06-09T04:56:53Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-06-10T14:09:00Z</_time>
+    <_time t="T">2026-06-10T15:47:08Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-05-13T14:09:00Z</since>
+    <since t="T">2026-05-13T15:47:08Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-06-10T14:09:00Z</when>
+    <when t="T">2026-06-10T15:47:08Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-06-10T14:09:00Z</_time>
+    <_time t="T">2026-06-10T15:47:08Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2026-05-13T15:47:08Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-06-10T15:47:08Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-06-10T15:47:08Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-06-10T15:47:08Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-06-10T15:47:08Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-06-10T14:09:00Z</when>
+    <when t="T">2026-06-10T15:47:08Z</when>
   </f>
 </fb>
