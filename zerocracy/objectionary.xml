@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="794">
+<fb version="0.9.6" size="839">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '+' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.326677848</seconds>
+    <seconds t="F">9.792092972</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-06-13T21:56:02Z</when>
+    <when t="T">2026-06-13T22:25:38Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-06-13T21:56:02Z</_time>
+    <_time t="T">2026-06-13T22:25:38Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-05-16T21:56:02Z</since>
+    <since t="T">2026-05-16T22:25:38Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-06-13T21:56:02Z</when>
+    <when t="T">2026-06-13T22:25:38Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-06-13T21:56:02Z</_time>
+    <_time t="T">2026-06-13T22:25:38Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-05-16T21:56:02Z</since>
+    <since t="T">2026-05-16T22:25:38Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-06-13T21:56:02Z</when>
+    <when t="T">2026-06-13T22:25:38Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-06-13T21:56:02Z</_time>
+    <_time t="T">2026-06-13T22:25:38Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-06-13T21:56:02Z</when>
+    <when t="T">2026-06-13T22:25:38Z</when>
   </f>
 </fb>
