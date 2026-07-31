@@ -3,24 +3,57 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 14.83630302
+  seconds: 12.893550622
   version: 0.42.0
   what: judges-summary
-  when: 2026-07-31 17:04:25.860726355 Z
+  when: 2026-07-31 18:53:04.750114073 Z
 - _id: 1
-  _time: 2026-07-31 17:04:25.848537240 Z
+  _time: 2026-07-31 18:53:04.402644321 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-03 17:04:25.848737550 Z
-  what: quality-of-service
-  when: 2026-07-31 17:04:25.848673925 Z
+  commit: 1d85ca911338ce35ef8c8067e10c9bf8b30ba6d6
+  default_branch: master
+  details: 'A new Git push #37975457077 has arrived to objectionary/objectionary.github.io,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 15681376845
+  event_type: PushEvent
+  push_id: 37975457077
+  ref: refs/heads/master
+  repository: 490157985
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-24 04:33:44.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2026-07-31 17:04:25.856348418 Z
+  _time: 2026-07-31 18:53:04.728091079 Z
+  _version: 0.10.1/0.42.0/
+  latest: 12239777374
+  repository: 490157985
+  what: events-were-scanned
+  where: github
+- _id: 3
+  _time: 2026-07-31 18:53:04.733168706 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-03 18:53:04.733280675 Z
+  what: quality-of-service
+  when: 2026-07-31 18:53:04.733255508 Z
+- _id: 4
+  _time: 2026-07-31 18:53:04.736661601 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-07-31 17:04:25.856430221 Z
-- _id: 3
-  _time: 2026-07-31 17:04:25.858668428 Z
+  when: 2026-07-31 18:53:04.736740579 Z
+- _id: 5
+  _time: 2026-07-31 18:53:04.743556089 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-03 17:04:25.858801638 Z
+  name: yegor256
+  what: who-has-name
+  when: 2026-07-31 18:53:04.743700348 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2026-07-31 18:53:04.748992895 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-03 18:53:04.749097430 Z
   what: quantity-of-deliverables
-  when: 2026-07-31 17:04:25.858778413 Z
+  when: 2026-07-31 18:53:04.749073575 Z
