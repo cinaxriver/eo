@@ -1,73 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1722">
+<fb version="0.9.6" size="1114">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">GET https://api.github.com/repos/objectionary/sodg.rs: 403 - API rate limit exceeded for 52.234.47.115. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.893550622</seconds>
+    <seconds t="F">179.583262505</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-07-31T18:53:04Z</when>
+    <when t="T">2026-07-31T20:21:55Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
+    <_time t="T">2026-07-31T20:21:55Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">1d85ca911338ce35ef8c8067e10c9bf8b30ba6d6</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #37975457077 has arrived to objectionary/objectionary.github.io, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">15681376845</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">37975457077</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490157985</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2026-07-24T04:33:44Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2026-07-03T20:21:55Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-07-31T20:21:55Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
+    <_time t="T">2026-07-31T20:21:55Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">12239777374</latest>
-    <repository t="I">490157985</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-07-31T20:21:55Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
+    <_time t="T">2026-07-31T20:21:55Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-03T18:53:04Z</since>
+    <since t="T">2026-07-03T20:21:55Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-07-31T18:53:04Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-07-31T18:53:04Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-07-31T18:53:04Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-07-31T18:53:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-03T18:53:04Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-07-31T18:53:04Z</when>
+    <when t="T">2026-07-31T20:21:55Z</when>
   </f>
 </fb>
