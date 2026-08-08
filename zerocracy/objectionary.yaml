@@ -2,47 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge github-events stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 180.017596229
+  seconds: 19.900886357
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-08 22:29:45.097343780 Z
+  when: 2026-08-08 22:58:36.050474923 Z
 - _id: 1
-  _time: 2026-08-08 22:28:54.717440648 Z
+  _time: 2026-08-08 22:58:36.040801700 Z
   _version: 0.10.1/0.42.0/
-  branch: fix/issue-1216-apostrophe-in-unlint
-  details: The pull request objectionary/lints#1223 has been opened by @vasilevnstas.
-  event_id: 12985595145
-  event_type: PullRequestEvent
-  issue: 1223
-  repository: 889819508
-  what: pull-was-opened
-  when: 2026-08-08 21:34:45.000000000 Z
-  where: github
-  who: 33578155
+  since: 2026-07-11 22:58:36.040938366 Z
+  what: quantity-of-deliverables
+  when: 2026-08-08 22:58:36.040913799 Z
 - _id: 2
-  _time: 2026-08-08 22:29:45.088651443 Z
+  _time: 2026-08-08 22:58:36.042192597 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-08 22:29:45.088737503 Z
+  when: 2026-08-08 22:58:36.042266999 Z
 - _id: 3
-  _time: 2026-08-08 22:29:45.090614501 Z
+  _time: 2026-08-08 22:58:36.046192437 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-11 22:29:45.090763063 Z
+  since: 2026-07-11 22:58:36.046288862 Z
   what: quality-of-service
-  when: 2026-08-08 22:29:45.090690719 Z
-- _id: 4
-  _time: 2026-08-08 22:29:45.093401522 Z
-  _version: 0.10.1/0.42.0/
-  name: vasilevnstas
-  what: who-has-name
-  when: 2026-08-08 22:29:45.093552096 Z
-  where: github
-  who: 33578155
-- _id: 5
-  _time: 2026-08-08 22:29:45.096228568 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-11 22:29:45.096319665 Z
-  what: quantity-of-deliverables
-  when: 2026-08-08 22:29:45.096300016 Z
+  when: 2026-08-08 22:58:36.046267460 Z
