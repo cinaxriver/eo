@@ -1,130 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2712">
+<fb version="0.9.6" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">191.455875175</seconds>
+    <seconds t="F">13.758118721</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-08-09T22:43:59Z</when>
+    <when t="T">2026-08-09T23:29:47Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-08-09T22:40:58Z</_time>
+    <_time t="T">2026-08-09T23:29:47Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/com.qulice-qulice-maven-plugin-0.x</branch>
-    <details t="S">The pull request objectionary/opeo-maven-plugin#522 has been opened by @renovate[bot].</details>
-    <event_id t="I">12358599388</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">522</issue>
-    <repository t="I">721146770</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-27T14:37:02Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2026-07-12T23:29:47Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-08-09T23:29:47Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
+    <_time t="T">2026-08-09T23:29:47Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/actions-checkout-digest</branch>
-    <details t="S">The pull request objectionary/opeo-maven-plugin#521 has been opened by @renovate[bot].</details>
-    <event_id t="I">12056146986</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">521</issue>
-    <repository t="I">721146770</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-21T03:00:50Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2026-07-12T23:29:47Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-08-09T23:29:47Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">17115867857</latest>
-    <repository t="I">721146770</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/com.jcabi-parent-0.x</branch>
-    <details t="S">The pull request objectionary/eo-http#46 has been opened by @renovate[bot].</details>
-    <event_id t="I">12562256063</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">46</issue>
-    <repository t="I">570457023</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-30T23:08:42Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/actions-checkout-digest</branch>
-    <details t="S">The pull request objectionary/eo-http#45 has been opened by @renovate[bot].</details>
-    <event_id t="I">12040067308</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">45</issue>
-    <repository t="I">570457023</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-20T19:00:06Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">16311284099</latest>
-    <repository t="I">570457023</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-12T22:40:59Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-08-09T22:40:59Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
+    <_time t="T">2026-08-09T23:29:47Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-08-09T22:40:59Z</when>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <is_human t="I">0</is_human>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-08-09T22:40:59Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2026-08-09T22:40:59Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-12T22:40:59Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-08-09T22:40:59Z</when>
+    <when t="T">2026-08-09T23:29:47Z</when>
   </f>
 </fb>
