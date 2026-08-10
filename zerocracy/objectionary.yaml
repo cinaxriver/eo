@@ -3,24 +3,77 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 11.12802136
+  seconds: 16.021649188
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-10 18:54:50.800860506 Z
+  when: 2026-08-10 19:54:42.955245085 Z
 - _id: 1
-  _time: 2026-08-10 18:54:50.793595562 Z
+  _time: 2026-08-10 19:54:42.206780454 Z
+  _version: 0.10.1/0.42.0/
+  branch: benchmark
+  details: The pull request objectionary/sabj25#31 has been opened by @github-actions[bot].
+  event_id: 12233077594
+  event_type: PullRequestEvent
+  issue: 31
+  repository: 1260338737
+  what: pull-was-opened
+  when: 2026-07-24 05:31:28.000000000 Z
+  where: github
+  who: 41898282
+- _id: 2
+  _time: 2026-08-10 19:54:42.374764304 Z
+  _version: 0.10.1/0.42.0/
+  commit: 7fe7e1ea9d7f9631ecd77757a9384fd8fe406fda
+  default_branch: master
+  details: 'A new Git push #37975463774 has arrived to objectionary/sabj25, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 15681383369
+  event_type: PushEvent
+  push_id: 37975463774
+  ref: refs/heads/master
+  repository: 1260338737
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-07-24 04:33:53.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2026-08-10 19:54:42.934450827 Z
+  _version: 0.10.1/0.42.0/
+  latest: 12239775879
+  repository: 1260338737
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-08-10 19:54:42.942632019 Z
+  _version: 0.10.1/0.42.0/
+  name: github-actions[bot]
+  what: who-has-name
+  when: 2026-08-10 19:54:42.942777849 Z
+  where: github
+  who: 41898282
+- _id: 5
+  _time: 2026-08-10 19:54:42.943600060 Z
+  _version: 0.10.1/0.42.0/
+  name: yegor256
+  what: who-has-name
+  when: 2026-08-10 19:54:42.943725129 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2026-08-10 19:54:42.948833248 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-13 19:54:42.948934511 Z
+  what: quantity-of-deliverables
+  when: 2026-08-10 19:54:42.948911416 Z
+- _id: 7
+  _time: 2026-08-10 19:54:42.950323257 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-10 18:54:50.793800564 Z
-- _id: 2
-  _time: 2026-08-10 18:54:50.797043696 Z
+  when: 2026-08-10 19:54:42.950448786 Z
+- _id: 8
+  _time: 2026-08-10 19:54:42.952754185 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-13 18:54:50.797181542 Z
+  since: 2026-07-13 19:54:42.952851803 Z
   what: quality-of-service
-  when: 2026-08-10 18:54:50.797148992 Z
-- _id: 3
-  _time: 2026-08-10 18:54:50.798893722 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-13 18:54:50.798991213 Z
-  what: quantity-of-deliverables
-  when: 2026-08-10 18:54:50.798968752 Z
+  when: 2026-08-10 19:54:42.952828778 Z
