@@ -1,36 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="790">
+<fb version="0.9.6" size="1538">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">0.734346633</seconds>
+    <seconds t="F">15.852358818</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-08-12T07:21:33Z</when>
+    <when t="T">2026-08-12T08:47:31Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-08-12T07:21:33Z</_time>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-08-12T07:21:33Z</when>
+    <branch t="S">renovate/com.jcabi-parent-0.x</branch>
+    <details t="S">The pull request objectionary/eo-json#52 has been opened by @renovate[bot].</details>
+    <event_id t="I">12559051379</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">52</issue>
+    <repository t="I">482612876</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-30T21:33:55Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-08-12T07:21:33Z</_time>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-15T07:21:33Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-08-12T07:21:33Z</when>
+    <latest t="I">16321778977</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-08-12T07:21:33Z</_time>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-15T07:21:33Z</since>
+    <name t="S">renovate[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-08-12T08:47:31Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2026-07-15T08:47:31Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-08-12T08:47:31Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-08-12T08:47:31Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-08-12T08:47:31Z</_time>
+    <_version t="S">0.10.1/0.42.0/</_version>
+    <since t="T">2026-07-15T08:47:31Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-08-12T07:21:33Z</when>
+    <when t="T">2026-08-12T08:47:31Z</when>
   </f>
 </fb>
