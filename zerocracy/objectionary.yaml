@@ -3,52 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 15.852358818
+  seconds: 14.568584545
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-12 08:47:31.772569534 Z
+  when: 2026-08-12 10:01:34.558701899 Z
 - _id: 1
-  _time: 2026-08-12 08:47:31.560865693 Z
+  _time: 2026-08-12 10:01:34.544561925 Z
   _version: 0.10.1/0.42.0/
-  branch: renovate/com.jcabi-parent-0.x
-  details: The pull request objectionary/eo-json#52 has been opened by @renovate[bot].
-  event_id: 12559051379
-  event_type: PullRequestEvent
-  issue: 52
-  repository: 482612876
-  what: pull-was-opened
-  when: 2026-07-30 21:33:55.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-08-12 08:47:31.754453569 Z
-  _version: 0.10.1/0.42.0/
-  latest: 16321778977
-  repository: 482612876
-  what: events-were-scanned
-  where: github
-- _id: 3
-  _time: 2026-08-12 08:47:31.758536048 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-08-12 08:47:31.758664491 Z
-  where: github
-  who: 29139614
-- _id: 4
-  _time: 2026-08-12 08:47:31.762466493 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-15 08:47:31.762562482 Z
+  since: 2026-07-15 10:01:34.544750355 Z
   what: quality-of-service
-  when: 2026-08-12 08:47:31.762540795 Z
-- _id: 5
-  _time: 2026-08-12 08:47:31.765598668 Z
+  when: 2026-08-12 10:01:34.544712004 Z
+- _id: 2
+  _time: 2026-08-12 10:01:34.548505806 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-15 10:01:34.548606263 Z
+  what: quantity-of-deliverables
+  when: 2026-08-12 10:01:34.548583852 Z
+- _id: 3
+  _time: 2026-08-12 10:01:34.555617890 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-12 08:47:31.765670977 Z
-- _id: 6
-  _time: 2026-08-12 08:47:31.770504409 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-15 08:47:31.770633780 Z
-  what: quantity-of-deliverables
-  when: 2026-08-12 08:47:31.770612606 Z
+  when: 2026-08-12 10:01:34.555694112 Z
