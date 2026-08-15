@@ -2,78 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error:
-  - undefined method '[]' for nil
-  - 'Judge dimensions-of-terrain stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 208.312937903
+  seconds: 15.78661882
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-15 18:59:56.861756290 Z
+  when: 2026-08-15 19:21:28.996709571 Z
 - _id: 1
-  _time: 2026-08-15 18:56:43.745024305 Z
+  _time: 2026-08-15 19:21:28.991639424 Z
   _version: 0.10.1/0.42.0/
-  commits: 648
-  contributors:
-  - 526301
-  - 29139614
-  - 81847
-  - 8086956
-  details: A new release 'Package hardcodes orange, with no option to suppress it'
-    has been published in objectionary/eolang.sty by @rultor.
-  event_id: 13112315556
-  event_type: ReleaseEvent
-  hoc: 4118
-  last_commit: cd6ac8aa1aaf6940bec7a7f7cd073c1fecb31108
-  release: 368662178
-  repository: 546194972
-  tag: 0.24.0
-  what: release-published
-  when: 2026-08-11 15:15:38.000000000 Z
-  where: github
-  who: 8086956
+  since: 2026-07-18 19:21:28.991822827 Z
+  what: quality-of-service
+  when: 2026-08-15 19:21:28.991785337 Z
 - _id: 2
-  _time: 2026-08-15 18:56:52.480454360 Z
-  _version: 0.10.1/0.42.0/
-  details: The issue objectionary/eolang.sty#153 has been closed by @yegor256.
-  event_id: 13111737608
-  event_type: IssuesEvent
-  issue: 153
-  repository: 546194972
-  what: issue-was-closed
-  when: 2026-08-11 15:05:24.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2026-08-15 18:56:52.496146349 Z
+  _time: 2026-08-15 19:21:28.993323088 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-15 18:56:52.496229152 Z
-- _id: 4
-  _time: 2026-08-15 18:59:52.502823841 Z
+  when: 2026-08-15 19:21:28.993402586 Z
+- _id: 3
+  _time: 2026-08-15 19:21:28.995694947 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-18 18:59:52.502941649 Z
+  since: 2026-07-18 19:21:28.995793711 Z
   what: quantity-of-deliverables
-  when: 2026-08-15 18:59:52.502916513 Z
-- _id: 5
-  _time: 2026-08-15 18:59:52.506449304 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-18 18:59:52.506552606 Z
-  what: quality-of-service
-  when: 2026-08-15 18:59:52.506525215 Z
-- _id: 6
-  _time: 2026-08-15 18:59:56.728071779 Z
-  _version: 0.10.1/0.42.0/
-  name: rultor
-  what: who-has-name
-  when: 2026-08-15 18:59:56.728282000 Z
-  where: github
-  who: 8086956
-- _id: 7
-  _time: 2026-08-15 18:59:56.859487777 Z
-  _version: 0.10.1/0.42.0/
-  name: yegor256
-  what: who-has-name
-  when: 2026-08-15 18:59:56.859666951 Z
-  where: github
-  who: 526301
+  when: 2026-08-15 19:21:28.995770448 Z
