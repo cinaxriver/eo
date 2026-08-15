@@ -2,47 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 18.489405384
+  seconds: 21.253673057
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-15 01:07:07.562972747 Z
+  when: 2026-08-15 02:32:25.578976818 Z
 - _id: 1
-  _time: 2026-08-15 01:07:06.310357106 Z
-  _version: 0.10.1/0.42.0/
-  branch: renovate/reviewdog-action-actionlint-1.x
-  details: The pull request objectionary/jucs#106 has been opened by @renovate[bot].
-  event_id: 13303102756
-  event_type: PullRequestEvent
-  issue: 106
-  repository: 574459304
-  what: pull-was-opened
-  when: 2026-08-14 17:54:17.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-08-15 01:07:07.548982123 Z
-  _version: 0.10.1/0.42.0/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-08-15 01:07:07.549123158 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2026-08-15 01:07:07.552731352 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-18 01:07:07.552832202 Z
-  what: quantity-of-deliverables
-  when: 2026-08-15 01:07:07.552808617 Z
-- _id: 4
-  _time: 2026-08-15 01:07:07.555344348 Z
-  _version: 0.10.1/0.42.0/
-  since: 2026-07-18 01:07:07.555441991 Z
-  what: quality-of-service
-  when: 2026-08-15 01:07:07.555418698 Z
-- _id: 5
-  _time: 2026-08-15 01:07:07.558396809 Z
+  _time: 2026-08-15 02:32:25.567493727 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-15 01:07:07.558473803 Z
+  when: 2026-08-15 02:32:25.567650235 Z
+- _id: 2
+  _time: 2026-08-15 02:32:25.569747097 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-18 02:32:25.569920018 Z
+  what: quantity-of-deliverables
+  when: 2026-08-15 02:32:25.569885277 Z
+- _id: 3
+  _time: 2026-08-15 02:32:25.575171577 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-18 02:32:25.575312466 Z
+  what: quality-of-service
+  when: 2026-08-15 02:32:25.575284068 Z
