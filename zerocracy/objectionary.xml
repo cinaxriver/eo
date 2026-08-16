@@ -1,98 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2191">
+<fb version="0.9.6" size="787">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">24.663964836</seconds>
+    <seconds t="F">16.017486576</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
+    <when t="T">2026-08-16T21:18:08Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-08-16T20:47:36Z</_time>
+    <_time t="T">2026-08-16T21:18:08Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">benchmark</branch>
-    <details t="S">The pull request objectionary/sabj25#31 has been opened by @github-actions[bot].</details>
-    <event_id t="I">12233077594</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">31</issue>
-    <repository t="I">1260338737</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-24T05:31:28Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-08-16T21:18:08Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-08-16T20:47:36Z</_time>
+    <_time t="T">2026-08-16T21:18:08Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">7fe7e1ea9d7f9631ecd77757a9384fd8fe406fda</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #37975463774 has arrived to objectionary/sabj25, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">15681383369</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">37975463774</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1260338737</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2026-07-24T04:33:53Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2026-07-19T21:18:08Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-08-16T21:18:08Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
+    <_time t="T">2026-08-16T21:18:08Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">12239775879</latest>
-    <repository t="I">1260338737</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-19T20:47:37Z</since>
+    <since t="T">2026-07-19T21:18:08Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">github-actions[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2026-08-16T20:47:37Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-07-19T20:47:37Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-08-16T20:47:37Z</when>
+    <when t="T">2026-08-16T21:18:08Z</when>
   </f>
 </fb>
