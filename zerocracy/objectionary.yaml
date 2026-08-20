@@ -2,25 +2,47 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '+' for nil
   inserted: 8
-  seconds: 11.329001702
+  seconds: 15.88906947
   version: 0.42.0
   what: judges-summary
-  when: 2026-08-20 06:51:40.430037793 Z
+  when: 2026-08-20 07:40:07.651387799 Z
 - _id: 1
-  _time: 2026-08-20 06:51:40.414319704 Z
+  _time: 2026-08-20 07:40:07.274525880 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-23 06:51:40.414539505 Z
-  what: quality-of-service
-  when: 2026-08-20 06:51:40.414494962 Z
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/game-of-life#59 has been opened by @renovate[bot].
+  event_id: 12719288811
+  event_type: PullRequestEvent
+  issue: 59
+  repository: 501942888
+  what: pull-was-opened
+  when: 2026-08-03 19:50:54.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-08-20 06:51:40.423624379 Z
+  _time: 2026-08-20 07:40:07.639110101 Z
+  _version: 0.10.1/0.42.0/
+  since: 2026-07-23 07:40:07.639205255 Z
+  what: quality-of-service
+  when: 2026-08-20 07:40:07.639185277 Z
+- _id: 3
+  _time: 2026-08-20 07:40:07.643206638 Z
+  _version: 0.10.1/0.42.0/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-08-20 07:40:07.643329608 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2026-08-20 07:40:07.644926440 Z
   _version: 0.10.1/0.42.0/
   what: dimensions-of-terrain
-  when: 2026-08-20 06:51:40.423716712 Z
-- _id: 3
-  _time: 2026-08-20 06:51:40.427115393 Z
+  when: 2026-08-20 07:40:07.644999953 Z
+- _id: 5
+  _time: 2026-08-20 07:40:07.650402997 Z
   _version: 0.10.1/0.42.0/
-  since: 2026-07-23 06:51:40.427226050 Z
+  since: 2026-07-23 07:40:07.650492190 Z
   what: quantity-of-deliverables
-  when: 2026-08-20 06:51:40.427200542 Z
+  when: 2026-08-20 07:40:07.650473569 Z
