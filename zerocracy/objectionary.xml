@@ -1,130 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="2723">
+<fb version="0.9.6" size="794">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">12.309493684</seconds>
+    <seconds t="F">15.639731832</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
+    <when t="T">2026-09-12T23:09:52Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
+    <_time t="T">2026-09-12T23:09:52Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">The issue objectionary/sodg.rs#289 has been opened by @zaguzovmaksim0-hue.</details>
-    <event_id t="I">14815337152</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">289</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2026-09-10T20:38:06Z</when>
-    <where t="S">github</where>
-    <who t="I">251501298</who>
+    <since t="T">2026-08-15T23:09:52Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-09-12T23:09:52Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
+    <_time t="T">2026-09-12T23:09:52Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <details t="S">The issue objectionary/sodg.rs#288 has been opened by @zaguzovmaksim0-hue.</details>
-    <event_id t="I">14814586762</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">288</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2026-09-10T20:24:51Z</when>
-    <where t="S">github</where>
-    <who t="I">251501298</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-09-12T23:09:52Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
+    <_time t="T">2026-09-12T23:09:52Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/rstest-0.x</branch>
-    <details t="S">The pull request objectionary/sodg.rs#287 has been opened by @renovate[bot].</details>
-    <event_id t="I">14531134242</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">287</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-09-06T21:04:39Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/actions-setup-java-6.x</branch>
-    <details t="S">The pull request objectionary/sodg.rs#286 has been opened by @renovate[bot].</details>
-    <event_id t="I">13828360208</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">286</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-08-25T13:03:18Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/log-0.x-lockfile</branch>
-    <details t="S">The pull request objectionary/sodg.rs#285 has been opened by @renovate[bot].</details>
-    <event_id t="I">13690259967</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">285</issue>
-    <repository t="I">543969974</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-08-22T13:49:42Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">zaguzovmaksim0-hue</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
-    <where t="S">github</where>
-    <who t="I">251501298</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-08-15T21:13:10Z</since>
+    <since t="T">2026-08-15T23:09:52Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2026-09-12T21:13:10Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-08-15T21:13:10Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-09-12T21:13:10Z</when>
+    <when t="T">2026-09-12T23:09:52Z</when>
   </f>
 </fb>
