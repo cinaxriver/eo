@@ -1,135 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="3145">
+<fb version="0.9.6" size="793">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">19.398908821</seconds>
+    <seconds t="F">0.874906414</seconds>
     <version t="S">0.42.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
+    <when t="T">2026-09-21T18:16:15Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-09-21T12:01:55Z</_time>
+    <_time t="T">2026-09-21T18:16:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <branch t="S">renovate/ubuntu-26.x</branch>
-    <details t="S">The pull request objectionary/calculus-paper#49 has been opened by @renovate[bot].</details>
-    <event_id t="I">15314714281</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">49</issue>
-    <repository t="I">784310467</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-09-18T19:11:57Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-09-21T18:16:15Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-09-21T12:01:55Z</_time>
+    <_time t="T">2026-09-21T18:16:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">7753c45748b95bfb7dc62cae6c1b90a218ba08ea</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #43838171305 has arrived to objectionary/calculus-paper, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">21390637723</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">43838171305</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">784310467</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2026-09-17T10:41:45Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2026-08-24T18:16:15Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-09-21T18:16:15Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-09-21T12:01:56Z</_time>
+    <_time t="T">2026-09-21T18:16:15Z</_time>
     <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">974c92d4cf00443addae3c5b1aec47c4e9099f73</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #43838294678 has arrived to objectionary/calculus-paper, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">21385752996</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">43838294678</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">784310467</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2026-09-17T10:43:38Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-09-21T12:01:56Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <commit t="S">301f13a5784305f301591b80eb9d5daa13892c28</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #43071020793 has arrived to objectionary/calculus-paper, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">20565522620</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">43071020793</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">784310467</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2026-09-09T11:45:47Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-09-21T12:01:56Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <latest t="I">21617089864</latest>
-    <repository t="I">784310467</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-09-21T12:02:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-09-21T12:02:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2026-09-21T12:02:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-08-24T12:02:04Z</since>
+    <since t="T">2026-08-24T18:16:15Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2026-09-21T12:02:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2026-09-21T12:02:04Z</_time>
-    <_version t="S">0.10.1/0.42.0/</_version>
-    <since t="T">2026-08-24T12:02:04Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-09-21T12:02:04Z</when>
+    <when t="T">2026-09-21T18:16:15Z</when>
   </f>
 </fb>
